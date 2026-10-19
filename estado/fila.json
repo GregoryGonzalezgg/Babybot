@@ -34,17 +34,16 @@
    }
   },
   {
-   "id": "shopee:55205240237",
-   "loja": "Shopee",
-   "texto": "🔥 Camisa Bebê Menino Gola Padre Manga Longa Camisa Infantil Masculina Básica e…\n💰 de R$ 66,50 por R$ 24,90 (-63%)\n⭐ Nota 4,91 | ❤️ 450 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F55205240237&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1792437879.0346396,
-   "expira": false,
+   "id": "amazon:B0DHJ2K36P",
+   "loja": "Amazon",
+   "texto": "🔥 Copo de Transição Philips Avent My Grippy 300ml\n💰 por R$ 54,06\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DHJ2K36P?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792437895.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820lr-mq7fd3aauqkge2"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
