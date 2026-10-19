@@ -3,8 +3,8 @@
 #   2. Shopee: posta a próxima oferta da curadoria (se estiver no horário)
 # O que já foi postado fica salvo em estado/ e volta para o repositório.
 #
-# Por enquanto só roda quando você clica em "Run workflow" (aba Actions).
-# Para rodar sozinho a cada 30 min, tire o "#" das duas linhas do "schedule".
+# Roda sozinho a cada 30 min e também quando você clica em "Run workflow" (aba Actions).
+# Para pausar: aba Actions > Babybot > "..." > Disable workflow.
 name: Babybot
 
 on:
@@ -16,12 +16,13 @@ on:
       intervalo:
         description: "Teste: segundos entre uma oferta e outra"
         default: "60"
-  # schedule:
-  #   - cron: "*/30 * * * *"
+  # roda sozinho a cada 30 min (o GitHub pode atrasar alguns minutos em horários de pico)
+  schedule:
+    - cron: "*/30 * * * *"
 
 # nunca duas rodadas ao mesmo tempo (evitaria posts em dobro)
 concurrency:
-  group: babybot
+  group: babybot-producao
   cancel-in-progress: false
 
 permissions:
