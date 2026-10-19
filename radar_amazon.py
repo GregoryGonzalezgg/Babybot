@@ -1,6 +1,6 @@
 """Radar de ofertas da Amazon a partir de comunidades de ofertas no Telegram.
 
-Lê os canais do Pelando e do Promobit, separa as ofertas da Amazon que são de
+Lê o canal do Promobit (o Pelando bloqueia acesso automático), separa as ofertas da Amazon que são de
 bebê (0 a 5 anos), descobre o código do produto (ASIN) pelo link da comunidade
 e posta com o SEU link de afiliado. Não acessa o site da Amazon: o ASIN vem da
 página de redirecionamento da comunidade.
@@ -21,7 +21,7 @@ from curadoria_shopee import para_ate_5_anos
 from nicho import classificar
 from parser_magalu import CUPOM_RE, PRECO_RE, Oferta, brl
 
-FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "pelandobr,cupons_desconto").split(",") if f.strip()]
+FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "cupons_desconto").split(",") if f.strip()]
 AMAZON_TAG = os.getenv("AMAZON_TAG", "").strip()
 VISTOS_ARQ = radar.DADOS / "vistos_amazon.json"
 ASIN_RE = re.compile(r"/(?:dp|gp/product)/([A-Z0-9]{10})")
@@ -146,6 +146,31 @@ async def rodada(client, enviar):
         print(f"[@{canal}] {novos} posts novos lidos.", flush=True)
 
 
+async def demo(client, quantidade):
+    """Teste de envio: posta N ofertas recentes da Amazon de QUALQUER categoria.
+    Não marca nada como visto. Use com DESTINO apontando para o canal de teste."""
+    enviados = 0
+    for canal in FONTES:
+        async for msg in client.iter_messages(canal, limit=60):
+            texto = msg.message or ""
+            if not eh_amazon(texto):
+                continue
+            links = LINK_RE.findall(texto) + [e.url for e in (msg.entities or []) if getattr(e, "url", None)]
+            asin = next((a for a in (descobrir_asin(l) for l in links[:2]) if a), None)
+            if not asin:
+                continue
+            post = montar_post(montar_oferta(texto), asin)
+            if msg.photo:
+                await radar.enviar_com_foto(client, radar.DESTINO, msg, post)
+            else:
+                await client.send_message(radar.DESTINO, post, link_preview=True)
+            enviados += 1
+            print(f"[{enviados}] @{canal} {asin}: {post.splitlines()[0][:70]}", flush=True)
+            if enviados >= quantidade:
+                return
+            await asyncio.sleep(5)
+
+
 async def teste(client, quantidade):
     vistos = set()
     for canal in FONTES:
@@ -158,7 +183,10 @@ async def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--rodada", action="store_true")
     ap.add_argument("--teste", type=int, metavar="N")
+    ap.add_argument("--demo", type=int, metavar="N", help="envia N ofertas de qualquer categoria (teste de envio)")
     args = ap.parse_args()
+    if args.demo and not AMAZON_TAG:
+        raise SystemExit("Preencha AMAZON_TAG antes do teste de envio.")
 
     enviar = bool(args.rodada and AMAZON_TAG)
     if args.rodada and not AMAZON_TAG:
@@ -169,7 +197,9 @@ async def main():
     if not await client.is_user_authorized():
         raise SystemExit("Telegram sem login: gere a TG_SESSION")
     await client.get_dialogs()
-    if args.teste:
+    if args.demo:
+        await demo(client, args.demo)
+    elif args.teste:
         await teste(client, args.teste)
     else:
         await rodada(client, enviar)
