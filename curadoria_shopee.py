@@ -37,6 +37,48 @@ VAZIAS = {"de", "da", "do", "com", "para", "e", "o", "a", "em", "infantil", "men
           "feminino", "bebe", "kit", "tenis", "unissex", "original", "promocao", "novo", "nova", "ou"}
 MAX_POR_SUBCATEGORIA = 12
 
+# ---- faixa etária: só bebê e criança pequena (0 a 5 anos) ----
+IDADE_MAXIMA = 5
+# subcategorias que já são de bebê por natureza
+SUB_BEBE = {"Baby Clothes", "Feeding Essentials", "Diapering & Potty", "Bath & Body Care", "Nursery",
+            "Baby Travel Essentials", "Baby Healthcare", "Baby Safety", "Baby Mittens & Footwear",
+            "Milk Formula & Baby Food", "Maternity Accessories", "Maternity Healthcare"}
+# nas outras (brinquedos, roupas e calçados infantis), o título precisa indicar bebê/criança pequena
+BEBE = re.compile(r"\b(bebe|bebes|baby|recem nascido|recem-nascido|rn|meses|newborn|toddler|primeiros passos|"
+                  r"maternidade|nenem|berco|mordedor|chocalho|montessori|primeira infancia|infancia)\b")
+# produtos de criança maior ou que não combinam com o nicho
+CRIANCA_MAIOR = re.compile(r"\b(juvenil|teen|adolescente|escolar|reborn|patinete|bicicleta|skate|patins|"
+                           r"cama elastica|trampolim|pula pula|slime|micangas?|maquiagem|parque aquatico|"
+                           r"videogame|celular|lol surprise|barbie|hot wheels|pistola|arma|"
+                           r"adulto|adulta|women|men|mulher|mulheres|homem)\b")
+FAIXA_ANOS = re.compile(r"(\d{1,2})\s*(?:a|ao|-|ate)\s*(\d{1,2})\s*anos")
+IDADE_MINIMA = re.compile(r"(?:\+|acima de |a partir de )(\d{1,2})\s*anos|(\d{1,2})\+\s*anos")
+NUMERACAO = re.compile(r"\b(\d{2})\s*(?:a|ao|-|/)\s*(\d{2})\b")
+
+
+def para_ate_5_anos(r):
+    """True se o produto é para bebê ou criança de até 5 anos."""
+    t = normalizar(r["title"])
+    if CRIANCA_MAIOR.search(t):
+        return False
+    for ini, fim in FAIXA_ANOS.findall(t):
+        ini, fim = int(ini), int(fim)
+        if ini > IDADE_MAXIMA or fim >= 8:  # "6 a 10 anos", "1 a 12 anos" (patinete)
+            return False
+    for a, b in IDADE_MINIMA.findall(t):
+        if int(a or b) > IDADE_MAXIMA:
+            return False
+    sub = r["global_category2"]
+    if "Shoes" in sub:
+        # numeração brasileira: até ~27 é bebê/criança pequena; "20 ao 36" ou "28 a 35" é criança maior
+        for ini, fim in NUMERACAO.findall(t):
+            ini, fim = int(ini), int(fim)
+            if 14 <= ini <= 40 and (ini >= 26 or fim >= 32):
+                return False
+    if sub in SUB_BEBE:
+        return True
+    return bool(BEBE.search(t) or any(int(f) <= IDADE_MAXIMA for _, f in FAIXA_ANOS.findall(t)))
+
 
 def corrigir(texto):
     # o feed mistura UTF-8 com textos em Latin-1; esses viram "surrogates" na leitura
@@ -84,6 +126,8 @@ def carregar_candidatos(caminho_feed):
             if r["global_category1"] not in CATEGORIAS:
                 continue
             r = {k: corrigir(v) for k, v in r.items()}
+            if not para_ate_5_anos(r):
+                continue
             d, nota, likes = num(r["discount_percentage"]), num(r["item_rating"]), num(r["like"])
             if d < 25 or nota < 4.7 or likes < 30 or num(r["shop_rating"]) < 4.6 or num(r["sale_price"]) < 8:
                 continue
