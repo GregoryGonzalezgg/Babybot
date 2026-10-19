@@ -1,6 +1,7 @@
 # Babybot no GitHub Actions: cada execução faz UMA rodada e desliga.
 #   1. radar da Magalu: posta as ofertas de bebê publicadas desde a última rodada
-#   2. Shopee: posta a próxima oferta da curadoria (se estiver no horário)
+#   2. Shopee: renova a lista sozinha quando estiver acabando (feed oficial + curadoria 0-5 anos)
+#      e posta a próxima oferta (se estiver no horário)
 # O que já foi postado fica salvo em estado/ e volta para o repositório.
 #
 # Roda sozinho a cada 30 min e também quando você clica em "Run workflow" (aba Actions).
@@ -16,9 +17,11 @@ on:
       intervalo:
         description: "Teste: segundos entre uma oferta e outra"
         default: "60"
-  # roda sozinho a cada 30 min (o GitHub pode atrasar alguns minutos em horários de pico)
+  # roda sozinho a cada 30 min das 8h às 21h30 (horário de Brasília = UTC-3),
+  # para caber nos minutos grátis do GitHub. Pode atrasar alguns minutos em horários de pico.
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 11-23 * * *"   # 8h00 às 20h30
+    - cron: "0,30 0 * * *"       # 21h00 e 21h30
 
 # nunca duas rodadas ao mesmo tempo (evitaria posts em dobro)
 concurrency:
@@ -38,6 +41,9 @@ jobs:
       API_ID: ${{ secrets.API_ID }}
       API_HASH: ${{ secrets.API_HASH }}
       TG_SESSION: ${{ secrets.TG_SESSION }}
+      SHOPEE_FEED_URLS: ${{ secrets.SHOPEE_FEED_URLS }}
+      SHOPEE_AFILIADO_ID: "18373760431"
+      SHOPEE_SUB_ID: telegrambaby
       # configurações (não são segredo)
       CANAL_ORIGEM: "@parceiromagaludivulgador"
       LOJA_MAGALU: casalbarateiro
@@ -61,6 +67,10 @@ jobs:
       - name: Radar da Magalu (posts novos)
         run: python radar.py --rodada
 
+      - name: Renovar a lista da Shopee (se estiver acabando)
+        continue-on-error: true  # se o download falhar, posta com a lista atual
+        run: python curadoria_shopee.py --se-faltar 15
+
       - name: Shopee (próxima oferta)
         env:
           POSTS: ${{ inputs.posts || '0' }}
@@ -77,5 +87,5 @@ jobs:
         run: |
           git config user.name "babybot"
           git config user.email "babybot@users.noreply.github.com"
-          git add estado/*.json estado/*.txt 2>/dev/null || true
+          git add estado/*.json estado/*.txt listas/*.csv 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "estado: rodada ${{ github.run_number }}" && git push)
