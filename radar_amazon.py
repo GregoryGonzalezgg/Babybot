@@ -19,7 +19,8 @@ import urllib.request
 import radar
 from curadoria_shopee import para_ate_5_anos
 from nicho import classificar
-from parser_magalu import CUPOM_RE, PRECO_RE, Oferta, brl
+import formato
+from parser_magalu import CUPOM_RE, PRECO_RE, Oferta
 
 FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "babypromokids").split(",")
           if f.strip()]
@@ -90,16 +91,15 @@ def link_amazon(asin):
 
 
 def montar_post(oferta, asin):
-    linhas = [f"🔥 {oferta.titulo}"]
-    if oferta.preco_por:
-        linhas.append(f"💰 por {brl(oferta.preco_por)} (preço no momento da postagem)")
-        if CONDICAO_RE.search(oferta.texto_original):
-            linhas.append("ℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página")
-    if oferta.cupom:
-        linhas.append(f"🎟️ Cupom: {oferta.cupom}")
-    linhas.append(f"🛒 Amazon 👉 {link_amazon(asin)}")
-    linhas.append("⚠️ Preço e estoque podem mudar a qualquer momento")
-    return "\n".join(linhas)
+    condicao = oferta.preco_por and CONDICAO_RE.search(oferta.texto_original)
+    return formato.juntar(
+        formato.titulo(oferta.titulo),
+        formato.preco(por=oferta.preco_por),
+        "ℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página" if condicao else None,
+        f"🎟️ Cupom: {oferta.cupom}" if oferta.cupom else None,
+        formato.link("Amazon", link_amazon(asin)),
+        formato.AVISO,
+    )
 
 
 def carregar_vistos():

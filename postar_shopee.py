@@ -17,6 +17,7 @@ import urllib.request
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+import formato
 import radar
 
 PLANILHA = radar.PASTA / "listas" / "curadoria_shopee_baby.csv"
@@ -37,35 +38,17 @@ def _num(txt):
 
 
 def titulo_curto(titulo, limite=80):
-    # títulos da Shopee vêm cheios de palavras-chave; corta no fim de uma palavra
-    titulo = " ".join(titulo.split())
-    if len(titulo) <= limite:
-        return titulo
-    return titulo[:limite].rsplit(" ", 1)[0] + "…"
-
-
-def curtidas(n):
-    n = int(_num(n))
-    return f"{n / 1000:.1f} mil".replace(".", ",").replace(",0 mil", " mil") if n >= 1000 else str(n)
+    return formato.titulo(titulo, limite)[2:]  # sem o "🔥 ", para os logs
 
 
 def montar_post(linha):
-    de, por = _num(linha["preco_de"]), _num(linha["preco_por"])
-    linhas = [f"🔥 {titulo_curto(linha['produto'])}"]
-    if de > por:
-        linhas.append(f"💰 de {radar.brl(de)} por {radar.brl(por)} (-{linha['desconto_%']}%)")
-    else:
-        linhas.append(f"💰 por {radar.brl(por)}")
-    nota = linha["nota"].replace(".", ",")
-    linhas.append(f"⭐ Nota {nota} | ❤️ {curtidas(linha['curtidas'])} curtidas")
-    link = linha["meu_link_afiliado"]
-    if "an_redir" in link:
-        # link montado é longo: vira texto clicável (o Telegram usa markdown por padrão)
-        linhas.append(f"🛍️ [👉 Ver oferta na Shopee]({link})")
-    else:
-        linhas.append(f"🛍️ Shopee 👉 {link}")
-    linhas.append("⚠️ Preço e estoque podem mudar a qualquer momento")
-    return "\n".join(linhas)
+    return formato.juntar(
+        formato.titulo(linha["produto"]),
+        formato.preco(_num(linha["preco_de"]), _num(linha["preco_por"]), int(_num(linha["desconto_%"])) or None),
+        formato.nota(linha.get("nota"), _num(linha.get("curtidas")) or None),
+        formato.link("Shopee", linha["meu_link_afiliado"]),
+        formato.AVISO,
+    )
 
 
 def id_produto(linha):

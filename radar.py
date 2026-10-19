@@ -20,8 +20,9 @@ from dotenv import load_dotenv
 from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 
+import formato
 from nicho import classificar
-from parser_magalu import brl, extrair
+from parser_magalu import extrair
 
 PASTA = Path(__file__).parent
 load_dotenv(PASTA / ".env")
@@ -98,63 +99,38 @@ def loja_home():
     return LINK_TEMPLATE.split("/p/")[0].format(loja=LOJA)
 
 
+def links_magalu(ids):
+    """Um link clicável por modelo (até MAX_LINKS); campanhas grandes apontam para a loja."""
+    linhas = [formato.link("Magalu", link_parceiro(item_id), "Ver oferta" if i == 0 else f"Opção {i + 1}")
+              for i, item_id in enumerate(ids[:MAX_LINKS])]
+    if len(ids) > MAX_LINKS:
+        linhas.append(formato.link("Magalu", loja_home(), f"Ver os outros {len(ids) - MAX_LINKS} modelos"))
+    return linhas
+
+
 def montar_post_cupom(oferta):
     """Post de campanha: cupom + lista de códigos, sem nome de produto nem preço."""
     n = len(oferta.ids)
-    linhas = [f"🎟️ CUPOM: {oferta.cupom}"]
-    if oferta.chamada:
-        linhas.append(f"🔥 {oferta.chamada}")
-    else:
-        # a frase do post costuma ser só empolgação ("E BORA APROVEITAR"), então descrevemos
-        linhas.append(f"🔥 Desconto em {n} produto{'s' if n > 1 else ''} selecionado{'s' if n > 1 else ''}")
-    for item_id in oferta.ids[:MAX_LINKS]:
-        linhas.append(f"👉 {link_parceiro(item_id)}")
-    if n > MAX_LINKS:
-        linhas.append(f"➕ e mais {n - MAX_LINKS} produtos participantes")
-        linhas.append(f"🛒 Veja tudo na minha loja: {loja_home()}")
-    linhas.append("⚠️ Cupom por tempo limitado, aplique no carrinho")
-    return "\n".join(linhas)
+    # a frase do post costuma ser só empolgação ("E BORA APROVEITAR"), então descrevemos
+    chamada = oferta.chamada or f"Cupom com desconto em {n} produto{'s' if n > 1 else ''} selecionado{'s' if n > 1 else ''}"
+    return formato.juntar(formato.titulo(chamada), f"🎟️ Cupom: {oferta.cupom}", *links_magalu(oferta.ids),
+                          formato.AVISO_CUPOM)
 
 
 def montar_post(oferta):
-    linhas = []
     if oferta.ids and oferta.cupom and not oferta.preco_por:
         return montar_post_cupom(oferta)
     if oferta.tipo == "cupom" and not oferta.ids:
-        linhas.append("🎟️ CUPOM MAGALU")
-        linhas.append(f"Código: {oferta.cupom}")
-        if oferta.titulo:
-            linhas.append(oferta.titulo)
-        if LOJA:
-            linhas.append(f"👉 Use na minha loja: {LINK_TEMPLATE.split('/p/')[0].format(loja=LOJA)}")
-    else:
-        titulo = oferta.chamada or oferta.titulo or "Oferta Magalu"
-        if oferta.preco_de and oferta.preco_por and oferta.preco_de > oferta.preco_por:
-            preco = f"de {brl(oferta.preco_de)} por {brl(oferta.preco_por)}"
-            if oferta.desconto:
-                preco += f" (-{oferta.desconto}%)"
-        elif oferta.preco_por:
-            preco = f"por {brl(oferta.preco_por)}"
-        else:
-            preco = ""
-        if preco and oferta.pix:
-            preco += " no Pix"
-        linhas.append(f"🔥 {titulo}")
-        if preco:
-            linhas.append(f"💰 {preco}")
-        if oferta.parcelas:
-            linhas.append(f"💳 ou {oferta.parcelas}")
-        if "frete grátis" in oferta.texto_original.lower():
-            linhas.append("🚚 Frete grátis (consulte seu CEP)")
-        if oferta.cupom:
-            linhas.append(f"🎟️ Cupom: {oferta.cupom}")
-        # campanhas trazem dezenas de modelos; post com muitos links espanta o leitor
-        for item_id in oferta.ids[:MAX_LINKS]:
-            linhas.append(f"👉 {link_parceiro(item_id)}")
-        if len(oferta.ids) > MAX_LINKS:
-            linhas.append(f"➕ e mais {len(oferta.ids) - MAX_LINKS} modelos com o mesmo desconto")
-    linhas.append("⚠️ Preço e estoque podem mudar a qualquer momento")
-    return "\n".join(linhas)
+        return formato.juntar(formato.titulo(oferta.titulo or "Cupom Magalu"), f"🎟️ Cupom: {oferta.cupom}",
+                              formato.link("Magalu", loja_home(), "Usar o cupom"), formato.AVISO_CUPOM)
+    return formato.juntar(
+        formato.titulo(oferta.chamada or oferta.titulo or "Oferta Magalu"),
+        formato.preco(oferta.preco_de, oferta.preco_por, oferta.desconto, "no Pix" if oferta.pix else ""),
+        f"💳 ou {oferta.parcelas}" if oferta.parcelas else None,
+        f"🎟️ Cupom: {oferta.cupom}" if oferta.cupom else None,
+        *links_magalu(oferta.ids),
+        formato.AVISO,
+    )
 
 
 def carregar_vistos():
