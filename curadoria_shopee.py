@@ -71,7 +71,8 @@ BEBE = re.compile(r"\b(bebe|bebes|baby|recem nascido|recem-nascido|rn|meses|newb
 CRIANCA_MAIOR = re.compile(r"\b(juvenil|teen|adolescente|escolar|reborn|patinete|bicicleta|skate|patins|"
                            r"cama elastica|trampolim|pula pula|slime|micangas?|maquiagem|parque aquatico|"
                            r"videogame|celular|lol surprise|barbie|hot wheels|pistola|arma|"
-                           r"adulto|adulta|women|men|mulher|mulheres|homem)\b")
+                           r"adulto|adulta|women|men|mulher|mulheres|homem|"
+                           r"galvanizado|supermercado|carrinho de compras|carrinho de mao|feira)\b")
 FAIXA_ANOS = re.compile(r"(\d{1,2})\s*(?:a|ao|-|ate)\s*(\d{1,2})\s*anos")
 IDADE_MINIMA = re.compile(r"(?:\+|acima de |a partir de )(\d{1,2})\s*anos|(\d{1,2})\+\s*anos")
 NUMERACAO = re.compile(r"\b(\d{2})\s*(?:a|ao|-|/)\s*(\d{2})\b")
