@@ -85,7 +85,8 @@ def descobrir_asin(link_comunidade):
 
 
 def link_amazon(asin):
-    return f"https://www.amazon.com.br/dp/{asin}?tag={AMAZON_TAG}"
+    # mesmo formato do SiteStripe (link de Associado oficial); o linkId é a Amazon que gera
+    return f"https://www.amazon.com.br/dp/{asin}?&linkCode=ll2&tag={AMAZON_TAG}&ref_=as_li_ss_tl"
 
 
 def montar_post(oferta, asin):
