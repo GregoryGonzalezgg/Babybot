@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:47603206605",
+   "loja": "Shopee",
+   "texto": "🔥 Sandália Bebê menino Infantil casual Conforto Na Moda Leve Masculino\n💰 de R$ 69,90 por R$ 39,90 (-43%)\n⭐ Nota 4,99 | ❤️ 1,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F378963312%2F47603206605&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 63.8,
+   "criado": 1792446106.2838871,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-midbl17omneue3"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
