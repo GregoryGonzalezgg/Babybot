@@ -1,6 +1,6 @@
 """Radar de ofertas da Amazon a partir de comunidades de ofertas no Telegram.
 
-Lê o canal do Promobit (o Pelando bloqueia acesso automático), separa as ofertas da Amazon que são de
+Lê o Promobit e o Baby Promo Kids (o Pelando bloqueia acesso automático), separa as ofertas da Amazon que são de
 bebê (0 a 5 anos), descobre o código do produto (ASIN) pelo link da comunidade
 e posta com o SEU link de afiliado. Não acessa o site da Amazon: o ASIN vem da
 página de redirecionamento da comunidade.
@@ -21,7 +21,12 @@ from curadoria_shopee import para_ate_5_anos
 from nicho import classificar
 from parser_magalu import CUPOM_RE, PRECO_RE, Oferta, brl
 
-FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "cupons_desconto").split(",") if f.strip()]
+FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "cupons_desconto,babypromokids").split(",")
+          if f.strip()]
+# canais que só postam coisas de bebê: dispensam a palavra "bebê" no título, mas o filtro
+# de idade (0 a 5 anos) continua. Deles não reaproveitamos a foto: ela vem da prévia do nosso link.
+FONTES_SO_BEBE = {f.strip().lstrip("@") for f in os.getenv("FONTES_SO_BEBE", "babypromokids").split(",") if f.strip()}
+CONDICAO_RE = re.compile(r"recorr[eê]ncia|comprando \d|cada em \d|leve \d|a partir de \d unidades", re.IGNORECASE)
 AMAZON_TAG = os.getenv("AMAZON_TAG", "").strip()
 VISTOS_ARQ = radar.DADOS / "vistos_amazon.json"
 ASIN_RE = re.compile(r"/(?:dp|gp/product)/([A-Z0-9]{10})")
@@ -30,7 +35,7 @@ NAVEGADOR = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKi
 
 
 def eh_amazon(texto):
-    return bool(re.search(r"\bamazon\b", texto or "", re.IGNORECASE))
+    return bool(re.search(r"\bamazon\b|amzn\.to|amzlink\.to", texto or "", re.IGNORECASE))
 
 
 def montar_oferta(texto):
@@ -46,7 +51,10 @@ def montar_oferta(texto):
     return oferta
 
 
-def eh_de_bebe(oferta):
+def eh_de_bebe(oferta, canal=""):
+    if canal in FONTES_SO_BEBE:
+        # "Baby Clothes" = subcategoria que já conta como bebê; só valem as exclusões de idade
+        return para_ate_5_anos({"title": oferta.titulo, "global_category2": "Baby Clothes"})
     return classificar(oferta) == "sim" and para_ate_5_anos({"title": oferta.titulo, "global_category2": ""})
 
 
@@ -54,8 +62,8 @@ def descobrir_asin(link_comunidade):
     """Segue o link da comunidade até a página dela que aponta para a Amazon e tira o ASIN.
     Nunca abre páginas da Amazon."""
     url = link_comunidade
-    for _ in range(5):
-        if "amazon." in url or "amzn.to" in url:
+    for _ in range(6):
+        if re.search(r"amazon\.com(\.br)?/", url):  # chegou na Amazon: o ASIN está no próprio endereço
             m = ASIN_RE.search(url)
             return m.group(1) if m else None
 
@@ -84,6 +92,8 @@ def montar_post(oferta, asin):
     linhas = [f"🔥 {oferta.titulo}"]
     if oferta.preco_por:
         linhas.append(f"💰 por {brl(oferta.preco_por)} (preço no momento da postagem)")
+        if CONDICAO_RE.search(oferta.texto_original):
+            linhas.append("ℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página")
     if oferta.cupom:
         linhas.append(f"🎟️ Cupom: {oferta.cupom}")
     linhas.append(f"🛒 Amazon 👉 {link_amazon(asin)}")
@@ -103,7 +113,7 @@ async def processar(client, canal, msg, vistos, enviar):
     if not eh_amazon(texto):
         return
     oferta = montar_oferta(texto)
-    if not eh_de_bebe(oferta):
+    if not eh_de_bebe(oferta, canal):
         return
     links = LINK_RE.findall(texto) + [e.url for e in (msg.entities or []) if getattr(e, "url", None)]
     asin = next((a for a in (descobrir_asin(l) for l in links[:2]) if a), None)
@@ -116,7 +126,7 @@ async def processar(client, canal, msg, vistos, enviar):
     if not enviar:
         print(f"[@{canal}] {asin} -> {post.splitlines()[0][:70]}")
         return
-    if msg.photo:
+    if msg.photo and canal not in FONTES_SO_BEBE:
         await radar.enviar_com_foto(client, radar.DESTINO, msg, post)
     else:
         await client.send_message(radar.DESTINO, post, link_preview=True)  # foto vem da prévia do link
