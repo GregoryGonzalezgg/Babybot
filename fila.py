@@ -99,8 +99,9 @@ def tem_da_loja(loja):
 
 
 def escolher(fila, agora=None):
-    """Tira da fila as vencidas e devolve a de maior nota (com penalidade de tempo
-    e um empurrão para variar de loja)."""
+    """Tira da fila as vencidas e devolve a próxima a postar: as lojas se alternam (se houver
+    oferta de outra loja esperando, ela sai agora) e, entre as candidatas, ganha a de maior
+    nota, descontado o tempo de espera."""
     agora = agora or time.time()
     validos = []
     for i in fila["itens"]:
@@ -116,8 +117,9 @@ def escolher(fila, agora=None):
         p = i["nota"]
         if i.get("expira"):
             p -= (agora - i["criado"]) / 60 / 6  # -10 pontos por hora
-        if i["loja"] == fila.get("ultima_loja"):
-            p -= 15  # evita duas da mesma loja seguidas
         return p
 
-    return max(validos, key=pontos)
+    # alterna as lojas: a Shopee sempre tem oferta com desconto alto e, sem isso, ganharia
+    # todas as vezes das ofertas de Amazon e Magalu (que nem sempre trazem o preço "de")
+    outras_lojas = [i for i in validos if i["loja"] != fila.get("ultima_loja")]
+    return max(outras_lojas or validos, key=pontos)
