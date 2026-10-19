@@ -1,0 +1,60 @@
+# Palavras que marcam uma oferta como do nicho Baby (uma por linha, sem precisar de acento).
+# Linhas começando com "-" EXCLUEM a oferta mesmo que tenha palavra de bebê.
+
+bebe
+bebes
+baby
+recem nascido
+recem-nascido
+infantil
+infantis
+crianca
+criancas
+kids
+maternidade
+gestante
+amamentacao
+enxoval
+fralda
+fraldas
+lenco umedecido
+lencos umedecidos
+mamadeira
+mamadeiras
+chupeta
+chupetas
+mordedor
+naninha
+babador
+berco
+bercos
+mini berco
+moises
+carrinho de bebe
+bebe conforto
+cadeirinha
+cadeira de alimentacao
+assento elevacao
+andador
+baba eletronica
+trocador
+banheira
+bomba tira leite
+tira leite
+esterilizador
+aquecedor de mamadeira
+papinha
+kit berco
+mosquiteiro
+body infantil
+macacao infantil
+toddler
+brinquedo educativo
+montessori
+
+# exclusões (produtos para pet ou adulto que usam palavras parecidas)
+- pet
+- cachorro
+- gato
+- adulto
+- geriatrica

@@ -1,0 +1,2 @@
+# scripts da VM (Linux) precisam de fim de linha LF, mesmo editados no Windows
+*.sh text eol=lf

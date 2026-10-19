@@ -1,0 +1,15 @@
+# segredos: NUNCA vão para o Git
+.env
+*.session
+*.session-journal
+
+# o que os programas gravam enquanto rodam (cada máquina tem o seu)
+dados/
+
+# arquivos grandes baixados da Shopee
+*.bin
+feed*.csv
+
+__pycache__/
+*.pyc
+.venv/
