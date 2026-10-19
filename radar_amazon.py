@@ -1,6 +1,6 @@
 """Radar de ofertas da Amazon a partir de comunidades de ofertas no Telegram.
 
-Lê o Promobit e o Baby Promo Kids (o Pelando bloqueia acesso automático), separa as ofertas da Amazon que são de
+Lê o canal Baby Promo Kids no Telegram, separa as ofertas da Amazon que são de
 bebê (0 a 5 anos), descobre o código do produto (ASIN) pelo link da comunidade
 e posta com o SEU link de afiliado. Não acessa o site da Amazon: o ASIN vem da
 página de redirecionamento da comunidade.
@@ -21,7 +21,7 @@ from curadoria_shopee import para_ate_5_anos
 from nicho import classificar
 from parser_magalu import CUPOM_RE, PRECO_RE, Oferta, brl
 
-FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "cupons_desconto,babypromokids").split(",")
+FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "babypromokids").split(",")
           if f.strip()]
 # canais que só postam coisas de bebê: dispensam a palavra "bebê" no título, mas o filtro
 # de idade (0 a 5 anos) continua. Deles não reaproveitamos a foto: ela vem da prévia do nosso link.
