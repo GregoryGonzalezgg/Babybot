@@ -22,11 +22,11 @@ from nicho import classificar
 import formato
 from parser_magalu import CUPOM_RE, PRECO_RE, Oferta
 
-FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "babypromokids").split(",")
+FONTES = [f.strip().lstrip("@") for f in os.getenv("FONTES_AMAZON", "babypromokids,fraldas").split(",")
           if f.strip()]
 # canais que só postam coisas de bebê: dispensam a palavra "bebê" no título, mas o filtro
 # de idade (0 a 5 anos) continua. Deles não reaproveitamos a foto: ela vem da prévia do nosso link.
-FONTES_SO_BEBE = {f.strip().lstrip("@") for f in os.getenv("FONTES_SO_BEBE", "babypromokids").split(",") if f.strip()}
+FONTES_SO_BEBE = {f.strip().lstrip("@") for f in os.getenv("FONTES_SO_BEBE", "babypromokids,fraldas").split(",") if f.strip()}
 CONDICAO_RE = re.compile(r"recorr[eê]ncia|comprando \d|cada em \d|leve \d|a partir de \d unidades", re.IGNORECASE)
 AMAZON_TAG = os.getenv("AMAZON_TAG", "").strip()
 VISTOS_ARQ = radar.DADOS / "vistos_amazon.json"
