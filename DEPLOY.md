@@ -27,10 +27,10 @@ Isso grava `TG_SESSION` no seu `.env`. É o login da sua conta: **não mostre, n
 não suba para o GitHub** (o `.gitignore` já impede).
 
 ### 2. Subir o código para o GitHub (repositório PRIVADO)
-1. Crie um repositório **privado** em github.com (ex.: `radar-ofertas`).
+1. Crie um repositório **privado** em github.com (já criado: `Babybot`).
 2. Nesta pasta:
 ```
-git remote add origin https://github.com/SEU_USUARIO/radar-ofertas.git
+git remote add origin https://github.com/GregoryGonzalezgg/Babybot.git
 git push -u origin main
 ```
 O `.env`, as sessões e a pasta `dados/` **não** sobem.
@@ -48,15 +48,15 @@ ssh -i caminho\da\chave.key ubuntu@IP_DA_VM
 ```
 Na VM:
 ```
-git clone https://github.com/SEU_USUARIO/radar-ofertas.git
-cd radar-ofertas
+git clone https://github.com/GregoryGonzalezgg/Babybot.git
+cd Babybot
 ```
 (Repositório privado: o GitHub vai pedir login; use um *Personal Access Token* no lugar da senha.)
 
 ### 5. Levar o .env para a VM
 No PowerShell do seu PC (outra janela):
 ```
-scp -i caminho\da\chave.key .env ubuntu@IP_DA_VM:~/radar-ofertas/.env
+scp -i caminho\da\chave.key .env ubuntu@IP_DA_VM:~/Babybot/.env
 ```
 
 ### 6. Instalar e ligar
