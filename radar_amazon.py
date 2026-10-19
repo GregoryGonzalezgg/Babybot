@@ -170,7 +170,7 @@ async def demo(client, quantidade):
             if not asin:
                 continue
             post = montar_post(montar_oferta(texto), asin)
-            if msg.photo:
+            if msg.photo and canal not in FONTES_SO_BEBE:
                 await radar.enviar_com_foto(client, radar.DESTINO, msg, post)
             else:
                 await client.send_message(radar.DESTINO, post, link_preview=True)
