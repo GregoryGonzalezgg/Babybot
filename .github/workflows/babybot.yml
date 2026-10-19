@@ -1,0 +1,64 @@
+# Babybot no GitHub Actions: cada execução faz UMA rodada e desliga.
+#   1. radar da Magalu: posta as ofertas de bebê publicadas desde a última rodada
+#   2. Shopee: posta a próxima oferta da curadoria (se estiver no horário)
+# O que já foi postado fica salvo em estado/ e volta para o repositório.
+#
+# Por enquanto só roda quando você clica em "Run workflow" (aba Actions).
+# Para rodar sozinho a cada 30 min, tire o "#" das duas linhas do "schedule".
+name: Babybot
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "*/30 * * * *"
+
+# nunca duas rodadas ao mesmo tempo (evitaria posts em dobro)
+concurrency:
+  group: babybot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  rodada:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      # segredos: ficam em Settings > Secrets and variables > Actions
+      API_ID: ${{ secrets.API_ID }}
+      API_HASH: ${{ secrets.API_HASH }}
+      TG_SESSION: ${{ secrets.TG_SESSION }}
+      # configurações (não são segredo)
+      CANAL_ORIGEM: "@parceiromagaludivulgador"
+      LOJA_MAGALU: casalbarateiro
+      LINK_TEMPLATE: "https://www.magazinevoce.com.br/magazine{loja}/p/{id}/"
+      DESTINO: "-1003924620270"
+      NICHO: baby
+      POSTAR_DAS: "8"
+      POSTAR_ATE: "22"
+      DADOS_DIR: estado
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Radar da Magalu (posts novos)
+        run: python radar.py --rodada
+
+      - name: Shopee (próxima oferta)
+        run: python postar_shopee.py --rodada
+
+      - name: Salvar o que já foi postado
+        if: always()
+        run: |
+          git config user.name "babybot"
+          git config user.email "babybot@users.noreply.github.com"
+          git add estado/*.json estado/*.txt 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "estado: rodada ${{ github.run_number }}" && git push)
