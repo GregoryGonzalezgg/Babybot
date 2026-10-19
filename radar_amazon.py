@@ -19,6 +19,7 @@ import urllib.request
 import radar
 from curadoria_shopee import para_ate_5_anos
 from nicho import classificar
+import fila
 import formato
 from parser_magalu import CUPOM_RE, PRECO_RE, Oferta
 
@@ -124,16 +125,19 @@ async def processar(client, canal, msg, vistos, enviar):
     if asin in vistos:
         return
     post = montar_post(oferta, asin)
+    nota = fila.nota_vantagem(oferta.titulo, texto, oferta.preco_por, cupom=oferta.cupom)
     if not enviar:
-        print(f"[@{canal}] {asin} -> {post.splitlines()[0][:70]}")
+        print(f"[@{canal}] nota {nota:3.0f} | {asin} -> {post.splitlines()[0][:65]}")
         return
-    if msg.photo and canal not in FONTES_SO_BEBE:
-        await radar.enviar_com_foto(client, radar.DESTINO, msg, post)
-    else:
-        await client.send_message(radar.DESTINO, post, link_preview=True)  # foto vem da prévia do link
+    # vai para a fila; o publicar.py posta a mais vantajosa a cada 5 minutos
+    usar_foto_da_fonte = msg.photo and canal not in FONTES_SO_BEBE
+    fila.adicionar({"id": f"amazon:{asin}", "loja": "Amazon", "texto": post, "nota": round(nota, 1),
+                    "criado": msg.date.timestamp(), "expira": True,
+                    "foto": {"tipo": "telegram", "chat": canal, "msg": msg.id} if usar_foto_da_fonte
+                    else {"tipo": "previa"}})
     vistos.add(asin)
     VISTOS_ARQ.write_text(json.dumps(sorted(vistos)), encoding="utf-8")
-    print(f"[@{canal}] postado {asin}: {oferta.titulo[:60]}", flush=True)
+    print(f"[fila] Amazon nota {nota:.0f} (@{canal}) {asin}: {oferta.titulo[:55]}", flush=True)
 
 
 async def rodada(client, enviar):

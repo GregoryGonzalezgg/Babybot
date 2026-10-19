@@ -13,10 +13,12 @@ import asyncio
 import csv
 import json
 import os
+import time
 import urllib.request
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+import fila
 import formato
 import radar
 
@@ -86,7 +88,12 @@ async def main():
                     help="fica ligado e posta 1 oferta a cada INTERVALO_MIN minutos, dentro do horário do .env")
     ap.add_argument("--rodada", action="store_true",
                     help="posta 1 oferta se estiver no horário do .env e sai (GitHub Actions)")
+    ap.add_argument("--fila", action="store_true",
+                    help="deixa 1 oferta da Shopee esperando na fila do publicar.py (não posta nada)")
     args = ap.parse_args()
+    if args.fila:
+        abastecer_fila()
+        return
     if args.rodada:
         agora = datetime.now(FUSO)
         if not POSTAR_DAS <= agora.hour < POSTAR_ATE:
@@ -129,6 +136,26 @@ def proximos(quantidade, inicio=1):
               if l.get("meu_link_afiliado")  # nunca posta sem o link de afiliado
               and id_produto(l) not in postados]  # nem repete o que já foi para o canal
     return linhas[:quantidade]
+
+
+def abastecer_fila():
+    """Mantém 1 oferta da Shopee na fila. Ela não vence: serve de 'reserva' para quando não há
+    oferta fresca de Magalu/Amazon, e o publicar.py alterna as lojas."""
+    if fila.tem_da_loja("Shopee"):
+        print("Fila já tem uma oferta da Shopee esperando.")
+        return
+    na_fila = {i["id"] for i in fila.carregar()["itens"]}
+    for linha in proximos(5):
+        item_id = f"shopee:{id_produto(linha)}"
+        if item_id in na_fila:
+            continue
+        de, por = _num(linha["preco_de"]), _num(linha["preco_por"])
+        nota = fila.nota_vantagem(linha["produto"], linha["produto"], por, de)
+        fila.adicionar({"id": item_id, "loja": "Shopee", "texto": montar_post(linha), "nota": round(nota, 1),
+                        "criado": time.time(), "expira": False, "foto": {"tipo": "url", "url": linha["foto"]}})
+        print(f"[fila] Shopee nota {nota:.0f}: {titulo_curto(linha['produto'], 60)}")
+        return
+    print("Lista da Shopee sem ofertas novas para a fila.")
 
 
 async def postar(client, linha):

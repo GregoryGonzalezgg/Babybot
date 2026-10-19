@@ -20,6 +20,7 @@ from dotenv import load_dotenv
 from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 
+import fila
 import formato
 from nicho import classificar
 from parser_magalu import extrair
@@ -183,7 +184,9 @@ async def baixar_foto(msg, chave):
         return ""
 
 
-async def processar(client, msg, vistos):
+async def processar(client, msg, vistos, para_fila=False):
+    """para_fila=True: em vez de postar na hora, coloca na fila (fila.py) com a nota de
+    vantagem; o publicar.py posta a melhor a cada 5 minutos."""
     oferta = extrair(msg.message or "", ID_REGEX)
     chave = " ".join(oferta.ids) or oferta.cupom or ""
     decisao = filtrar(oferta)
@@ -198,6 +201,16 @@ async def processar(client, msg, vistos):
         print(f"[{datetime.now():%H:%M:%S}] para conferir: {len(oferta.ids)} códigos")
         return
     post = montar_post(oferta)
+    if para_fila:
+        nota = fila.nota_vantagem(oferta.chamada or oferta.titulo, oferta.texto_original, oferta.preco_por,
+                                  oferta.preco_de, oferta.cupom)
+        fila.adicionar({"id": f"magalu:{chave}", "loja": "Magalu", "texto": post, "nota": round(nota, 1),
+                        "criado": msg.date.timestamp(), "expira": True,
+                        "foto": {"tipo": "telegram", "chat": CANAL_ORIGEM, "msg": msg.id} if msg.photo else None})
+        vistos.add(chave)
+        salvar_vistos(vistos)
+        print(f"[fila] Magalu nota {nota:.0f}: {(oferta.chamada or oferta.titulo)[:60]}", flush=True)
+        return
     await enviar_com_foto(client, DESTINO, msg, post)
     foto = await baixar_foto(msg, chave)
     anotar_fila(post, oferta, foto)
@@ -228,7 +241,7 @@ async def modo_rodada(client, vistos, enviar=True):
     async for msg in client.iter_messages(CANAL_ORIGEM, min_id=ultimo, reverse=True):
         novos += 1
         if enviar:
-            await processar(client, msg, vistos)
+            await processar(client, msg, vistos, para_fila=True)
             ULTIMO_ID_ARQ.write_text(str(msg.id))
         else:
             oferta = extrair(msg.message or "", ID_REGEX)
