@@ -9,6 +9,13 @@ name: Babybot
 
 on:
   workflow_dispatch:
+    inputs:
+      posts:
+        description: "Teste: quantas ofertas da Shopee postar nesta execução (0 = rodada normal)"
+        default: "0"
+      intervalo:
+        description: "Teste: segundos entre uma oferta e outra"
+        default: "60"
   # schedule:
   #   - cron: "*/30 * * * *"
 
@@ -53,7 +60,15 @@ jobs:
         run: python radar.py --rodada
 
       - name: Shopee (próxima oferta)
-        run: python postar_shopee.py --rodada
+        env:
+          POSTS: ${{ inputs.posts || '0' }}
+          INTERVALO: ${{ inputs.intervalo || '60' }}
+        run: |
+          if [ "$POSTS" -gt 0 ]; then
+            python postar_shopee.py --quantidade "$POSTS" --intervalo "$INTERVALO"
+          else
+            python postar_shopee.py --rodada
+          fi
 
       - name: Salvar o que já foi postado
         if: always()
