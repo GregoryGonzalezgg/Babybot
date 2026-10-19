@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0GW48RBS7",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Pampers Confort Sec G 92 Unidades\n💰 por R$ 101,76\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0GW48RBS7?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 47.0,
-   "criado": 1792435650.0,
-   "expira": true,
+   "id": "shopee:21538655750",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Sortido 4 ou 10 Peças de Roupas Infantil Menino Verão Bebe Menino Roupas…\n💰 de R$ 80,00 por R$ 34,90 (-56%)\n⭐ Nota 4,79 | ❤️ 3,9 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F21538655750&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 71.8,
+   "criado": 1792442780.215784,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3nm1gwxyfqw55"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
