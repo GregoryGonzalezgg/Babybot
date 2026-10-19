@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:18099428373",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Básico 8 Peças Roupa Infantil Bebê Menino - 4 Camisetas Básicas + 4 Bermudas\n💰 de R$ 159,90 por R$ 89,90 (-44%)\n⭐ Nota 4,85 | ❤️ 24,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F18099428373&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 64.3,
+   "criado": 1792447330.284572,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820mc-moycn6wu95vn53"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
