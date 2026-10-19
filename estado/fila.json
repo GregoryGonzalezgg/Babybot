@@ -12,16 +12,17 @@
    }
   },
   {
-   "id": "amazon:B0F4KXTCFT",
-   "loja": "Amazon",
-   "texto": "🔥 Kit 3 Cremes Preventivos de Assaduras Desitin 113g cada\n💰 por R$ 104,99\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F4KXTCFT?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792436480.0,
-   "expira": true,
+   "id": "shopee:18598206634",
+   "loja": "Shopee",
+   "texto": "🔥 Brinquedo Pedagógico Educativo Infantil Criança Montessori Montanha Russa\n💰 de R$ 149,90 por R$ 76,90 (-49%)\n⭐ Nota 4,93 | ❤️ 1,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1490123401%2F18598206634&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 67.2,
+   "criado": 1792442181.517337,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-midgq577liipbb"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
