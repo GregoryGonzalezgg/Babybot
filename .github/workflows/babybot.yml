@@ -68,6 +68,12 @@ jobs:
       - name: Radar da Magalu (posts novos)
         run: python radar.py --rodada
 
+      - name: Amazon (ofertas de bebê do Pelando e Promobit)
+        continue-on-error: true  # um problema aqui não impede a Shopee de postar
+        env:
+          AMAZON_TAG: ${{ vars.AMAZON_TAG }}  # vazio = só simula, não posta
+        run: python radar_amazon.py --rodada
+
       - name: Renovar a lista da Shopee (se estiver acabando)
         continue-on-error: true  # se o download falhar, posta com a lista atual
         run: python curadoria_shopee.py --se-faltar 15
