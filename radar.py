@@ -230,6 +230,36 @@ async def processar(client, msg, vistos):
     print(f"[{datetime.now():%H:%M:%S}] enviado: {oferta.titulo or chave}")
 
 
+ULTIMO_ID_ARQ = DADOS / "ultimo_id_magalu.txt"
+
+
+async def modo_rodada(client, vistos, enviar=True):
+    """Para rodar de tempos em tempos (ex.: GitHub Actions a cada 30 min) em vez de ficar
+    ouvindo: processa só os posts do canal publicados depois da última rodada."""
+    try:
+        ultimo = int(ULTIMO_ID_ARQ.read_text().strip())
+    except (FileNotFoundError, ValueError):
+        ultimo = None
+    if ultimo is None:
+        # primeira rodada: só marca o ponto de partida, para não despejar posts antigos
+        recente = await client.get_messages(CANAL_ORIGEM, limit=1)
+        if enviar and recente:
+            ULTIMO_ID_ARQ.write_text(str(recente[0].id))
+        print(f"Primeira rodada: ponto de partida marcado no post {recente[0].id if recente else '-'}; "
+              "as próximas rodadas processam os posts novos a partir daqui.", flush=True)
+        return
+    novos = 0
+    async for msg in client.iter_messages(CANAL_ORIGEM, min_id=ultimo, reverse=True):
+        novos += 1
+        if enviar:
+            await processar(client, msg, vistos)
+            ULTIMO_ID_ARQ.write_text(str(msg.id))
+        else:
+            oferta = extrair(msg.message or "", ID_REGEX)
+            print(f"[simulação] post {msg.id}: {filtrar(oferta)} | {(oferta.chamada or oferta.titulo)[:60]}")
+    print(f"Rodada concluída: {novos} posts novos no canal da Magalu desde a última rodada.", flush=True)
+
+
 async def modo_demo(client, quantidade, enviar=True):
     """Demonstração: varre os posts recentes e envia os N primeiros válidos,
     de QUALQUER nicho. Não muda o .env, não marca como visto e não entra na fila."""
@@ -298,7 +328,9 @@ async def main():
     ap.add_argument("--teste", type=int, metavar="N", help="mostra a extração dos últimos N posts")
     ap.add_argument("--procurar", metavar="NOME", help="acha um canal pelo nome e mostra os últimos posts")
     ap.add_argument("--demo", type=int, metavar="N", help="demonstração: envia N ofertas recentes de qualquer nicho")
-    ap.add_argument("--simular", action="store_true", help="com --demo: mostra o que faria, sem enviar")
+    ap.add_argument("--rodada", action="store_true",
+                    help="uma passada só: processa os posts novos desde a última rodada e sai (GitHub Actions)")
+    ap.add_argument("--simular", action="store_true", help="com --demo ou --rodada: mostra o que faria, sem enviar")
     args = ap.parse_args()
 
     if not API_ID or not API_HASH or not (CANAL_ORIGEM or args.procurar):
@@ -331,6 +363,11 @@ async def main():
         print("[aviso] LOJA_MAGALU vazio no .env: os links não terão sua loja!")
 
     vistos = carregar_vistos()
+
+    if args.rodada:
+        await modo_rodada(client, vistos, enviar=not args.simular)
+        await client.disconnect()
+        return
 
     @client.on(events.NewMessage(chats=CANAL_ORIGEM))
     async def novo_post(event):

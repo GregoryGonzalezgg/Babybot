@@ -6,6 +6,7 @@ Uso:
   python postar_shopee.py --quantidade 20 --intervalo 30 --inicio 11
   python postar_shopee.py --simular           -> só mostra os posts, não envia
   python postar_shopee.py --agendado          -> fica ligado postando 1 a cada INTERVALO_MIN (uso na VM)
+  python postar_shopee.py --rodada            -> posta 1 se estiver no horário e sai (GitHub Actions)
 """
 import argparse
 import asyncio
@@ -95,7 +96,15 @@ async def main():
     ap.add_argument("--simular", action="store_true")
     ap.add_argument("--agendado", action="store_true",
                     help="fica ligado e posta 1 oferta a cada INTERVALO_MIN minutos, dentro do horário do .env")
+    ap.add_argument("--rodada", action="store_true",
+                    help="posta 1 oferta se estiver no horário do .env e sai (GitHub Actions)")
     args = ap.parse_args()
+    if args.rodada:
+        agora = datetime.now(FUSO)
+        if not POSTAR_DAS <= agora.hour < POSTAR_ATE:
+            print(f"[{agora:%d/%m %H:%M}] fora do horário de postagem ({POSTAR_DAS}h-{POSTAR_ATE}h): nada a fazer.")
+            return
+        args.quantidade = 1
 
     if args.simular:
         for l in proximos(args.quantidade, args.inicio):

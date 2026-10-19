@@ -13,3 +13,7 @@ feed*.csv
 __pycache__/
 *.pyc
 .venv/
+
+# estado das rodadas do GitHub Actions: só os .json/.txt vão para o Git
+estado/fotos*/
+estado/*.csv
