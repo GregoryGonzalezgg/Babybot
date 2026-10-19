@@ -1,10 +1,10 @@
-# Babybot no GitHub Actions: cada execução faz UMA rodada e desliga.
-#   1. radar da Magalu: posta as ofertas de bebê publicadas desde a última rodada
-#   2. Shopee: renova a lista sozinha quando estiver acabando (feed oficial + curadoria 0-5 anos)
-#      e posta a próxima oferta (se estiver no horário)
-# O que já foi postado fica salvo em estado/ e volta para o repositório.
+# Babybot no GitHub Actions: a cada 5 minutos (das 8h às 22h, horário de Brasília)
+#   1. Magalu e Amazon: as ofertas de bebê novas nas fontes entram na FILA com uma nota de
+#      vantagem para o cliente (preço por unidade de fralda/lenço, desconto, cupom)
+#   2. Shopee: renova a lista quando estiver acabando e deixa 1 oferta esperando na fila
+#   3. Publica 1 post: a oferta mais vantajosa da fila (as de Magalu/Amazon vencem em 3 h)
+# A fila e o que já foi postado ficam em estado/ e voltam para o repositório.
 #
-# Roda sozinho a cada 30 min e também quando você clica em "Run workflow" (aba Actions).
 # Para pausar: aba Actions > Babybot > "..." > Disable workflow.
 name: Babybot
 
@@ -12,18 +12,17 @@ on:
   workflow_dispatch:
     inputs:
       posts:
-        description: "Teste: quantas ofertas da Shopee postar nesta execução (0 = rodada normal)"
+        description: "Teste: postar N ofertas da Shopee direto, sem fila (0 = rodada normal)"
         default: "0"
       intervalo:
         description: "Teste: segundos entre uma oferta e outra"
         default: "60"
-  # roda sozinho a cada 30 min das 8h às 21h30 (horário de Brasília = UTC-3),
-  # para caber nos minutos grátis do GitHub. Pode atrasar alguns minutos em horários de pico.
+  # repositório público = minutos ilimitados. O GitHub pode atrasar alguns minutos em horários de pico.
   schedule:
-    - cron: "*/30 11-23 * * *"   # 8h00 às 20h30
-    - cron: "0,30 0 * * *"       # 21h00 e 21h30
+    - cron: "*/5 11-23 * * *"   # 8h00 às 20h55
+    - cron: "*/5 0 * * *"       # 21h00 às 21h55
 
-# nunca duas rodadas ao mesmo tempo (evitaria posts em dobro)
+# nunca duas rodadas ao mesmo tempo (evita posts em dobro); a seguinte espera na fila
 concurrency:
   group: babybot-producao
   cancel-in-progress: false
@@ -34,8 +33,7 @@ permissions:
 jobs:
   rodada:
     runs-on: ubuntu-latest
-    # 60 min dá para os testes de "1 post por minuto"; a rodada normal leva ~1 min
-    timeout-minutes: 60
+    timeout-minutes: 60  # a rodada normal leva ~1 min; os testes manuais podem levar mais
     env:
       # segredos: ficam em Settings > Secrets and variables > Actions
       API_ID: ${{ secrets.API_ID }}
@@ -45,11 +43,12 @@ jobs:
       SHOPEE_AFILIADO_ID: "18373760431"
       # variáveis (Settings > Secrets and variables > Actions > Variables): troque lá sem mexer aqui
       SHOPEE_SUB_ID: ${{ vars.SHOPEE_SUB_ID || 'totuxababy' }}
+      AMAZON_TAG: ${{ vars.AMAZON_TAG }}
+      DESTINO: ${{ vars.DESTINO }}  # canal onde os posts saem (Totuxa Baby)
       # configurações (não são segredo)
       CANAL_ORIGEM: "@parceiromagaludivulgador"
       LOJA_MAGALU: casalbarateiro
       LINK_TEMPLATE: "https://www.magazinevoce.com.br/magazine{loja}/p/{id}/"
-      DESTINO: ${{ vars.DESTINO }}  # canal onde os posts saem (Totuxa Baby)
       NICHO: baby
       POSTAR_DAS: "8"
       POSTAR_ATE: "22"
@@ -65,20 +64,23 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Radar da Magalu (posts novos)
+      - name: Magalu (ofertas novas para a fila)
+        continue-on-error: true
         run: python radar.py --rodada
 
-      - name: Amazon (ofertas de bebê do Pelando e Promobit)
-        continue-on-error: true  # um problema aqui não impede a Shopee de postar
-        env:
-          AMAZON_TAG: ${{ vars.AMAZON_TAG }}  # vazio = só simula, não posta
+      - name: Amazon (ofertas novas para a fila)
+        continue-on-error: true
         run: python radar_amazon.py --rodada
 
       - name: Renovar a lista da Shopee (se estiver acabando)
-        continue-on-error: true  # se o download falhar, posta com a lista atual
+        continue-on-error: true  # se o download falhar, segue com a lista atual
         run: python curadoria_shopee.py --se-faltar 15
 
-      - name: Shopee (próxima oferta)
+      - name: Shopee (1 oferta esperando na fila)
+        continue-on-error: true
+        run: python postar_shopee.py --fila
+
+      - name: Publicar a oferta mais vantajosa
         env:
           POSTS: ${{ inputs.posts || '0' }}
           INTERVALO: ${{ inputs.intervalo || '60' }}
@@ -86,13 +88,16 @@ jobs:
           if [ "$POSTS" -gt 0 ]; then
             python postar_shopee.py --quantidade "$POSTS" --intervalo "$INTERVALO"
           else
-            python postar_shopee.py --rodada
+            python publicar.py
           fi
 
-      - name: Salvar o que já foi postado
+      - name: Salvar a fila e o que já foi postado
         if: always()
         run: |
           git config user.name "babybot"
           git config user.email "babybot@users.noreply.github.com"
           git add estado/*.json estado/*.txt listas/*.csv 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "estado: rodada ${{ github.run_number }}" && git push)
+          if ! git diff --cached --quiet; then
+            git commit -m "estado: rodada ${{ github.run_number }}"
+            git pull --rebase --quiet && git push
+          fi
