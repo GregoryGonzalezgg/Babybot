@@ -58,7 +58,12 @@ def montar_post(linha):
         linhas.append(f"💰 por {radar.brl(por)}")
     nota = linha["nota"].replace(".", ",")
     linhas.append(f"⭐ Nota {nota} | ❤️ {curtidas(linha['curtidas'])} curtidas")
-    linhas.append(f"🛍️ Shopee 👉 {linha['meu_link_afiliado']}")
+    link = linha["meu_link_afiliado"]
+    if "an_redir" in link:
+        # link montado é longo: vira texto clicável (o Telegram usa markdown por padrão)
+        linhas.append(f"🛍️ [👉 Ver oferta na Shopee]({link})")
+    else:
+        linhas.append(f"🛍️ Shopee 👉 {link}")
     linhas.append("⚠️ Preço e estoque podem mudar a qualquer momento")
     return "\n".join(linhas)
 

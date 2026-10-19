@@ -5,18 +5,39 @@ nota e curtidas, REMOVE PRODUTOS REPETIDOS (mesmo produto anunciado mais de
 uma vez) e grava curadoria_shopee_baby.csv. Links de afiliado já gerados
 numa curadoria anterior são mantidos.
 
-Uso: python curadoria_shopee.py caminho/do/feed.csv [--total 100]
+Produtos que já foram postados ficam de fora; produtos sem link do portal
+ganham o link de afiliado montado com SHOPEE_AFILIADO_ID.
+
+Uso:
+  python curadoria_shopee.py                    -> baixa os feeds (SHOPEE_FEED_URLS) e refaz a lista
+  python curadoria_shopee.py --se-faltar 15     -> só refaz se restarem menos de 15 ofertas (uso diário)
+  python curadoria_shopee.py feed1.csv feed2.csv -> usa CSVs já baixados
 """
 import argparse
 import csv
+import json
 import math
+import os
 import re
+import shutil
+import tempfile
 import unicodedata
+import urllib.request
 from collections import defaultdict
 from pathlib import Path
+from urllib.parse import quote
+
+from dotenv import load_dotenv
 
 PASTA = Path(__file__).parent
+load_dotenv(PASTA / ".env")
 SAIDA = PASTA / "listas" / "curadoria_shopee_baby.csv"
+ARQ_POSTADOS = Path(os.getenv("DADOS_DIR") or PASTA / "dados") / "postados_shopee.json"
+# links fixos dos CSVs em Criativo > Feed de produto, separados por vírgula
+FEED_URLS = os.getenv("SHOPEE_FEED_URLS", "")
+# seu ID de afiliado (aparece como utm_source=an_<ID> nos seus links) e a etiqueta de rastreio
+AFILIADO_ID = os.getenv("SHOPEE_AFILIADO_ID", "").strip()
+SUB_ID = os.getenv("SHOPEE_SUB_ID", "telegrambaby").strip()
 
 PT = {"Toys": "Brinquedos", "Girl Shoes": "Calçados menina", "Girl Clothes": "Roupas menina",
       "Boy Shoes": "Calçados menino", "Boy Clothes": "Roupas menino", "Nursery": "Quarto do bebê",
@@ -118,19 +139,39 @@ def mesmo_produto(a, b):
     return contidas >= (0.75 if a["shop_name"] == b["shop_name"] else 0.9)
 
 
-def carregar_candidatos(caminho_feed):
+def carregar_candidatos(caminhos_feed, ignorar=()):
+    """Lê um ou mais CSVs do feed. `ignorar` = IDs de produtos que não devem entrar
+    (os que já foram postados), para a lista nova trazer só ofertas inéditas."""
     csv.field_size_limit(10**8)
+    candidatos, vistos = [], set(ignorar)
+    for caminho_feed in caminhos_feed:
+        candidatos += _ler_feed(caminho_feed, vistos)
+    candidatos.sort(key=lambda r: -r["_nota"])
+    return candidatos
+
+
+def _ler_feed(caminho_feed, vistos):
     candidatos = []
     with open(caminho_feed, encoding="utf-8-sig", errors="surrogateescape", newline="") as fh:
         for r in csv.DictReader(fh):
-            if r["global_category1"] not in CATEGORIAS:
+            if r["global_category1"] not in CATEGORIAS or r["itemid"] in vistos:
                 continue
-            r = {k: corrigir(v) for k, v in r.items()}
+            vistos.add(r["itemid"])  # o mesmo produto pode vir nos dois feeds
+            r = {k: corrigir(v or "") for k, v in r.items()}
+            # o feed menor ("Shopee Brasil") não traz curtidas nem dados da loja
+            tem_popularidade = "like" in r
+            r.setdefault("shop_name", "")
+            r.setdefault("shop_rating", "")
+            r.setdefault("like", "")
             if not para_ate_5_anos(r):
                 continue
             d, nota, likes = num(r["discount_percentage"]), num(r["item_rating"]), num(r["like"])
-            if d < 25 or nota < 4.7 or likes < 30 or num(r["shop_rating"]) < 4.6 or num(r["sale_price"]) < 8:
+            if d < 25 or nota < 4.7 or num(r["sale_price"]) < 8:
                 continue
+            if tem_popularidade and (likes < 30 or num(r["shop_rating"]) < 4.6):
+                continue
+            if not tem_popularidade:
+                likes = 100  # sem o dado, conta como popularidade média (não ganha nem perde)
             t = normalizar(r["title"])
             alerta = []
             if not KIDS.search(t) and r["global_category2"] not in SEMPRE_INFANTIS:
@@ -145,7 +186,6 @@ def carregar_candidatos(caminho_feed):
                 nota_final -= 0.25
             r["_nota"], r["_alerta"], r["_chave"] = nota_final, alerta, palavras_chave(r["title"])
             candidatos.append(r)
-    candidatos.sort(key=lambda r: -r["_nota"])
     return candidatos
 
 
@@ -172,15 +212,68 @@ def links_existentes():
         return {l["link_produto"]: l.get("meu_link_afiliado", "") for l in csv.DictReader(f, delimiter=";")}
 
 
+def link_afiliado(link_produto):
+    """Monta o link de afiliado direto, sem passar pelo portal (mesmo rastreio dos links
+    gerados em "Link personalizado": utm_medium=affiliates + seu ID + Sub_id)."""
+    if not AFILIADO_ID:
+        return ""
+    return ("https://s.shopee.com.br/an_redir?origin_link=" + quote(link_produto, safe="")
+            + f"&affiliate_id={AFILIADO_ID}&sub_id={SUB_ID}")
+
+
+def carregar_postados():
+    try:
+        return set(json.loads(ARQ_POSTADOS.read_text(encoding="utf-8")))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set()
+
+
+def restantes_na_lista(postados):
+    if not SAIDA.exists():
+        return 0
+    with open(SAIDA, encoding="utf-8-sig") as f:
+        return sum(1 for l in csv.DictReader(f, delimiter=";")
+                   if l["link_produto"].rstrip("/").split("/")[-1] not in postados)
+
+
+def baixar_feeds(pasta):
+    """Baixa os CSVs do feed oficial (links fixos de Criativo > Feed de produto)."""
+    caminhos = []
+    for i, url in enumerate(u.strip() for u in FEED_URLS.split(",") if u.strip()):
+        destino = Path(pasta) / f"feed_{i + 1}.csv"
+        print(f"baixando feed {i + 1}...", flush=True)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=600) as r, open(destino, "wb") as f:
+            shutil.copyfileobj(r, f, 1024 * 1024)
+        caminhos.append(destino)
+    return caminhos
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("feed")
+    ap.add_argument("feeds", nargs="*", help="CSVs já baixados; sem isso, baixa de SHOPEE_FEED_URLS")
     ap.add_argument("--total", type=int, default=100)
+    ap.add_argument("--se-faltar", type=int, metavar="N",
+                    help="só refaz a lista se restarem menos de N ofertas ainda não postadas")
     args = ap.parse_args()
 
-    candidatos = carregar_candidatos(args.feed)
+    postados = carregar_postados()
+    if args.se_faltar is not None:
+        restam = restantes_na_lista(postados)
+        if restam >= args.se_faltar:
+            print(f"Lista da Shopee ok: {restam} ofertas ainda não postadas (mínimo {args.se_faltar}).")
+            return
+        print(f"Restam só {restam} ofertas: renovando a lista.", flush=True)
+
+    with tempfile.TemporaryDirectory() as tmp:
+        feeds = args.feeds or baixar_feeds(tmp)
+        if not feeds:
+            raise SystemExit("Nenhum feed: passe o CSV ou preencha SHOPEE_FEED_URLS no .env")
+        candidatos = carregar_candidatos(feeds, ignorar=postados)
     escolhidos, repetidos = selecionar(candidatos, args.total)
     links = links_existentes()
+    for r in escolhidos:  # sem link do portal: monta o link de afiliado
+        links[r["product_link"]] = links.get(r["product_link"]) or link_afiliado(r["product_link"])
 
     campos = ["rank", "nota_curadoria", "subcategoria", "produto", "preco_de", "preco_por", "desconto_%", "nota",
               "curtidas", "loja", "nota_loja", "alerta", "meu_link_afiliado", "foto", "link_produto"]
