@@ -1,39 +1,40 @@
-# Babybot no GitHub Actions: a cada 5 minutos (das 8h às 22h, horário de Brasília)
-#   1. Magalu e Amazon: as ofertas de bebê novas nas fontes entram na FILA com uma nota de
-#      vantagem para o cliente (preço por unidade de fralda/lenço, desconto, cupom)
-#   2. Shopee: renova a lista quando estiver acabando e deixa 1 oferta esperando na fila
-#   3. Publica 1 post: a oferta mais vantajosa da fila (as de Magalu/Amazon vencem em 3 h)
-# A fila e o que já foi postado ficam em estado/ e voltam para o repositório.
+# Babybot no GitHub Actions: cada execução fica ~55 minutos rodando o ciclo.py, que a cada
+# 5 minutos:
+#   1. coloca na FILA as ofertas de bebê novas de Magalu e Amazon, com uma nota de vantagem
+#      para o cliente (preço por unidade de fralda/lenço, desconto, cupom)
+#   2. renova a lista da Shopee quando estiver acabando e deixa 1 oferta esperando na fila
+#   3. publica 1 post: a oferta mais vantajosa (só das 8h às 22h, horário de Brasília)
+# No fim, a execução dispara a próxima (corrente contínua). O agendamento de hora em hora
+# é só reserva para religar a corrente se ela parar: o agendamento do GitHub atrasa e pula.
 #
-# Para pausar: aba Actions > Babybot > "..." > Disable workflow.
+# Para pausar: aba Actions > Babybot > "..." > Disable workflow (e cancele a execução em andamento).
 name: Babybot
 
 on:
   workflow_dispatch:
     inputs:
       posts:
-        description: "Teste: postar N ofertas da Shopee direto, sem fila (0 = rodada normal)"
+        description: "Teste: postar N ofertas da Shopee direto, sem fila (0 = ciclo normal)"
         default: "0"
       intervalo:
         description: "Teste: segundos entre uma oferta e outra"
         default: "60"
-  # repositório público = minutos ilimitados. O GitHub pode atrasar alguns minutos em horários de pico.
   schedule:
-    - cron: "*/5 11-23 * * *"   # 8h00 às 20h55
-    - cron: "*/5 0 * * *"       # 21h00 às 21h55
+    - cron: "17 * * * *"  # reserva: religa a corrente se ela parar
 
-# nunca duas rodadas ao mesmo tempo (evita posts em dobro); a seguinte espera na fila
+# só uma execução por vez; a próxima espera (evita posts em dobro)
 concurrency:
   group: babybot-producao
   cancel-in-progress: false
 
 permissions:
-  contents: write
+  contents: write  # salvar a fila e o que foi postado
+  actions: write   # disparar a próxima execução
 
 jobs:
-  rodada:
+  ciclo:
     runs-on: ubuntu-latest
-    timeout-minutes: 60  # a rodada normal leva ~1 min; os testes manuais podem levar mais
+    timeout-minutes: 75
     env:
       # segredos: ficam em Settings > Secrets and variables > Actions
       API_ID: ${{ secrets.API_ID }}
@@ -64,23 +65,12 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Magalu (ofertas novas para a fila)
-        continue-on-error: true
-        run: python radar.py --rodada
+      - name: Configurar o Git para salvar o estado
+        run: |
+          git config user.name "babybot"
+          git config user.email "babybot@users.noreply.github.com"
 
-      - name: Amazon (ofertas novas para a fila)
-        continue-on-error: true
-        run: python radar_amazon.py --rodada
-
-      - name: Renovar a lista da Shopee (se estiver acabando)
-        continue-on-error: true  # se o download falhar, segue com a lista atual
-        run: python curadoria_shopee.py --se-faltar 15
-
-      - name: Shopee (1 oferta esperando na fila)
-        continue-on-error: true
-        run: python postar_shopee.py --fila
-
-      - name: Publicar a oferta mais vantajosa
+      - name: Ciclo de ~55 minutos (1 post a cada 5 minutos)
         env:
           POSTS: ${{ inputs.posts || '0' }}
           INTERVALO: ${{ inputs.intervalo || '60' }}
@@ -88,16 +78,11 @@ jobs:
           if [ "$POSTS" -gt 0 ]; then
             python postar_shopee.py --quantidade "$POSTS" --intervalo "$INTERVALO"
           else
-            python publicar.py
+            python ciclo.py --minutos 55 --intervalo 300
           fi
 
-      - name: Salvar a fila e o que já foi postado
-        if: always()
-        run: |
-          git config user.name "babybot"
-          git config user.email "babybot@users.noreply.github.com"
-          git add estado/*.json estado/*.txt listas/*.csv 2>/dev/null || true
-          if ! git diff --cached --quiet; then
-            git commit -m "estado: rodada ${{ github.run_number }}"
-            git pull --rebase --quiet && git push
-          fi
+      - name: Disparar a próxima execução
+        if: ${{ !cancelled() && (inputs.posts || '0') == '0' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run babybot.yml --ref main -R "${{ github.repository }}"
