@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:23894173016",
-   "loja": "Shopee",
-   "texto": "🔥 Suporte Universal Adaptador Isofix Trava Banco Carro Cadeirinha Criança Bebe…\n💰 de R$ 149,85 por R$ 52,45 (-65%)\n⭐ Nota 4,91 | ❤️ 167 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1758699463%2F23894173016&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1792444906.315164,
-   "expira": false,
+   "id": "amazon:B07DHS2MZ8",
+   "loja": "Amazon",
+   "texto": "🔥 Caixa Registradora Rosa Com Luz e Som Creative Fun Multikids\n💰 por R$ 77,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07DHS2MZ8?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792445002.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-8260r-mm0onabuvwg16f"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
