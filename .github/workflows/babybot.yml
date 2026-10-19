@@ -31,7 +31,8 @@ permissions:
 jobs:
   rodada:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # 60 min dá para os testes de "1 post por minuto"; a rodada normal leva ~1 min
+    timeout-minutes: 60
     env:
       # segredos: ficam em Settings > Secrets and variables > Actions
       API_ID: ${{ secrets.API_ID }}
