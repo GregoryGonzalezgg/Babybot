@@ -37,7 +37,7 @@ ARQ_POSTADOS = Path(os.getenv("DADOS_DIR") or PASTA / "dados") / "postados_shope
 FEED_URLS = os.getenv("SHOPEE_FEED_URLS", "")
 # seu ID de afiliado (aparece como utm_source=an_<ID> nos seus links) e a etiqueta de rastreio
 AFILIADO_ID = os.getenv("SHOPEE_AFILIADO_ID", "").strip()
-SUB_ID = os.getenv("SHOPEE_SUB_ID", "telegrambaby").strip()
+SUB_ID = os.getenv("SHOPEE_SUB_ID", "totuxababy").strip()
 
 PT = {"Toys": "Brinquedos", "Girl Shoes": "Calçados menina", "Girl Clothes": "Roupas menina",
       "Boy Shoes": "Calçados menino", "Boy Clothes": "Roupas menino", "Nursery": "Quarto do bebê",
