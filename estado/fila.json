@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:18899677585",
+   "loja": "Shopee",
+   "texto": "🔥 Triciclo Unitoys Super Car Infantil Kids Criança Menino Menina Car Dino Criança…\n💰 de R$ 839,90 por R$ 377,95 (-55%)\n⭐ Nota 5 | ❤️ 44 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F824196618%2F18899677585&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 71.0,
+   "criado": 1792453187.3490095,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rd4e-m7tux0tbzhm9c4"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
