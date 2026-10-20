@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:56959372432",
-   "loja": "Shopee",
-   "texto": "🔥 Camiseta bebê menina Brasil Copa 2026 algodão brasileira roupa bebê Blusa…\n💰 de R$ 40,00 por R$ 13,90 (-65%)\n⭐ Nota 4,9 | ❤️ 1,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F56959372432&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1792527174.0975544,
-   "expira": false,
+   "id": "amazon:B09KNTZXKL",
+   "loja": "Amazon",
+   "texto": "🔥 Repelente Xô Inseto Baby Icaridina Longa Proteção Gel 100ml\n💰 por R$ 25,02\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09KNTZXKL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792527467.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820lc-mneeaeoj629td2"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
