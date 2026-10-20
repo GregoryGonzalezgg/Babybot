@@ -4,8 +4,8 @@
 #      para o cliente (preço por unidade de fralda/lenço, desconto, cupom)
 #   2. renova a lista da Shopee quando estiver acabando e deixa 1 oferta esperando na fila
 #   3. publica 1 post: a oferta mais vantajosa (só das 8h às 22h, horário de Brasília)
-# No fim, a execução dispara a próxima (corrente contínua). O agendamento de hora em hora
-# é só reserva para religar a corrente se ela parar: o agendamento do GitHub atrasa e pula.
+# No fim, a execução dispara a próxima (corrente contínua) até as 21h30; aí desliga e o
+# agendamento religa às 8h.
 #
 # Para pausar: aba Actions > Babybot > "..." > Disable workflow (e cancele a execução em andamento).
 name: Babybot
@@ -19,8 +19,12 @@ on:
       intervalo:
         description: "Teste: segundos entre uma oferta e outra"
         default: "60"
+  # funciona das 8h00 às 21h30 (Brasília = UTC-3). O agendamento do GitHub costuma atrasar,
+  # então liga com 3 tentativas de manhã e tem uma reserva de hora em hora se a corrente parar.
   schedule:
-    - cron: "17 * * * *"  # reserva: religa a corrente se ela parar
+    - cron: "0,20,40 11 * * *"   # 8h00, 8h20 e 8h40: liga o dia
+    - cron: "17 12-23 * * *"     # 9h17 às 20h17: reserva
+    - cron: "17 0 * * *"         # 21h17: reserva
 
 # só uma execução por vez; a próxima espera (evita posts em dobro)
 concurrency:
@@ -81,8 +85,14 @@ jobs:
             python ciclo.py --minutos 55 --intervalo 300
           fi
 
-      - name: Disparar a próxima execução
+      - name: Disparar a próxima execução (só até 21h30)
         if: ${{ !cancelled() && (inputs.posts || '0') == '0' }}
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run babybot.yml --ref main -R "${{ github.repository }}"
+        run: |
+          agora=$(TZ=America/Sao_Paulo date +%H%M)
+          if [ "$agora" -ge 0800 ] && [ "$agora" -lt 2130 ]; then
+            gh workflow run babybot.yml --ref main -R "${{ github.repository }}"
+          else
+            echo "Passou das 21h30 (agora $agora em Brasília): Babybot desligado até as 8h."
+          fi
