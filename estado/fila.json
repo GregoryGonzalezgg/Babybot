@@ -1,17 +1,18 @@
 {
  "itens": [
   {
-   "id": "shopee:10164023609",
-   "loja": "Shopee",
-   "texto": "🔥 Sapatinho Bebe Recem Nascido Nº 16 ao 23 Meia Tenis Flexivel Primeiros Passos…\n💰 de R$ 116,90 por R$ 49,90 (-57%)\n⭐ Nota 4,96 | ❤️ 159 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F318839552%2F10164023609&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 72.4,
-   "criado": 1792537435.3377645,
-   "expira": false,
+   "id": "magalu:feg7439ed3",
+   "loja": "Magalu",
+   "texto": "🔥 Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper - ATENTU\n💰 por R$ 413,51 no Pix\n💳 ou 6x de R$ 78,32 sem juros\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/feg7439ed3/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792537535.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz0wnkxg2kapdc"
+    "tipo": "telegram",
+    "chat": "@parceiromagaludivulgador",
+    "msg": 77689
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
