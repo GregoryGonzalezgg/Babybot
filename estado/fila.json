@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0B3S9QWQY",
-   "loja": "Amazon",
-   "texto": "🔥 Shampoo Infantil Sono Tranquilo 400ml Baruel Baby\n💰 por R$ 14,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B3S9QWQY?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792520172.0,
-   "expira": true,
+   "id": "shopee:58204179269",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Infantil Porta-Escova + Saboneteira Gatinho de Banheiro Infantil Decorativo…\n💰 de R$ 40,00 por R$ 19,91 (-50%)\n⭐ Nota 4,95\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F953965822%2F58204179269&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.1,
+   "criado": 1792520525.320217,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81zuf-mkjkqgnhwflv0e"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
