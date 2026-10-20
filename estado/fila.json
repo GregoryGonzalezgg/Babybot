@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B09KNTZXKL",
-   "loja": "Amazon",
-   "texto": "🔥 Repelente Xô Inseto Baby Icaridina Longa Proteção Gel 100ml\n💰 por R$ 25,02\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09KNTZXKL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792527467.0,
-   "expira": true,
+   "id": "shopee:40412452001",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 4 Potes Herméticos 180ml - Antivazamento, p/ Leite e Papinha de Bebê e…\n💰 de R$ 60,00 por R$ 19,99 (-67%)\n⭐ Nota 4,96 | ❤️ 507 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1352493725%2F40412452001&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1792527773.2764199,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ld-moie8a5eznk655"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
