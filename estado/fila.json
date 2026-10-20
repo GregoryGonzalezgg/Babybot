@@ -1,18 +1,17 @@
 {
  "itens": [
   {
-   "id": "magalu:feg7439ed3",
-   "loja": "Magalu",
-   "texto": "🔥 Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper - ATENTU\n💰 por R$ 413,51 no Pix\n💳 ou 6x de R$ 78,32 sem juros\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/feg7439ed3/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792537535.0,
-   "expira": true,
+   "id": "shopee:8510882783",
+   "loja": "Shopee",
+   "texto": "🔥 Mochila Maternidade Lequeen Dândi Smart Bolso Térmico\n💰 de R$ 399,90 por R$ 239,90 (-40%)\n⭐ Nota 4,96 | ❤️ 4,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F345061139%2F8510882783&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.0,
+   "criado": 1792537756.8838947,
+   "expira": false,
    "foto": {
-    "tipo": "telegram",
-    "chat": "@parceiromagaludivulgador",
-    "msg": 77689
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/c4ec643e6e99eb3614bae0faf7a278b3"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Magalu"
 }
