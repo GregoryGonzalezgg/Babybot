@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22994705886",
+   "loja": "Shopee",
+   "texto": "🔥 Short Bebê Menina em Suedine Up Baby\n💰 de R$ 44,90 por R$ 22,45 (-50%)\n⭐ Nota 5 | ❤️ 43 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F22994705886&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1792519926.3679683,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-822xr-mi3dp3zma9duf4"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
