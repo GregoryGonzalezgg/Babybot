@@ -1,4 +1,28 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B086BVM3QD",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Calça Mamypoko Dianoite P 46 Unidades\n💰 por R$ 43,52\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B086BVM3QD?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 38.0,
+   "criado": 1792536564.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:23594827868",
+   "loja": "Shopee",
+   "texto": "🔥 Carrinho de Bebê 3 em 1 Multifuncional Dobrável Reversível Confortável para…\n💰 de R$ 1.456,00 por R$ 779,99 (-46%)\n⭐ Nota 4,97 | ❤️ 1,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1721810104%2F23594827868&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 65.9,
+   "criado": 1792536836.417051,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820la-muefg55775s1c9"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
