@@ -1,33 +1,11 @@
 {
  "itens": [
   {
-   "id": "amazon:B095R9CKYR",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Huggies Natural Care RN 34 Unidades\n💰 por R$ 30,51\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B095R9CKYR?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 36.7,
-   "criado": 1792500206.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07MLMGNLB",
    "loja": "Amazon",
    "texto": "🔥 Composto Lácteo Neslac Supreme 800g\n💰 por R$ 62,97\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07MLMGNLB?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
    "nota": 50.0,
    "criado": 1792500978.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
-   "id": "amazon:B07X4GVF9H",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Pampers Supersequinha Tamanho G 80 Unidades\n💰 por R$ 75,71\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07X4GVF9H?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 69.8,
-   "criado": 1792501843.0,
    "expira": true,
    "foto": {
     "tipo": "previa"
@@ -87,7 +65,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:41269768635",
+   "loja": "Shopee",
+   "texto": "🔥 Banheira de Bebe com Suporte e Encosto Kit Dobrável 3 em 1 até 44 litros Pipdip\n💰 de R$ 599,99 por R$ 389,90 (-35%)\n⭐ Nota 4,89 | ❤️ 19,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F390278034%2F41269768635&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 59.0,
+   "criado": 1792511164.4115171,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m7-mu54ztzu1mv457"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
