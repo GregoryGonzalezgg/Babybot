@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22897638269",
+   "loja": "Shopee",
+   "texto": "🔥 Macacão Puffer Unissex para Bebê Up Baby\n💰 de R$ 314,90 por R$ 125,96 (-60%)\n⭐ Nota 5 | ❤️ 78 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F22897638269&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1792533516.3724728,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-lxtt5gvwcbdra0"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
