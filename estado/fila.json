@@ -43,7 +43,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:11482994790",
+   "loja": "Shopee",
+   "texto": "🔥 Mochila Preta Bolsa Saída Maternidade Lequeen Bebê Bolso Térmico\n💰 de R$ 399,90 por R$ 239,90 (-40%)\n⭐ Nota 4,99 | ❤️ 610 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F345061139%2F11482994790&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.0,
+   "criado": 1792512365.80033,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/db52b059e69c499e08ed0b2f366783db"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
