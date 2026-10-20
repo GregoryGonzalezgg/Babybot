@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B07MLMGNLB",
-   "loja": "Amazon",
-   "texto": "🔥 Composto Lácteo Neslac Supreme 800g\n💰 por R$ 62,97\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07MLMGNLB?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792500978.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07G5HBLC2",
    "loja": "Amazon",
    "texto": "🔥 Sabão Líquido Ola Coco para Roupas Finas e Delicadas 1L\n💰 por R$ 16,30\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07G5HBLC2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -54,19 +43,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:51859640369",
-   "loja": "Shopee",
-   "texto": "🔥 Urso de Pelúcia Ursinho Fofo Bebe 20cm Ursinho Peludo Coração Macio Cestas…\n💰 de R$ 51,85 por R$ 23,99 (-54%)\n⭐ Nota 5 | ❤️ 33 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F436723291%2F51859640369&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 70.2,
-   "criado": 1792511764.437376,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820lq-mnllciyra0hs03"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
