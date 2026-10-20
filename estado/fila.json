@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0B5YF3HSW",
-   "loja": "Amazon",
-   "texto": "🔥 Algodão Bellacotton 100 unidades\n💰 por R$ 24,70\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B5YF3HSW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792530050.0,
-   "expira": true,
+   "id": "shopee:21499839141",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 4 ou 10 Peças de Bebe Pijamas Infantil Menina Manga Comprida Pijamas 100%…\n💰 de R$ 128,00 por R$ 45,90 (-64%)\n⭐ Nota 4,94 | ❤️ 313 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F21499839141&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1792530495.587732,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m6-mmare2dd18uec7"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
