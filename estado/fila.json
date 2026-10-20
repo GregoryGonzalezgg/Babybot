@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23492406684",
+   "loja": "Shopee",
+   "texto": "🔥 Triciclo Infantil de Bebê 2 em 1 Função Carrinho Waygo VERMELHO - Maxi Toys\n💰 de R$ 899,90 por R$ 609,90 (-32%)\n⭐ Nota 4,92 | ❤️ 5,9 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F340054154%2F23492406684&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 57.3,
+   "criado": 1792521126.3900914,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-mchz6qbc61vla5"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
