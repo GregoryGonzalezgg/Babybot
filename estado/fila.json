@@ -34,16 +34,17 @@
    }
   },
   {
-   "id": "amazon:B08T1KT63Y",
-   "loja": "Amazon",
-   "texto": "🔥 Massinha de Modelar Brincando de Dentista Play-Doh 9 Acessórios\n💰 por R$ 67,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08T1KT63Y?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792504403.0,
-   "expira": true,
+   "id": "shopee:58261537947",
+   "loja": "Shopee",
+   "texto": "🔥 Macacão Jardineira Bebê Tricot Premium Vira Pé Unissex Romper Maternidade Recém…\n💰 de R$ 79,90 por R$ 39,98 (-50%)\n⭐ Nota 4,98\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1834008345%2F58261537947&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1792512963.417883,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m0-mos82348uj2d41"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
