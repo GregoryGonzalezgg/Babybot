@@ -11,7 +11,95 @@
     "tipo": "url",
     "url": "https://cf.shopee.com.br/file/sg-11134201-822yd-mi3i8mcigbgm3e"
    }
+  },
+  {
+   "id": "amazon:B095R9CKYR",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Huggies Natural Care RN 34 Unidades\n💰 por R$ 30,51\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B095R9CKYR?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 36.7,
+   "criado": 1792500206.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07MLMGNLB",
+   "loja": "Amazon",
+   "texto": "🔥 Composto Lácteo Neslac Supreme 800g\n💰 por R$ 62,97\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07MLMGNLB?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792500978.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07X4GVF9H",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Pampers Supersequinha Tamanho G 80 Unidades\n💰 por R$ 75,71\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07X4GVF9H?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.8,
+   "criado": 1792501843.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07G5HBLC2",
+   "loja": "Amazon",
+   "texto": "🔥 Sabão Líquido Ola Coco para Roupas Finas e Delicadas 1L\n💰 por R$ 16,30\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07G5HBLC2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792502600.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B076MH26JS",
+   "loja": "Amazon",
+   "texto": "🔥 Conjunto de Massinha Biscoitos Divertidos Play-Doh 5 Cores de Massa Acima de 3…\n💰 por R$ 60,79\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B076MH26JS?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792503395.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0CW6D6MSW",
+   "loja": "Amazon",
+   "texto": "🔥 Massinha de Modelar Play-Doh Kit Inicial de Números\n💰 por R$ 28,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CW6D6MSW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792504160.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08T1KT63Y",
+   "loja": "Amazon",
+   "texto": "🔥 Massinha de Modelar Brincando de Dentista Play-Doh 9 Acessórios\n💰 por R$ 67,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08T1KT63Y?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792504403.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B09P1YY3JP",
+   "loja": "Amazon",
+   "texto": "🔥 Conjunto Play-Doh Massinha Veterinário Pet Shop\n💰 por R$ 74,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09P1YY3JP?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792504791.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
