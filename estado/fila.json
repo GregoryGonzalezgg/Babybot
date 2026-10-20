@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:23493847588",
-   "loja": "Shopee",
-   "texto": "🔥 Triciclo Infantil 1 a 3 anos - Suporta 16kg - Empurrador e Pedal - Inmetro -…\n💰 de R$ 139,90 por R$ 59,90 (-57%)\n⭐ Nota 4,8 | ❤️ 435 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1007842724%2F23493847588&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 72.3,
-   "criado": 1792518703.7529535,
-   "expira": false,
+   "id": "amazon:B08HTGRMD3",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Pampers Splashers Baby Shark XG 10 unidades\n💰 por R$ 34,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08HTGRMD3?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1792518790.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7qncigkgyhg05"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
