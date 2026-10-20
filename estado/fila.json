@@ -56,16 +56,17 @@
    }
   },
   {
-   "id": "amazon:B09P1YY3JP",
-   "loja": "Amazon",
-   "texto": "🔥 Conjunto Play-Doh Massinha Veterinário Pet Shop\n💰 por R$ 74,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09P1YY3JP?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792504791.0,
-   "expira": true,
+   "id": "shopee:51859640369",
+   "loja": "Shopee",
+   "texto": "🔥 Urso de Pelúcia Ursinho Fofo Bebe 20cm Ursinho Peludo Coração Macio Cestas…\n💰 de R$ 51,85 por R$ 23,99 (-54%)\n⭐ Nota 5 | ❤️ 33 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F436723291%2F51859640369&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 70.2,
+   "criado": 1792511764.437376,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lq-mnllciyra0hs03"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
