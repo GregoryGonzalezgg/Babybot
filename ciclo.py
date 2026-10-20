@@ -12,6 +12,12 @@ import os
 import subprocess
 import sys
 import time
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+# horário de funcionamento (Brasília); depois de DESLIGA_AS o ciclo para e não dispara o próximo
+LIGA_AS = os.getenv("LIGA_AS", "08:00")
+DESLIGA_AS = os.getenv("DESLIGA_AS", "21:30")
 
 PASSOS = [
     ("Magalu", ["radar.py", "--rodada"]),
@@ -45,6 +51,15 @@ def salvar_estado(n):
         print("[aviso] não consegui salvar o estado no GitHub nesta rodada")
 
 
+def agora_brasilia():
+    return datetime.now(ZoneInfo("America/Sao_Paulo")).strftime("%H:%M")
+
+
+def no_horario():
+    """O ciclo só funciona entre LIGA_AS e DESLIGA_AS (horário de Brasília)."""
+    return LIGA_AS <= agora_brasilia() < DESLIGA_AS
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--minutos", type=int, default=55)
@@ -52,11 +67,17 @@ def main():
     args = ap.parse_args()
 
     fim = time.time() + args.minutos * 60
+    if not no_horario():
+        print(f"Fora do horário de funcionamento ({LIGA_AS}-{DESLIGA_AS}, Brasília): nada a fazer.", flush=True)
+        return
     n = 0
     while True:
         inicio = time.time()
+        if not no_horario():
+            print(f"Deu {DESLIGA_AS}: encerrando o dia.", flush=True)
+            break
         n += 1
-        print(f"===== rodada {n} ({time.strftime('%H:%M:%S', time.gmtime(inicio - 3 * 3600))} Brasília)", flush=True)
+        print(f"===== rodada {n} ({agora_brasilia()} Brasília)", flush=True)
         for nome, cmd in PASSOS:
             try:
                 rodar(nome, cmd)
