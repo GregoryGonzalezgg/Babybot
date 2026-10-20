@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B08HTGRMD3",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Pampers Splashers Baby Shark XG 10 unidades\n💰 por R$ 34,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08HTGRMD3?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 25.0,
-   "criado": 1792518790.0,
-   "expira": true,
+   "id": "shopee:46454658504",
+   "loja": "Shopee",
+   "texto": "🔥 Brincos Bebê Laço Zircônia Vnox para Meninas, Banho de Ouro, Hipoalergênico,…\n💰 de R$ 40,00 por R$ 20,00 (-50%)\n⭐ Nota 4,94 | ❤️ 147 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F239158067%2F46454658504&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1792519302.7759445,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8260j-mkc1a8vbplhe96"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
