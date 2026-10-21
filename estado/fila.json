@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0DJG4SRZ2",
-   "loja": "Amazon",
-   "texto": "🔥 Kit Portátil Para Limpeza De Mamadeira - Buba\n💰 por R$ 68,78\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DJG4SRZ2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792587445.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0C4M8S87B",
    "loja": "Amazon",
    "texto": "🔥 Chupeta Avent Ultra Air 6-18M\n💰 por R$ 19,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0C4M8S87B?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -76,19 +65,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:23094154781",
-   "loja": "Shopee",
-   "texto": "🔥 Copo Com Bico De Silicone 450ml Verde Infantil Music Fest Kikkaboo\n💰 de R$ 99,90 por R$ 49,90 (-50%)\n⭐ Nota 4,95 | ❤️ 333 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1419417476%2F23094154781&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 68.0,
-   "criado": 1792598039.8915153,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820lp-mu0ry4lot3pd1d"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
