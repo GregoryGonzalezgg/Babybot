@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0DC7131TZ",
-   "loja": "Amazon",
-   "texto": "🔥 Prato Bowl Fibra de Bambu Mimo Style 14x4cm\n💰 por R$ 4,86\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DC7131TZ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792616204.0,
-   "expira": true,
+   "id": "shopee:28180594768",
+   "loja": "Shopee",
+   "texto": "🔥 Vestido De Bebê menina 1 Ano Manga Voadora Estampa Margarida Tutu 1 °…\n💰 de R$ 146,19 por R$ 53,68 (-63%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1337220349%2F28180594768&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1792617059.6813483,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rd3y-m7pbtzfnyerhef"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
