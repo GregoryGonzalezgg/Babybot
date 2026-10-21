@@ -45,16 +45,17 @@
    }
   },
   {
-   "id": "amazon:B0B3F6BXLH",
-   "loja": "Amazon",
-   "texto": "🔥 Kit 2 Prendedores De Chupeta Coala Buba\n💰 por R$ 22,32\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B3F6BXLH?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792597118.0,
-   "expira": true,
+   "id": "shopee:22898324379",
+   "loja": "Shopee",
+   "texto": "🔥 Cadeira 3 em 1 Spoony Grey KikkaBoo - Alta e Booster\n💰 de R$ 399,00 por R$ 189,90 (-52%)\n⭐ Nota 4,86 | ❤️ 1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1419417476%2F22898324379&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.4,
+   "criado": 1792599233.723214,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfmaji5j6xu68"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
