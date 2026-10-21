@@ -1,4 +1,94 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B0DJG4SRZ2",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Portátil Para Limpeza De Mamadeira - Buba\n💰 por R$ 68,78\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DJG4SRZ2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792587445.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0C4M8S87B",
+   "loja": "Amazon",
+   "texto": "🔥 Chupeta Avent Ultra Air 6-18M\n💰 por R$ 19,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0C4M8S87B?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792587892.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B09CLQ1S9C",
+   "loja": "Amazon",
+   "texto": "🔥 Babador com Bolso Arco Iris Buba\n💰 por R$ 10,49\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09CLQ1S9C?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792588783.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07DCT1R39",
+   "loja": "Amazon",
+   "texto": "🔥 Porta Chupeta Mickey Baby, Plasútil\n💰 por R$ 7,69\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07DCT1R39?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792593835.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0BVG9B3NF",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Aspirador Nasal De Sucção e Seringa Buba\n💰 por R$ 18,14\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BVG9B3NF?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792594280.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0DH6NHXVV",
+   "loja": "Amazon",
+   "texto": "🔥 Copo de Treinamento Com Alça Buba\n💰 por R$ 29,45\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DH6NHXVV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792594824.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0B3F6BXLH",
+   "loja": "Amazon",
+   "texto": "🔥 Kit 2 Prendedores De Chupeta Coala Buba\n💰 por R$ 22,32\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B3F6BXLH?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792597118.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:23094154781",
+   "loja": "Shopee",
+   "texto": "🔥 Copo Com Bico De Silicone 450ml Verde Infantil Music Fest Kikkaboo\n💰 de R$ 99,90 por R$ 49,90 (-50%)\n⭐ Nota 4,95 | ❤️ 333 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1419417476%2F23094154781&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1792598039.8915153,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lp-mu0ry4lot3pd1d"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
