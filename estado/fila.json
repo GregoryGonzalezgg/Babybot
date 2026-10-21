@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:23994239136",
-   "loja": "Shopee",
-   "texto": "🔥 Linha Classic Bolsas Maternidade Kit completo Mochila, Bolsa e Necessaire -…\n💰 de R$ 349,90 por R$ 169,90 (-51%)\n⭐ Nota 4,95\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F630781626%2F23994239136&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 68.9,
-   "criado": 1792606771.0843825,
-   "expira": false,
+   "id": "amazon:B0C4VJ5DCQ",
+   "loja": "Amazon",
+   "texto": "🔥 Carrinho de Bebê Zap Burigotto\n💰 por R$ 452,70\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0C4VJ5DCQ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792607044.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820ld-mtk92hvy4ide2c"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
