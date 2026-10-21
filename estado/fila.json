@@ -65,7 +65,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:22893722574",
+   "loja": "Shopee",
+   "texto": "🔥 Boneca Lynmon Baby 20cm Roupinha Amarela com Orelhinhas - Toys Import 24012204\n💰 de R$ 249,90 por R$ 119,90 (-52%)\n⭐ Nota 5 | ❤️ 89 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F567914216%2F22893722574&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.2,
+   "criado": 1792598634.6759171,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabf5s3yqapia1"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
