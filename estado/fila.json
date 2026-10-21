@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:44217888618",
-   "loja": "Shopee",
-   "texto": "🔥 250 Sacos Congeladores De Leite Materno Mililitro-Conjunto De 30 Peças\n💰 de R$ 50,00 por R$ 19,99 (-60%)\n⭐ Nota 4,98\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1584386269%2F44217888618&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1792620080.8772116,
-   "expira": false,
+   "id": "amazon:B07F3GNLG8",
+   "loja": "Amazon",
+   "texto": "🔥 Nesquik em Pó Morango 380g\n💰 por R$ 11,30\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07F3GNLG8?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792620125.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-822xo-mi47apnafbwn01"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
