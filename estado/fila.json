@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B07FRYKPRL",
-   "loja": "Amazon",
-   "texto": "🔥 Kit Higiene Recém Nascido Lillo\n💰 por R$ 28,40\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FRYKPRL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792615748.0,
-   "expira": true,
+   "id": "shopee:28341456148",
+   "loja": "Shopee",
+   "texto": "🔥 Camisa Polo Bebe Menino Infantil Estilo Casual de algodão Basico nos tamanhos 2…\n💰 de R$ 50,00 por R$ 24,90 (-50%)\n⭐ Nota 4,88 | ❤️ 6,7 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F28341456148&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.1,
+   "criado": 1792616140.3036945,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mid913rd9zba24"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
