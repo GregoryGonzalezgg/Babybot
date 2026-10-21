@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0C4VJ5DCQ",
-   "loja": "Amazon",
-   "texto": "🔥 Carrinho de Bebê Zap Burigotto\n💰 por R$ 452,70\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0C4VJ5DCQ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792607044.0,
-   "expira": true,
+   "id": "shopee:23398402322",
+   "loja": "Shopee",
+   "texto": "🔥 Carrinho de Bebê e Berço Moises Napoli Preto Cobre Galzerano\n💰 de R$ 1.348,65 por R$ 959,90 (-29%)\n⭐ Nota 4,95 | ❤️ 7,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1479622710%2F23398402322&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.3,
+   "criado": 1792607091.9700706,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7repz-m8nymmk5bhk70a"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
