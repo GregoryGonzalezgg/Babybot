@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0C4M8S87B",
-   "loja": "Amazon",
-   "texto": "🔥 Chupeta Avent Ultra Air 6-18M\n💰 por R$ 19,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0C4M8S87B?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792587892.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B09CLQ1S9C",
    "loja": "Amazon",
    "texto": "🔥 Babador com Bolso Arco Iris Buba\n💰 por R$ 10,49\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09CLQ1S9C?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -65,19 +54,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:22893722574",
-   "loja": "Shopee",
-   "texto": "🔥 Boneca Lynmon Baby 20cm Roupinha Amarela com Orelhinhas - Toys Import 24012204\n💰 de R$ 249,90 por R$ 119,90 (-52%)\n⭐ Nota 5 | ❤️ 89 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F567914216%2F22893722574&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 69.2,
-   "criado": 1792598634.6759171,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-mabf5s3yqapia1"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
