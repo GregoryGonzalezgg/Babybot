@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23994239136",
+   "loja": "Shopee",
+   "texto": "🔥 Linha Classic Bolsas Maternidade Kit completo Mochila, Bolsa e Necessaire -…\n💰 de R$ 349,90 por R$ 169,90 (-51%)\n⭐ Nota 4,95\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F630781626%2F23994239136&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.9,
+   "criado": 1792606771.0843825,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ld-mtk92hvy4ide2c"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
