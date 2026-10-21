@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:47755620771",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 5 ou 2 Macacões de Bebe Menina Roupa Inverno Soft Peluciado Com Zíper…\n💰 de R$ 130,00 por R$ 59,90 (-54%)\n⭐ Nota 4,91 | ❤️ 2,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F47755620771&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 70.4,
+   "criado": 1792614041.278854,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81zuj-mkobm7l170n5c6"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
