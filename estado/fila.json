@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:19997868762",
+   "loja": "Shopee",
+   "texto": "🔥 Carrinho Speed Travel System Triciclo / 3 rodas + Bebê Conforto ColorBaby\n💰 de R$ 1.600,00 por R$ 849,99 (-47%)\n⭐ Nota 4,95 | ❤️ 3,6 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1352493725%2F19997868762&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 66.1,
+   "criado": 1792615541.3470612,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lh-mozot61rqd5161"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
