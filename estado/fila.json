@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B093G8NZ4Z",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Pom Pom Protek Proteção de Mãe XXG 30 unidades\n💰 por R$ 29,19\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B093G8NZ4Z?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 88.2,
-   "criado": 1792691112.0,
-   "expira": true,
+   "id": "shopee:5965156815",
+   "loja": "Shopee",
+   "texto": "🔥 Berço Moisés Portátil com Balanço Comfy Maxi Baby - Até 9kgs\n💰 de R$ 789,90 por R$ 549,00 (-30%)\n⭐ Nota 4,97 | ❤️ 37,6 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F340054154%2F5965156815&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 56.3,
+   "criado": 1792691461.6971881,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-ls8gz2uij3twea"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
