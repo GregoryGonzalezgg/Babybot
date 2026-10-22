@@ -67,17 +67,16 @@
    }
   },
   {
-   "id": "shopee:52717821108",
-   "loja": "Shopee",
-   "texto": "🔥 Sandália Infantil Menina Ipanema Little Joy Sand Baby Cereja Original\n💰 de R$ 119,99 por R$ 58,99 (-51%)\n⭐ Nota 5 | ❤️ 167 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F448506781%2F52717821108&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 68.5,
-   "criado": 1792684823.3220818,
-   "expira": false,
+   "id": "amazon:B082SGVSFJ",
+   "loja": "Amazon",
+   "texto": "🔥 Kit com 2 Escovas de Dentes Babys Brush Mam\n💰 por R$ 49,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B082SGVSFJ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792684865.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-82592-mt3y5l09nkec0f"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
