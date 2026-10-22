@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22498940463",
+   "loja": "Shopee",
+   "texto": "🔥 Fralda Descartável Pom Pom Protek Hiper G - 68 Unidades\n💰 de R$ 107,87 por R$ 69,99 (-35%)\n⭐ Nota 4,95 | ❤️ 3,8 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F683941545%2F22498940463&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 58.0,
+   "criado": 1792695390.3652115,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-825b1-mue1r10zwljeea"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
