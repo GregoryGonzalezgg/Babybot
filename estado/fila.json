@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0CCG9KL19",
-   "loja": "Amazon",
-   "texto": "🔥 Carrinho de Bebê Toffy Cosco Cinza Mescla\n💰 por R$ 399,89\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CCG9KL19?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792690480.0,
-   "expira": true,
+   "id": "shopee:20734773310",
+   "loja": "Shopee",
+   "texto": "🔥 Sandália Papete Infantil Menina Baby Abelhinha Leve Confortável Com Palmilha…\n💰 de R$ 87,90 por R$ 58,46 (-33%)\n⭐ Nota 4,94 | ❤️ 26,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F404144117%2F20734773310&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 58.1,
+   "criado": 1792690861.695248,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhmghvhc1ybl9f"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
