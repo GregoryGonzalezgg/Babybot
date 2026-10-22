@@ -10,7 +10,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:22595196663",
+   "loja": "Shopee",
+   "texto": "🔥 Babador Bandana Impermeável De Silicone Para Alimentação Bebê Com Pega Migalhas…\n💰 de R$ 30,00 por R$ 13,49 (-55%)\n⭐ Nota 4,97\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1784647262%2F22595196663&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 71.0,
+   "criado": 1792687543.251227,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820le-mthizzgist1de5"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
