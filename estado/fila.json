@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23597677495",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Sortido 4 Peças Pijama Infantil Bebê Menina Manga Longa (2 Camisetas + 2…\n💰 de R$ 118,00 por R$ 43,90 (-63%)\n⭐ Nota 4,82 | ❤️ 7,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F23597677495&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1792700534.2307482,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5zlarwvwua60"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
