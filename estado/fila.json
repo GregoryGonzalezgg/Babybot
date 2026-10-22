@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B07LF7C7YL",
-   "loja": "Amazon",
-   "texto": "🔥 Protetor Solar Infantil Nivea Sun FPS 60 150ml\n💰 por R$ 41,47\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🎟️ Cupom: 15CUPOM\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07LF7C7YL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 55.0,
-   "criado": 1792675410.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0D1DSFV8C",
    "loja": "Amazon",
    "texto": "🔥 Refil Sabonete Líquido Protex Baby Glicerina 800ml\n💰 por R$ 25,26\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D1DSFV8C?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -54,19 +43,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:21797986221",
-   "loja": "Shopee",
-   "texto": "🔥 Carrinho de Bebê Funny X3 Design Confortável Seguro Dobrável\n💰 de R$ 999,90 por R$ 599,90 (-40%)\n⭐ Nota 5 | ❤️ 1,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F582386382%2F21797986221&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 62.0,
-   "criado": 1792686023.6269014,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2v05poz86pxae"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
