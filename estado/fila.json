@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23792941501",
+   "loja": "Shopee",
+   "texto": "🔥 Andador Menina Rosa Primeiros Passos Bebê - Motoca Ketokinha - C/ 6 Peças…\n💰 de R$ 179,90 por R$ 79,90 (-56%)\n⭐ Nota 4,93 | ❤️ 1,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1007842724%2F23792941501&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 71.4,
+   "criado": 1792702654.5752532,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltp82wg154hrca"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
