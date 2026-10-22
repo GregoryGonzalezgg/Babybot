@@ -1,4 +1,28 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B07DHRJZ75",
+   "loja": "Amazon",
+   "texto": "🔥 Creme Para Assaduras Hipoglós Amêndoas 80g\n💰 por R$ 41,25\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07DHRJZ75?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792688464.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:23395151578",
+   "loja": "Shopee",
+   "texto": "🔥 Suporte Infantil para Banho em Pé, Apoio Antiderrapante para Bebês e Crianças,…\n💰 de R$ 602,00 por R$ 289,99 (-52%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1553241392%2F23395151578&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.1,
+   "criado": 1792688744.2802038,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m5-ms3un25wrtvrd7"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
