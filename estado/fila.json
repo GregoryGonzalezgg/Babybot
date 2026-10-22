@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:20734773310",
-   "loja": "Shopee",
-   "texto": "🔥 Sandália Papete Infantil Menina Baby Abelhinha Leve Confortável Com Palmilha…\n💰 de R$ 87,90 por R$ 58,46 (-33%)\n⭐ Nota 4,94 | ❤️ 26,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F404144117%2F20734773310&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 58.1,
-   "criado": 1792690861.695248,
-   "expira": false,
+   "id": "amazon:B093G8NZ4Z",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Pom Pom Protek Proteção de Mãe XXG 30 unidades\n💰 por R$ 29,19\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B093G8NZ4Z?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 88.2,
+   "criado": 1792691112.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhmghvhc1ybl9f"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
