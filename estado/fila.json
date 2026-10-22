@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:21999300451",
+   "loja": "Shopee",
+   "texto": "🔥 Cômoda de Bebê Americano 1 Porta 4 Gavetas Cinza - Henn\n💰 de R$ 1.550,89 por R$ 810,76 (-48%)\n⭐ Nota 5 | ❤️ 116 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F580791382%2F21999300451&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 66.6,
+   "criado": 1792695991.406729,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rd72-lx2rensn6kei96"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
