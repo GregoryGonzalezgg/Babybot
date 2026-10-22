@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23198224857",
+   "loja": "Shopee",
+   "texto": "🔥 Kits de 4 ou 8 Peças de Pijamas Curto Infantil para Bebê Meninas Confortáveis e…\n💰 de R$ 74,83 por R$ 37,90 (-49%)\n⭐ Nota 4,92 | ❤️ 2,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F23198224857&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 67.6,
+   "criado": 1792706280.3752692,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5wypdk9wch2c"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
