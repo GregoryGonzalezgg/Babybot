@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0BQ4113GM",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Huggies Supreme Care XXG 58 unidades\n💰 por R$ 61,65\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BQ4113GM?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 77.4,
-   "criado": 1792673476.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07LF7C7YL",
    "loja": "Amazon",
    "texto": "🔥 Protetor Solar Infantil Nivea Sun FPS 60 150ml\n💰 por R$ 41,47\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🎟️ Cupom: 15CUPOM\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07LF7C7YL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -87,19 +76,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:48514815488",
-   "loja": "Shopee",
-   "texto": "🔥 Sandália Infantil Zaxynina Dream Baby Laço Moranguinho Glitter Original\n💰 de R$ 139,99 por R$ 67,20 (-52%)\n⭐ Nota 5 | ❤️ 139 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F448506781%2F48514815488&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 69.2,
-   "criado": 1792684229.0844862,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134201-820m3-mr6b7cc0kt1h84"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
