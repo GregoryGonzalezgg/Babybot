@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:23999186220",
-   "loja": "Shopee",
-   "texto": "🔥 Camiseta Safári Infantil em Algodão Up Baby\n💰 de R$ 89,90 por R$ 44,95 (-50%)\n⭐ Nota 5 | ❤️ 122 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F23999186220&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 68.0,
-   "criado": 1792690261.769613,
-   "expira": false,
+   "id": "amazon:B0CCG9KL19",
+   "loja": "Amazon",
+   "texto": "🔥 Carrinho de Bebê Toffy Cosco Cinza Mescla\n💰 por R$ 399,89\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CCG9KL19?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792690480.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-822x5-mi09sh54pladd6"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
