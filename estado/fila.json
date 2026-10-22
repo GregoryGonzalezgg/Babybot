@@ -56,16 +56,17 @@
    }
   },
   {
-   "id": "amazon:6526109268",
-   "loja": "Amazon",
-   "texto": "🔥 Livro Sentimentômetro\n💰 por R$ 30,68\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/6526109268?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792681853.0,
-   "expira": true,
+   "id": "shopee:21797986221",
+   "loja": "Shopee",
+   "texto": "🔥 Carrinho de Bebê Funny X3 Design Confortável Seguro Dobrável\n💰 de R$ 999,90 por R$ 599,90 (-40%)\n⭐ Nota 5 | ❤️ 1,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F582386382%2F21797986221&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.0,
+   "criado": 1792686023.6269014,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2v05poz86pxae"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
