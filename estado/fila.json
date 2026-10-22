@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0D1DSFV8C",
-   "loja": "Amazon",
-   "texto": "🔥 Refil Sabonete Líquido Protex Baby Glicerina 800ml\n💰 por R$ 25,26\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D1DSFV8C?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792676293.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B087XSV9K8",
    "loja": "Amazon",
    "texto": "🔥 Kit 2 Mamadeiras Mam Easy Start Starter Set 130ml e 260ml Autoesterilizável…\n💰 por R$ 99,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B087XSV9K8?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -23,16 +12,17 @@
    }
   },
   {
-   "id": "amazon:B07M6SD7KQ",
-   "loja": "Amazon",
-   "texto": "🔥 Termômetro Digital Clínico G-Tech\n💰 por R$ 13,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07M6SD7KQ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792677610.0,
-   "expira": true,
+   "id": "shopee:58201639527",
+   "loja": "Shopee",
+   "texto": "🔥 Macaquinho com Faixa Cabelo para Bebê Up Baby\n💰 de R$ 149,90 por R$ 74,95 (-50%)\n⭐ Nota 5 | ❤️ 185 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F58201639527&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1792687223.2401903,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-822xc-mi0ipm8te3usbb"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
