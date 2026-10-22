@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:58206927432",
+   "loja": "Shopee",
+   "texto": "🔥 Berço Portátil Com Mosquiteiro Cama De Duas Camas 0-3 Anos Fecho De Segurança 3…\n💰 de R$ 1.689,99 por R$ 598,79 (-65%)\n⭐ Nota 4,96\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1130732424%2F58206927432&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1792708402.525776,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lu-mqxxcodxafwn71"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
