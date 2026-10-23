@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B08PL4G9S4",
-   "loja": "Amazon",
-   "texto": "🔥 Kit Talheres Princesas Disney Simonaggio 3 Peças\n💰 por R$ 10,62\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08PL4G9S4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792761920.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0CHZ9XXPX",
    "loja": "Amazon",
    "texto": "🔥 Creme Contra Assadura Hipoglós Original 40g\n💰 por R$ 14,18\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CHZ9XXPX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -156,5 +145,5 @@
    }
   }
  ],
- "ultima_loja": "Magalu"
+ "ultima_loja": "Amazon"
 }
