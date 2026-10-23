@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B07DHS1MD2",
-   "loja": "Amazon",
-   "texto": "🔥 Shampoo Gotas de Brilho Johnsons Baby 400ml\n💰 por R$ 12,94\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07DHS1MD2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792762705.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B077C2D43T",
    "loja": "Amazon",
    "texto": "🔥 Shampoo Cabelos Claros Johnsons 400ml\n💰 por R$ 14,88\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B077C2D43T?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -109,7 +98,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:53001118831",
+   "loja": "Shopee",
+   "texto": "🔥 Berço 3 em 1 para Colchão 130 x 60cm com Cômoda Framboesa Multimóveis MP4679\n💰 de R$ 1.699,90 por R$ 919,99 (-46%)\n⭐ Nota 4,86 | ❤️ 3 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F308628919%2F53001118831&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 65.5,
+   "criado": 1792773697.701302,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-821eu-mgwhbda10lxl2a"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
