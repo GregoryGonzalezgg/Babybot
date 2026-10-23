@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23494144061",
+   "loja": "Shopee",
+   "texto": "🔥 Conjunto Curto Alfaiataria Feminino Bebê Lilica Ripilica\n💰 de R$ 479,00 por R$ 239,50 (-50%)\n⭐ Nota 5 | ❤️ 1,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F980954412%2F23494144061&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1792788813.7703993,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rau3-mavl4srp0c40d0"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
