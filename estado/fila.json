@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0FXN957HN",
-   "loja": "Amazon",
-   "texto": "🔥 Algodão Recém-Nascido Johnsons baby 100 unidades\n💰 por R$ 17,56\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FXN957HN?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792765272.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07F1Z5G1H",
    "loja": "Amazon",
    "texto": "🔥 Band-Aid Curativos Adesivos Ultra Protection 15 Unidades\n💰 por R$ 9,86\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07F1Z5G1H?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -54,7 +43,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:22197421540",
+   "loja": "Shopee",
+   "texto": "🔥 Combo 3 Meia Calça Infantil Feminina Meia Calça Bebê Menina\n💰 de R$ 81,90 por R$ 49,95 (-39%)\n⭐ Nota 4,89 | ❤️ 6,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F287287585%2F22197421540&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 61.4,
+   "criado": 1792776096.9471493,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-lt5b4krhyszj9c"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
