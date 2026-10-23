@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B077BY84XX",
-   "loja": "Amazon",
-   "texto": "🔥 Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnsons Baby 400ml\n💰 por R$ 16,26\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B077BY84XX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792764227.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0FXN957HN",
    "loja": "Amazon",
    "texto": "🔥 Algodão Recém-Nascido Johnsons baby 100 unidades\n💰 por R$ 17,56\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FXN957HN?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -65,19 +54,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:18097191974",
-   "loja": "Shopee",
-   "texto": "🔥 Brinquedo de Bebê Educativo e Pedagógico Bolas Macias Vinil Empilhar Diferente…\n💰 de R$ 49,90 por R$ 25,90 (-48%)\n⭐ Nota 4,91 | ❤️ 814 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F436723291%2F18097191974&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 66.9,
-   "criado": 1792774895.887835,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820mf-msmvtngze51jf0"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
