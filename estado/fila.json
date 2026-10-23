@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0CHZ9XXPX",
-   "loja": "Amazon",
-   "texto": "🔥 Creme Contra Assadura Hipoglós Original 40g\n💰 por R$ 14,18\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CHZ9XXPX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792762215.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07DHS1MD2",
    "loja": "Amazon",
    "texto": "🔥 Shampoo Gotas de Brilho Johnsons Baby 400ml\n💰 por R$ 12,94\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07DHS1MD2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -131,19 +120,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:22594938738",
-   "loja": "Shopee",
-   "texto": "🔥 Travesseiro Anti Refluxo Premium Com Fronha Bebê Para Berço Americano Carrinho…\n💰 de R$ 89,90 por R$ 29,97 (-67%)\n⭐ Nota 4,9\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F382713673%2F22594938738&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1792772473.9705706,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820ls-mmkghpy7b9j83f"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
