@@ -34,16 +34,17 @@
    }
   },
   {
-   "id": "amazon:B07NPWTYJT",
-   "loja": "Amazon",
-   "texto": "🔥 Água De Limpeza Granado Bebê Peles Sensíveis 500ml\n💰 por R$ 49,41\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07NPWTYJT?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792767608.0,
-   "expira": true,
+   "id": "shopee:18898868524",
+   "loja": "Shopee",
+   "texto": "🔥 Fralda Descartável Babysec Premium Shortinho Hiper M 60 Unidades\n💰 de R$ 107,99 por R$ 70,90 (-34%)\n⭐ Nota 4,94 | ❤️ 7 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F683941545%2F18898868524&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1792776416.7546563,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8259f-mue1r3k4njswd3"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
