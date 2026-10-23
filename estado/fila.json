@@ -1,28 +1,4 @@
 {
- "itens": [
-  {
-   "id": "amazon:B084HDSB5N",
-   "loja": "Amazon",
-   "texto": "🔥 Degrau Step Dots, Clingo\n💰 por R$ 31,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B084HDSB5N?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792767099.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
-   "id": "shopee:23694758102",
-   "loja": "Shopee",
-   "texto": "🔥 Copo Garrafa Térmica Inox Parede Dupla c/Canudo 350ml Lillo\n💰 de R$ 119,00 por R$ 64,90 (-45%)\n⭐ Nota 4,98 | ❤️ 377 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F340054154%2F23694758102&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 65.3,
-   "criado": 1792777617.6691635,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-81zww-mj07obk6qcjl54"
-   }
-  }
- ],
- "ultima_loja": "Amazon"
+ "itens": [],
+ "ultima_loja": "Shopee"
 }
