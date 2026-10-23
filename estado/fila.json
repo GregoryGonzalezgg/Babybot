@@ -89,16 +89,17 @@
    }
   },
   {
-   "id": "amazon:B07FS8P22T",
-   "loja": "Amazon",
-   "texto": "🔥 Kit de Mamadeira Primeiros Passos 50/150/240ml Lillo\n💰 por R$ 39,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FS8P22T?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792773973.0,
-   "expira": true,
+   "id": "shopee:22891254235",
+   "loja": "Shopee",
+   "texto": "🔥 Colchão para Moisés Oval de Berço Infantil Bebê Antialérgico 138x68x10cm BF…\n💰 de R$ 376,87 por R$ 221,10 (-41%)\n⭐ Nota 4,98 | ❤️ 971 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F412482669%2F22891254235&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.8,
+   "criado": 1792774295.709323,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134201-7r98o-m1e4rqt0wen63e"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
