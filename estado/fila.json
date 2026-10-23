@@ -1,4 +1,193 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B08287SRQ9",
+   "loja": "Amazon",
+   "texto": "🔥 Mordedor Meu Controle Multi-Colored Pais Filhos\n💰 por R$ 18,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08287SRQ9?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792759917.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08V2FY633",
+   "loja": "Amazon",
+   "texto": "🔥 Caneca Aprendizado Lillo 150ml\n💰 por R$ 26,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08V2FY633?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792760175.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07DXKBXXX",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Cremer XXG 16 unidades\n💰 por R$ 17,05\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07DXKBXXX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 77.1,
+   "criado": 1792760348.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B089YLCYBZ",
+   "loja": "Amazon",
+   "texto": "🔥 Creme Para Assaduras Hipoglós Transparente 30g\n💰 por R$ 14,79\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B089YLCYBZ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792760692.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08PL4G9S4",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Talheres Princesas Disney Simonaggio 3 Peças\n💰 por R$ 10,62\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08PL4G9S4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792761920.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0CHZ9XXPX",
+   "loja": "Amazon",
+   "texto": "🔥 Creme Contra Assadura Hipoglós Original 40g\n💰 por R$ 14,18\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CHZ9XXPX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792762215.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07DHS1MD2",
+   "loja": "Amazon",
+   "texto": "🔥 Shampoo Gotas de Brilho Johnsons Baby 400ml\n💰 por R$ 12,94\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07DHS1MD2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792762705.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B077C2D43T",
+   "loja": "Amazon",
+   "texto": "🔥 Shampoo Cabelos Claros Johnsons 400ml\n💰 por R$ 14,88\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B077C2D43T?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792763196.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B085CZ2F4J",
+   "loja": "Amazon",
+   "texto": "🔥 Refil Sabonete Líquido de Glicerina Johnsons Baby da Cabeça aos Pés 380ml\n💰 por R$ 16,71\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B085CZ2F4J?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792764040.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B077BY84XX",
+   "loja": "Amazon",
+   "texto": "🔥 Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnsons Baby 400ml\n💰 por R$ 16,26\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B077BY84XX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792764227.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0FXN957HN",
+   "loja": "Amazon",
+   "texto": "🔥 Algodão Recém-Nascido Johnsons baby 100 unidades\n💰 por R$ 17,56\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FXN957HN?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792765272.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07F1Z5G1H",
+   "loja": "Amazon",
+   "texto": "🔥 Band-Aid Curativos Adesivos Ultra Protection 15 Unidades\n💰 por R$ 9,86\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07F1Z5G1H?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792765787.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07CT51QCW",
+   "loja": "Amazon",
+   "texto": "🔥 Mictório Sapinho Clingo\n💰 por R$ 23,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07CT51QCW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792766524.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B084HDSB5N",
+   "loja": "Amazon",
+   "texto": "🔥 Degrau Step Dots, Clingo\n💰 por R$ 31,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B084HDSB5N?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792767099.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07NPWTYJT",
+   "loja": "Amazon",
+   "texto": "🔥 Água De Limpeza Granado Bebê Peles Sensíveis 500ml\n💰 por R$ 49,41\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07NPWTYJT?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792767608.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B077C4JWCK",
+   "loja": "Amazon",
+   "texto": "🔥 Condicionador Johnsons Gotas De Brilho 200ml\n💰 por R$ 12,18\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B077C4JWCK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792769636.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:58254404195",
+   "loja": "Shopee",
+   "texto": "🔥 Trocador de Bebê Dobrável 3 Alturas com Cesto Organizador, Rodízios e Espaço…\n💰 de R$ 1.200,00 por R$ 369,99 (-69%)\n⭐ Nota 4,86 | ❤️ 226 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1721810104%2F58254404195&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1792770680.9333766,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820la-muhrolpgdhxec2"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
