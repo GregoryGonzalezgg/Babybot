@@ -1,28 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B08V2FY633",
-   "loja": "Amazon",
-   "texto": "🔥 Caneca Aprendizado Lillo 150ml\n💰 por R$ 26,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08V2FY633?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792760175.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
-   "id": "amazon:B07DXKBXXX",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Cremer XXG 16 unidades\n💰 por R$ 17,05\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07DXKBXXX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 77.1,
-   "criado": 1792760348.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B089YLCYBZ",
    "loja": "Amazon",
    "texto": "🔥 Creme Para Assaduras Hipoglós Transparente 30g\n💰 por R$ 14,79\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B089YLCYBZ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -164,7 +142,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:20399831853",
+   "loja": "Shopee",
+   "texto": "🔥 Tenis Infantil Bebe Meninos Spider Marvel Casual Original\n💰 de R$ 229,90 por R$ 98,86 (-57%)\n⭐ Nota 5 | ❤️ 33 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F710078531%2F20399831853&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 72.2,
+   "criado": 1792771275.2106295,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7ravm-mauako30aneb27"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
