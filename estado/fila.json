@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B08287SRQ9",
-   "loja": "Amazon",
-   "texto": "🔥 Mordedor Meu Controle Multi-Colored Pais Filhos\n💰 por R$ 18,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08287SRQ9?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792759917.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B08V2FY633",
    "loja": "Amazon",
    "texto": "🔥 Caneca Aprendizado Lillo 150ml\n💰 por R$ 26,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08V2FY633?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -175,19 +164,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:58254404195",
-   "loja": "Shopee",
-   "texto": "🔥 Trocador de Bebê Dobrável 3 Alturas com Cesto Organizador, Rodízios e Espaço…\n💰 de R$ 1.200,00 por R$ 369,99 (-69%)\n⭐ Nota 4,86 | ❤️ 226 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1721810104%2F58254404195&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1792770680.9333766,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820la-muhrolpgdhxec2"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
