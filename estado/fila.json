@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B077C2D43T",
-   "loja": "Amazon",
-   "texto": "🔥 Shampoo Cabelos Claros Johnsons 400ml\n💰 por R$ 14,88\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B077C2D43T?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1792763196.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B085CZ2F4J",
    "loja": "Amazon",
    "texto": "🔥 Refil Sabonete Líquido de Glicerina Johnsons Baby da Cabeça aos Pés 380ml\n💰 por R$ 16,71\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B085CZ2F4J?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -100,17 +89,16 @@
    }
   },
   {
-   "id": "shopee:53001118831",
-   "loja": "Shopee",
-   "texto": "🔥 Berço 3 em 1 para Colchão 130 x 60cm com Cômoda Framboesa Multimóveis MP4679\n💰 de R$ 1.699,90 por R$ 919,99 (-46%)\n⭐ Nota 4,86 | ❤️ 3 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F308628919%2F53001118831&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 65.5,
-   "criado": 1792773697.701302,
-   "expira": false,
+   "id": "amazon:B07FS8P22T",
+   "loja": "Amazon",
+   "texto": "🔥 Kit de Mamadeira Primeiros Passos 50/150/240ml Lillo\n💰 por R$ 39,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FS8P22T?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1792773973.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-821eu-mgwhbda10lxl2a"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
