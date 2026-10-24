@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:48906958626",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 4 Peças De Roupa Infantil Menina Conjuntos De Moletom Peluciado Para Bebês…\n💰 de R$ 100,00 por R$ 52,90 (-47%)\n⭐ Nota 4,81 | ❤️ 1,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F48906958626&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 66.3,
+   "criado": 1792862083.9373627,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ma-mn5q9rkjwr2a76"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
