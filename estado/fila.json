@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22897601642",
+   "loja": "Shopee",
+   "texto": "🔥 Conjunto Moletom Minimalista Bebê Menina Neném Blusa e Calça Manga Longa Roupa…\n💰 de R$ 60,00 por R$ 29,90 (-50%)\n⭐ Nota 4,71 | ❤️ 4,6 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F22897601642&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.1,
+   "criado": 1792859963.9515681,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lq-mpdpp2apn6yu4a"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
