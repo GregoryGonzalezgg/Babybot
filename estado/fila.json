@@ -23,17 +23,6 @@
    }
   },
   {
-   "id": "amazon:B08JXN4GM6",
-   "loja": "Amazon",
-   "texto": "🔥 Pote Térmico C/Colher - Gumy Verde Verde Buba\n💰 por R$ 71,59\n🎟️ Cupom: CUPOM15BR\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08JXN4GM6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 55.0,
-   "criado": 1792849642.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07LH7GQXV",
    "loja": "Amazon",
    "texto": "🔥 Kit com 2 Bicos de Mamadeira de Silicone SkinSoft Número 2 - MAM\n💰 por R$ 39,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07LH7GQXV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -43,7 +32,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:13014492738",
+   "loja": "Shopee",
+   "texto": "🔥 Brinco infantil prata 925 coroa rosa baby\n💰 de R$ 97,20 por R$ 52,00 (-47%)\n⭐ Nota 4,91 | ❤️ 367 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F328147687%2F13014492738&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 65.9,
+   "criado": 1792854826.9629068,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134211-23020-zm15agz6f7mv10"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
