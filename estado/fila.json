@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22997388651",
+   "loja": "Shopee",
+   "texto": "🔥 Sabonete Líquido para Bebês Protex Baby Lavanda 400ml\n💰 de R$ 56,49 por R$ 25,64 (-55%)\n⭐ Nota 5 | ❤️ 582 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F557242410%2F22997388651&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 70.8,
+   "criado": 1792866906.0010047,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rd58-lutmzofii0sbf8"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
