@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22198376841",
+   "loja": "Shopee",
+   "texto": "🔥 Sabonete Liquido De Glicerina Granado Bebê Tradicional 500ml\n💰 de R$ 75,49 por R$ 53,19 (-30%)\n⭐ Nota 4,94 | ❤️ 703 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F560644869%2F22198376841&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.7,
+   "criado": 1792962744.201341,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9yjq3234g0207"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
