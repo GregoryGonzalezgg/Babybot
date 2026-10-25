@@ -34,17 +34,6 @@
    }
   },
   {
-   "id": "amazon:B07GB34N8Q",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Mili Baby G 20 unidades\n💰 por R$ 17,65\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07GB34N8Q?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 78.9,
-   "criado": 1792933790.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07FPQVWNW",
    "loja": "Amazon",
    "texto": "🔥 Kit Mamadeira My 1st NUK 150ml e 300ml 2 Unidades\n💰 por R$ 59,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FPQVWNW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -54,7 +43,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:58253939259",
+   "loja": "Shopee",
+   "texto": "🔥 Camisa Polo em Suedine para Menino Up Baby\n💰 de R$ 94,90 por R$ 37,96 (-60%)\n⭐ Nota 4,89 | ❤️ 45 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F58253939259&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1792940695.4298787,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8260d-mju7cbhnp9ms31"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
