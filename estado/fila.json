@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B07X83MH7M",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Pampers Pants Premium Care G 68 unidades\n💰 por R$ 89,20\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07X83MH7M?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 25.0,
-   "criado": 1793028850.0,
-   "expira": true,
+   "id": "shopee:58252921681",
+   "loja": "Shopee",
+   "texto": "🔥 Carrinho de Bebê 3 Em1 Dobrável e Portátil,Com Conforto Moíses Reversível e…\n💰 de R$ 2.999,00 por R$ 1.799,99 (-40%)\n⭐ Nota 5 | ❤️ 1,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1643642637%2F58252921681&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.0,
+   "criado": 1793037845.3805106,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8ex81c74si51"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
