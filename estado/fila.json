@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:43858884812",
+   "loja": "Shopee",
+   "texto": "🔥 Sabonete Em Barra Infantil Baruel Baby Camomila Com 70g\n💰 de R$ 15,19 por R$ 9,79 (-36%)\n⭐ Nota 4,91 | ❤️ 2,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F560644869%2F43858884812&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 59.3,
+   "criado": 1793051174.9752722,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rdww-mcb6zg5db2sge3"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
