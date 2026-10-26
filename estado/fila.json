@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22697508813",
+   "loja": "Shopee",
+   "texto": "🔥 Quadriciclo Infantil Andador Rosa Princesa - O Maior Da Categoria - A Partir de…\n💰 de R$ 179,90 por R$ 79,90 (-56%)\n⭐ Nota 4,89 | ❤️ 5,8 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1007842724%2F22697508813&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 71.4,
+   "criado": 1793054198.6521332,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv6x1sur15sfa2"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
