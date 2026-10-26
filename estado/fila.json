@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:54959184259",
-   "loja": "Shopee",
-   "texto": "🔥 Meninas sandálias versão coreana primavera outono princesa sapatos de sola…\n💰 de R$ 91,50 por R$ 50,50 (-45%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1803884590%2F54959184259&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 64.9,
-   "criado": 1793048456.0547578,
-   "expira": false,
+   "id": "amazon:B08K4JSQ2M",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Pampers Pants Premium Care XG 96 Unidades\n💰 por R$ 133,81\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08K4JSQ2M?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1793048467.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/cn-11134207-820l4-molibb41k8b390"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
