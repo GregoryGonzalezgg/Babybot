@@ -1,4 +1,74 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "magalu:dgc35ja3ek",
+   "loja": "Magalu",
+   "texto": "🔥 Cozinha De Brinquedo Mini Chef Com Acessórios Luz e Água - Brinq Kids\n💰 por R$ 60,80 no Pix\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/dgc35ja3ek/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793025277.0,
+   "expira": true,
+   "foto": {
+    "tipo": "telegram",
+    "chat": "@parceiromagaludivulgador",
+    "msg": 77900
+   }
+  },
+  {
+   "id": "amazon:B07VRYJWPC",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Refil Repelente Elétrico Líquido SBP com 2 unidades de 32,9ml\n💰 por R$ 15,19\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07VRYJWPC?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793027198.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0HBRPYMQN",
+   "loja": "Amazon",
+   "texto": "🔥 Sabonete Líquido de Glicerina Frutas Vermelhas Johnsons Baby 400ml\n💰 por R$ 23,94\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0HBRPYMQN?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793028005.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07VLJCJSW",
+   "loja": "Amazon",
+   "texto": "🔥 Repelente Elétrico Líquido Sbp 45 Noites Novo Aparelho + Refil\n💰 por R$ 14,24\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07VLJCJSW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793028694.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07X83MH7M",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Pampers Pants Premium Care G 68 unidades\n💰 por R$ 89,20\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07X83MH7M?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1793028850.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:22097625135",
+   "loja": "Shopee",
+   "texto": "🔥 Banco De Cintura Para Bebê Canguru Bebe Passeio Varias Cores Mochila Infantil…\n💰 de R$ 266,00 por R$ 95,99 (-64%)\n⭐ Nota 4,94\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F400311012%2F22097625135&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793034853.126881,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rdyh-mc0pqg2qrycu53"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
