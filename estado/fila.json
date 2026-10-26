@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:54959184259",
+   "loja": "Shopee",
+   "texto": "🔥 Meninas sandálias versão coreana primavera outono princesa sapatos de sola…\n💰 de R$ 91,50 por R$ 50,50 (-45%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1803884590%2F54959184259&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 64.9,
+   "criado": 1793048456.0547578,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/cn-11134207-820l4-molibb41k8b390"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
