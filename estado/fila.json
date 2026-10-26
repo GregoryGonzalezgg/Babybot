@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:22098384145",
-   "loja": "Shopee",
-   "texto": "🔥 Kit 1, 2 ou 3 Blusas Térmicas Bebê Menina Manga Longa Feminino Blusas Térmicas…\n💰 de R$ 40,00 por R$ 14,90 (-63%)\n⭐ Nota 4,84 | ❤️ 5,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F22098384145&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1793055098.6515582,
-   "expira": false,
+   "id": "amazon:B0D4F6VVYV",
+   "loja": "Amazon",
+   "texto": "🔥 Trio Chupeta Mam Original\n💰 por R$ 66,40\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D4F6VVYV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793055300.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjsil8hfqltt77"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
