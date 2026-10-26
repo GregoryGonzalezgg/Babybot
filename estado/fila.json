@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:23399173026",
-   "loja": "Shopee",
-   "texto": "🔥 Sandália Cartago Malaga Sport Baby Infantil Menino Tiras Ajustáveis Velcro…\n💰 de R$ 169,99 por R$ 69,70 (-59%)\n⭐ Nota 4,99 | ❤️ 434 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F448506781%2F23399173026&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 73.4,
-   "criado": 1793055697.5970695,
-   "expira": false,
+   "id": "amazon:B0D519XS9K",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda-Calça Superproteção MamyPoko XXG 22 Unidades\n💰 por R$ 29,92\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D519XS9K?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 41.8,
+   "criado": 1793055855.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhnfe3lsefwl4d"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
