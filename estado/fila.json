@@ -36,17 +36,6 @@
    }
   },
   {
-   "id": "amazon:B07VLJCJSW",
-   "loja": "Amazon",
-   "texto": "🔥 Repelente Elétrico Líquido Sbp 45 Noites Novo Aparelho + Refil\n💰 por R$ 14,24\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07VLJCJSW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793028694.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07X83MH7M",
    "loja": "Amazon",
    "texto": "🔥 Fralda Pampers Pants Premium Care G 68 unidades\n💰 por R$ 89,20\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07X83MH7M?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -56,7 +45,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:13069411568",
+   "loja": "Shopee",
+   "texto": "🔥 Canguru Ergonômico Lequeen Passeio Conforto Mamãe Bebê\n💰 de R$ 399,90 por R$ 229,90 (-43%)\n⭐ Nota 4,95 | ❤️ 2,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F345061139%2F13069411568&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 63.5,
+   "criado": 1793035444.263706,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m8-msywprdh1hjbd7"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
