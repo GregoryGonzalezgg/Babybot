@@ -1,19 +1,6 @@
 {
  "itens": [
   {
-   "id": "magalu:dgc35ja3ek",
-   "loja": "Magalu",
-   "texto": "🔥 Cozinha De Brinquedo Mini Chef Com Acessórios Luz e Água - Brinq Kids\n💰 por R$ 60,80 no Pix\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/dgc35ja3ek/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793025277.0,
-   "expira": true,
-   "foto": {
-    "tipo": "telegram",
-    "chat": "@parceiromagaludivulgador",
-    "msg": 77900
-   }
-  },
-  {
    "id": "amazon:B07VRYJWPC",
    "loja": "Amazon",
    "texto": "🔥 Kit Refil Repelente Elétrico Líquido SBP com 2 unidades de 32,9ml\n💰 por R$ 15,19\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07VRYJWPC?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -36,17 +23,16 @@
    }
   },
   {
-   "id": "shopee:49250519956",
-   "loja": "Shopee",
-   "texto": "🔥 2 Peças / Conjunto de Silicone para Cuidados com os Pés, Correção de Mamilos,…\n💰 de R$ 29,90 por R$ 11,96 (-60%)\n⭐ Nota 4,93\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1018555738%2F49250519956&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1793036045.994184,
-   "expira": false,
+   "id": "amazon:B005DMW85K",
+   "loja": "Amazon",
+   "texto": "🔥 Band-Aid Curativos Adesivos Regular 40 Unidades\n💰 por R$ 9,33\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B005DMW85K?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793036076.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-821cx-mggaq3tthjwt89"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
