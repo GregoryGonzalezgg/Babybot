@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22194070392",
+   "loja": "Shopee",
+   "texto": "🔥 Sapatilha Molekinha Baby Boneca Bebê Menina 21061065/1043/1073/1062/1077\n💰 de R$ 139,99 por R$ 79,99 (-43%)\n⭐ Nota 4,92 | ❤️ 519 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F325939221%2F22194070392&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 63.7,
+   "criado": 1793050275.219233,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lz-mmc9qun0kxs0dd"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
