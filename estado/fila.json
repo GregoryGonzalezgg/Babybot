@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0D4F6VVYV",
-   "loja": "Amazon",
-   "texto": "🔥 Trio Chupeta Mam Original\n💰 por R$ 66,40\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D4F6VVYV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793055300.0,
-   "expira": true,
+   "id": "shopee:23399173026",
+   "loja": "Shopee",
+   "texto": "🔥 Sandália Cartago Malaga Sport Baby Infantil Menino Tiras Ajustáveis Velcro…\n💰 de R$ 169,99 por R$ 69,70 (-59%)\n⭐ Nota 4,99 | ❤️ 434 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F448506781%2F23399173026&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 73.4,
+   "criado": 1793055697.5970695,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhnfe3lsefwl4d"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
