@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B08BCSWYJJ",
-   "loja": "Amazon",
-   "texto": "🔥 Sabão Líquido Omo Roupas Finas e Delicadas Bebê 900ml\n💰 por R$ 16,05\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08BCSWYJJ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793111560.0,
-   "expira": true,
+   "id": "shopee:23393719665",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Sortido 2, 6 ou12 Peças Moletom Roupa De Bebê Menina Infantil Inverno…\n💰 de R$ 60,00 por R$ 29,90 (-50%)\n⭐ Nota 4,81 | ❤️ 38,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F23393719665&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.1,
+   "criado": 1793119170.992886,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m6-mlninjdaoiyv4a"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
