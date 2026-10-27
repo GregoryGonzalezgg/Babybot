@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:22293887108",
-   "loja": "Shopee",
-   "texto": "🔥 Creme De Pentear Infantil Rosa 200ml Meu Cheirinho Kids\n💰 de R$ 40,00 por R$ 16,90 (-58%)\n⭐ Nota 4,94\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1322321815%2F22293887108&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 72.7,
-   "criado": 1793122789.0724196,
-   "expira": false,
+   "id": "amazon:B07VYYWYDK",
+   "loja": "Amazon",
+   "texto": "🔥 Creme Corporal Woman Antiestrias ISDIN 245g\n💰 por R$ 96,91\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07VYYWYDK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793123001.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uz9r8btk7o21"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
