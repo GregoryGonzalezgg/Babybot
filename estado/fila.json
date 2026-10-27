@@ -1,4 +1,39 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B08BCSWYJJ",
+   "loja": "Amazon",
+   "texto": "🔥 Sabão Líquido Omo Roupas Finas e Delicadas Bebê 900ml\n💰 por R$ 16,05\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08BCSWYJJ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793111560.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0080GYTC6",
+   "loja": "Amazon",
+   "texto": "🔥 Colônia Refrescante Lavanda Johnsons Baby 200ml\n💰 por R$ 24,14\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0080GYTC6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793113160.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:58251555752",
+   "loja": "Shopee",
+   "texto": "🔥 Macaquinho Regata para Bebê Menino Up Baby\n💰 de R$ 79,90 por R$ 31,96 (-60%)\n⭐ Nota 5 | ❤️ 50 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F58251555752&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793117976.5636473,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-822xp-mi0ar8x1wa2pf3"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
