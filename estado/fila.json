@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22293887108",
+   "loja": "Shopee",
+   "texto": "🔥 Creme De Pentear Infantil Rosa 200ml Meu Cheirinho Kids\n💰 de R$ 40,00 por R$ 16,90 (-58%)\n⭐ Nota 4,94\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1322321815%2F22293887108&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 72.7,
+   "criado": 1793122789.0724196,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7uz9r8btk7o21"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
