@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0DH76Q3MS",
-   "loja": "Amazon",
-   "texto": "🔥 Mamadeira Buba Easy Flow 330ml\n💰 por R$ 23,34\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DH76Q3MS?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793134297.0,
-   "expira": true,
+   "id": "shopee:58213020902",
+   "loja": "Shopee",
+   "texto": "🔥 1/2/3/5 Prendedor De Chupeta Com Trava Com Corrente Clipe Chupeta Menino e…\n💰 de R$ 20,01 por R$ 10,00 (-50%)\n⭐ Nota 4,9\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F375065208%2F58213020902&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1793134600.6719377,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-824hh-mptbxqr8jf9n8a"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
