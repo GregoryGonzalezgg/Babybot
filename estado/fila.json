@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:58257396957",
+   "loja": "Shopee",
+   "texto": "🔥 Assento redutor vaso sanitário infantil confortável macio para um desfralde…\n💰 de R$ 49,90 por R$ 20,99 (-58%)\n⭐ Nota 4,86\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F482672092%2F58257396957&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 72.8,
+   "criado": 1793130377.3188245,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lx-mn7eqh56ojr681"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
