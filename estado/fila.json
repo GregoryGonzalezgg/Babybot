@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B07NQTJR3M",
-   "loja": "Amazon",
-   "texto": "🔥 Mesa e Cadeira Infantil Vermelha Tritec\n💰 por R$ 118,33\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07NQTJR3M?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793140166.0,
-   "expira": true,
+   "id": "shopee:19599903181",
+   "loja": "Shopee",
+   "texto": "🔥 Babador Bolso Infantil Buba Pega Migalhas Bebê Lanchinho Introdução Alimentar…\n💰 de R$ 89,90 por R$ 29,90 (-67%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1515196633%2F19599903181&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793140641.082088,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfvfrglikcuf0b"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
