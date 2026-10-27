@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:45450340812",
+   "loja": "Shopee",
+   "texto": "🔥 Cama Infantil Montessoriana com Colchão Incluso 100% MDF Melissa Plus…\n💰 de R$ 919,90 por R$ 549,99 (-40%)\n⭐ Nota 5 | ❤️ 81 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F308628919%2F45450340812&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.1,
+   "criado": 1793138221.5777466,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-82580-mgdzbpt4q49a2f"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
