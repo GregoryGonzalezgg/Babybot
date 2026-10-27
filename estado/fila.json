@@ -12,16 +12,17 @@
    }
   },
   {
-   "id": "amazon:B0080GYTC6",
-   "loja": "Amazon",
-   "texto": "🔥 Colônia Refrescante Lavanda Johnsons Baby 200ml\n💰 por R$ 24,14\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0080GYTC6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793113160.0,
-   "expira": true,
+   "id": "shopee:23399133583",
+   "loja": "Shopee",
+   "texto": "🔥 Mordedor Bebê Massageador de Gengivas Caranguejo Azul Lillo\n💰 de R$ 34,90 por R$ 13,90 (-60%)\n⭐ Nota 5 | ❤️ 49 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F624228750%2F23399133583&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793118571.1019053,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8259l-mge5q2c53m6h30"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
