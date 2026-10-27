@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:23893663091",
-   "loja": "Shopee",
-   "texto": "🔥 Kit Sortido 8 ou 6 Peças Pijama Curto Bebê Menino Pijamas Masculino Bebê Roupa…\n💰 de R$ 86,00 por R$ 57,90 (-33%)\n⭐ Nota 4,92 | ❤️ 2,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F23893663091&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 57.6,
-   "criado": 1793134001.8496711,
-   "expira": false,
+   "id": "amazon:B0DH76Q3MS",
+   "loja": "Amazon",
+   "texto": "🔥 Mamadeira Buba Easy Flow 330ml\n💰 por R$ 23,34\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DH76Q3MS?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793134297.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820lu-mlkmta1gka2se0"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
