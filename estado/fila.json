@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23893663091",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Sortido 8 ou 6 Peças Pijama Curto Bebê Menino Pijamas Masculino Bebê Roupa…\n💰 de R$ 86,00 por R$ 57,90 (-33%)\n⭐ Nota 4,92 | ❤️ 2,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F23893663091&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 57.6,
+   "criado": 1793134001.8496711,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lu-mlkmta1gka2se0"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
