@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22998743144",
+   "loja": "Shopee",
+   "texto": "🔥 Copo Infantil com Alça De Plástico Caneca Para Criança Bebê Multiuso Menina…\n💰 de R$ 30,00 por R$ 10,99 (-63%)\n⭐ Nota 4,87\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1005224145%2F22998743144&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793209153.1367826,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820mb-mq3twwcmn56p91"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
