@@ -1,4 +1,28 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B08K4B18SB",
+   "loja": "Amazon",
+   "texto": "🔥 Rede De Proteção Para Banho Buba\n💰 por R$ 37,87\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08K4B18SB?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793198797.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:22094081697",
+   "loja": "Shopee",
+   "texto": "🔥 Mini Carro Eletrico Infantil 6v Carrinho para Criança 2 a 4 anos Controle…\n💰 de R$ 2.000,00 por R$ 947,18 (-53%)\n⭐ Nota 5 | ❤️ 52 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1518137624%2F22094081697&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.6,
+   "criado": 1793207060.7685149,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820la-mti8b2i0q51d5a"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
