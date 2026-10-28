@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22397436051",
+   "loja": "Shopee",
+   "texto": "🔥 Talher COLHER GARFO Infantil CABO SILICONE Com Inox Menina Menino\n💰 de R$ 30,00 por R$ 14,99 (-50%)\n⭐ Nota 4,95\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1223660575%2F22397436051&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1793213079.3117206,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltmlmh2fnins48"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
