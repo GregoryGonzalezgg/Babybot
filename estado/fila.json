@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23093087695",
+   "loja": "Shopee",
+   "texto": "🔥 Jogo De Lençol 3 Pçs Berço Americano Bebê Menina Chuvinha de amor\n💰 de R$ 107,00 por R$ 46,99 (-56%)\n⭐ Nota 4,87\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F347313795%2F23093087695&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1793215504.3416836,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-lwcxb4t6ezrmb3"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
