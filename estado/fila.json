@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:45460067893",
-   "loja": "Shopee",
-   "texto": "🔥 Carrinho De Bebê Passeio Guarda Chuva Styll Baby Preto\n💰 de R$ 399,00 por R$ 251,37 (-37%)\n⭐ Nota 4,87 | ❤️ 4,7 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F829520727%2F45460067893&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 60.2,
-   "criado": 1793214005.143459,
-   "expira": false,
+   "id": "amazon:B0CVP44D2N",
+   "loja": "Amazon",
+   "texto": "🔥 Protetor Solar Bob Esponja FPS 30 Oaz 125ml\n💰 por R$ 19,49\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CVP44D2N?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793214163.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-820lw-mnx3tflmkef74c"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
