@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0CVP44D2N",
-   "loja": "Amazon",
-   "texto": "🔥 Protetor Solar Bob Esponja FPS 30 Oaz 125ml\n💰 por R$ 19,49\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CVP44D2N?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793214163.0,
-   "expira": true,
+   "id": "shopee:11742437515",
+   "loja": "Shopee",
+   "texto": "🔥 Bolsa Mochila Maternidade Madami Multifuncional Espaçosa Gancho Carrinho\n💰 de R$ 219,90 por R$ 162,90 (-26%)\n⭐ Nota 4,95 | ❤️ 23,3 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F441209003%2F11742437515&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 53.6,
+   "criado": 1793214603.6198246,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134201-22120-54voojv6frkvaa"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
