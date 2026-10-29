@@ -49,16 +49,17 @@
    }
   },
   {
-   "id": "amazon:B0D96L73XD",
-   "loja": "Amazon",
-   "texto": "🔥 Cadeira De Descanso Musical Vibratória Funtime Maxi Baby\n💰 por R$ 143,91\n🎟️ Cupom: AMAZON15VEM\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D96L73XD?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 55.0,
-   "criado": 1793296019.0,
-   "expira": true,
+   "id": "shopee:58268494830",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Enxoval de Bebé Personalizado 3 Peças: Toalha, Colchonete e Almofada de…\n💰 de R$ 69,90 por R$ 32,90 (-53%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1066846505%2F58268494830&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.8,
+   "criado": 1793296332.7388048,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-825a0-mtb3u03ia70p1e"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
