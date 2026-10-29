@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0GML3C2MC",
-   "loja": "Amazon",
-   "texto": "🔥 Móbile Chocalho Para Carrinho e Berço Clip Maxi Baby Leão\n💰 por R$ 39,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0GML3C2MC?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793309118.0,
-   "expira": true,
+   "id": "shopee:20199201373",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 3 Fraldas Pom Pom Protek Proteção de Mãe Jumbo M com 28un cada\n💰 de R$ 139,23 por R$ 79,71 (-43%)\n⭐ Nota 4,91 | ❤️ 682 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1136541657%2F20199201373&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1793309622.997053,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rcd3-lsbqtm16i81qb2"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
