@@ -14,17 +14,38 @@
    }
   },
   {
-   "id": "shopee:23893778336",
-   "loja": "Shopee",
-   "texto": "🔥 Camiseta em Algodão Infantil Up Baby\n💰 de R$ 94,90 por R$ 37,96 (-60%)\n⭐ Nota 5 | ❤️ 30 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F23893778336&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1793294557.6511376,
-   "expira": false,
+   "id": "amazon:B07G3BBHZB",
+   "loja": "Amazon",
+   "texto": "🔥 Protetor Solar Praia e Piscina Sundown Kids FPS 60 com 120ml\n💰 por R$ 42,85\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07G3BBHZB?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793286582.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-824hp-mf30nebrwsnjdd"
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0HKR4868S",
+   "loja": "Amazon",
+   "texto": "🔥 Móbile para Carrinho de Bebê Espiral com Chocalho\n💰 por R$ 22,97\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0HKR4868S?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793291556.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0CN77C5MV",
+   "loja": "Amazon",
+   "texto": "🔥 Pomada Contra Assaduras Nebacetin Baby Regeneração 60g\n💰 por R$ 44,26\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CN77C5MV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793294739.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Magalu"
+ "ultima_loja": "Shopee"
 }
