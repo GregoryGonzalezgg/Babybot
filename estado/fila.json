@@ -14,16 +14,17 @@
    }
   },
   {
-   "id": "amazon:B0HKR4868S",
-   "loja": "Amazon",
-   "texto": "🔥 Móbile para Carrinho de Bebê Espiral com Chocalho\n💰 por R$ 22,97\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0HKR4868S?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793291556.0,
-   "expira": true,
+   "id": "shopee:58265929410",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 350Uinidades Xuxinhas Infantil Infantil Rabicó Elástico Cabelo Bebê Tranças\n💰 de R$ 35,00 por R$ 15,98 (-54%)\n⭐ Nota 4,98\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1680935964%2F58265929410&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 70.6,
+   "criado": 1793298456.8452482,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820mf-mrqevlwr7oqse6"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
