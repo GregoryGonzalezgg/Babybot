@@ -1,4 +1,30 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "magalu:gc727gf875",
+   "loja": "Magalu",
+   "texto": "🔥 Pista de Construção Infantil 98 Peças com Carrinho Elétrico e 2 Caminhões…\n💰 por R$ 28,91 no Pix\n🎟️ Cupom: NAWELEVOU15\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/gc727gf875/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1793288021.0,
+   "expira": true,
+   "foto": {
+    "tipo": "telegram",
+    "chat": "@parceiromagaludivulgador",
+    "msg": 78026
+   }
+  },
+  {
+   "id": "shopee:23893778336",
+   "loja": "Shopee",
+   "texto": "🔥 Camiseta em Algodão Infantil Up Baby\n💰 de R$ 94,90 por R$ 37,96 (-60%)\n⭐ Nota 5 | ❤️ 30 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F23893778336&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793294557.6511376,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-824hp-mf30nebrwsnjdd"
+   }
+  }
+ ],
+ "ultima_loja": "Magalu"
 }
