@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:20197420120",
-   "loja": "Shopee",
-   "texto": "🔥 Babador De Silicone Infantil Babadores Impermeável Para Bebê Coletor De…\n💰 de R$ 30,00 por R$ 14,99 (-50%)\n⭐ Nota 4,93\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F445873850%2F20197420120&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 68.0,
-   "criado": 1793311446.794042,
-   "expira": false,
+   "id": "amazon:B0HBR5KJWX",
+   "loja": "Amazon",
+   "texto": "🔥 Sabonete Líquido Johnsons Baby Frutas Vermelhas 200ml\n💰 por R$ 14,66\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0HBR5KJWX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793311723.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-7r98p-lmedufhzx986d7"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Magalu"
+ "ultima_loja": "Shopee"
 }
