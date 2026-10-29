@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0HBR5KJWX",
-   "loja": "Amazon",
-   "texto": "🔥 Sabonete Líquido Johnsons Baby Frutas Vermelhas 200ml\n💰 por R$ 14,66\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0HBR5KJWX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793311723.0,
-   "expira": true,
+   "id": "shopee:29837899529",
+   "loja": "Shopee",
+   "texto": "🔥 Brinquedos De silicone Para Dentição Bebês Com Mais De 3 Meses Mordedor De…\n💰 de R$ 31,90 por R$ 19,90 (-38%)\n⭐ Nota 4,95 | ❤️ 698 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F436723291%2F29837899529&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 60.6,
+   "criado": 1793312645.5933323,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820mf-mso9owwkutc7c8"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
