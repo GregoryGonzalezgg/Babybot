@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B07QZ9GLS5",
-   "loja": "Amazon",
-   "texto": "🔥 Carrinho Travel System Reverse Cosco Kids\n💰 por R$ 413,12\n🎟️ Cupom: OUTLETPRIME\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07QZ9GLS5?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 55.0,
-   "criado": 1793300118.0,
-   "expira": true,
+   "id": "shopee:45857384988",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Chupeta Alimentadora - Colher Dosadora - Escova De Lavar Mamadeira\n💰 de R$ 45,90 por R$ 19,70 (-57%)\n⭐ Nota 4,92\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F778311024%2F45857384988&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 72.2,
+   "criado": 1793303279.072704,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ln-moobeliqlipx71"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
