@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:22994413403",
-   "loja": "Shopee",
-   "texto": "🔥 Cadeira Descanso Bebê Musical Polar Skyline Cinza Maxi Baby\n💰 de R$ 299,90 por R$ 199,00 (-34%)\n⭐ Nota 4,91 | ❤️ 4,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F828882817%2F22994413403&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 58.2,
-   "criado": 1793309023.2539153,
-   "expira": false,
+   "id": "amazon:B0GML3C2MC",
+   "loja": "Amazon",
+   "texto": "🔥 Móbile Chocalho Para Carrinho e Berço Clip Maxi Baby Leão\n💰 por R$ 39,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0GML3C2MC?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793309118.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-824i3-mepysaxrwphf81"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
