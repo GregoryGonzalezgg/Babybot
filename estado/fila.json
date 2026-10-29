@@ -36,17 +36,29 @@
    }
   },
   {
-   "id": "shopee:58208433092",
-   "loja": "Shopee",
-   "texto": "🔥 Copo Treinamento Com Alça Buba 260ml\n💰 de R$ 65,90 por R$ 29,99 (-54%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F307785200%2F58208433092&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 70.7,
-   "criado": 1793295136.8963356,
-   "expira": false,
+   "id": "magalu:bg1jac9ed9",
+   "loja": "Magalu",
+   "texto": "🔥 Barraca Infantil Cabana que Brilha no Escuro Multi Montagens Tenda…\n💰 por R$ 35,55 no Pix\n🎟️ Cupom: NAWELEVOU10\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/bg1jac9ed9/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1793295314.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820mh-mmszrjm5jfuobe"
+    "tipo": "telegram",
+    "chat": "@parceiromagaludivulgador",
+    "msg": 78030
+   }
+  },
+  {
+   "id": "amazon:B09167YDZ5",
+   "loja": "Amazon",
+   "texto": "🔥 Triciclo Avespa Maral\n💰 por R$ 179,20\n🎟️ Cupom: AMAZON15VEM\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09167YDZ5?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1793295381.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
