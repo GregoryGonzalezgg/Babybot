@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:21199705986",
-   "loja": "Shopee",
-   "texto": "🔥 Quadriciclo Stellar Rosa 1-3 Anos Até 30kg - Carrinho Passeio Menina -…\n💰 de R$ 499,90 por R$ 224,90 (-55%)\n⭐ Nota 4,78 | ❤️ 17,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1007842724%2F21199705986&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 71.0,
-   "criado": 1793383530.6436536,
-   "expira": false,
+   "id": "amazon:B0C5MZS8J4",
+   "loja": "Amazon",
+   "texto": "🔥 Berço Serenata Burigotto\n💰 por R$ 361,66\n🎟️ Cupom: MAIS10OFF\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0C5MZS8J4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1793383667.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhc7p05778xxac"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Magalu"
+ "ultima_loja": "Shopee"
 }
