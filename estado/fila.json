@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:46613786703",
+   "loja": "Shopee",
+   "texto": "🔥 Tabuleiro Montessori 7 em 1 Educativo Madeira Alfabeto Números Formas…\n💰 de R$ 119,90 por R$ 76,90 (-36%)\n⭐ Nota 4,95 | ❤️ 2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1314314958%2F46613786703&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 59.5,
+   "criado": 1793395322.3855014,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820l8-mqhpmm0289hea2"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
