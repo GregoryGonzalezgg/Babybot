@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:49100483466",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 5 Peças Body Bebê Menino Suedine 100% Algodão Cores Sortidas\n💰 de R$ 119,99 por R$ 39,99 (-67%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F391306526%2F49100483466&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793381321.8239782,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgfxo3dbc1z4f7"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
