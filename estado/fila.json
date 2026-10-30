@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22092500141",
+   "loja": "Shopee",
+   "texto": "🔥 Creme Multifuncional Infantil Salon Line #Todecachinho Baby 300Ml\n💰 de R$ 17,49 por R$ 11,89 (-32%)\n⭐ Nota 4,91 | ❤️ 6,9 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1010974641%2F22092500141&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 57.2,
+   "criado": 1793398043.35056,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820l4-moprzgdr2qytcf"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
