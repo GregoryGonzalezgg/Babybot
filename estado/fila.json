@@ -1,4 +1,30 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "magalu:ak68d01jb3",
+   "loja": "Magalu",
+   "texto": "🔥 Clique no botão abaixo para receber o kit desta postagem com o SEU LINK pronto…\n💰 por R$ 223,65\n💳 ou em 3x de R$ 82,83\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/ak68d01jb3/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793370611.0,
+   "expira": true,
+   "foto": {
+    "tipo": "telegram",
+    "chat": "@parceiromagaludivulgador",
+    "msg": 78051
+   }
+  },
+  {
+   "id": "shopee:25347782232",
+   "loja": "Shopee",
+   "texto": "🔥 Conjunto Bebê Masculino Menino Infantil Verão Manga Curta Tamanho 1 ao 8 -…\n💰 de R$ 50,00 por R$ 19,99 (-60%)\n⭐ Nota 4,89 | ❤️ 2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F25347782232&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793379546.2362232,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhs1m8vxlmva62"
+   }
+  }
+ ],
+ "ultima_loja": "Magalu"
 }
