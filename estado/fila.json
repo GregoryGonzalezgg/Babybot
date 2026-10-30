@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:41881115287",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Aspiração e Lavagem Nasal Infantil Anti Refluxo Bebê Sucção Segura Silicone…\n💰 de R$ 39,90 por R$ 14,89 (-63%)\n⭐ Nota 4,93\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1216269385%2F41881115287&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793388353.3120763,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lk-mp8r4cg22gw674"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
