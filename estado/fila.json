@@ -1,18 +1,17 @@
 {
  "itens": [
   {
-   "id": "magalu:ak68d01jb3",
-   "loja": "Magalu",
-   "texto": "🔥 Clique no botão abaixo para receber o kit desta postagem com o SEU LINK pronto…\n💰 por R$ 223,65\n💳 ou em 3x de R$ 82,83\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/ak68d01jb3/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793370611.0,
-   "expira": true,
+   "id": "shopee:20499257902",
+   "loja": "Shopee",
+   "texto": "🔥 Tênis Meia Bebê Menina Sola Antiderrapante Raposa Pink Kidstep\n💰 de R$ 89,90 por R$ 44,90 (-50%)\n⭐ Nota 4,91 | ❤️ 4,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F376576138%2F20499257902&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1793380720.560315,
+   "expira": false,
    "foto": {
-    "tipo": "telegram",
-    "chat": "@parceiromagaludivulgador",
-    "msg": 78051
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820mg-mrlpa8fhko3oe0"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Magalu"
 }
