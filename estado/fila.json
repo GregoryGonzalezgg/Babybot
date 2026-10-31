@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B07C3JY2V3",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Ultrasec Galinha Pintadinha Xg Babysec 30 Unidades\n💰 por R$ 31,83\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07C3JY2V3?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 66.6,
-   "criado": 1793473993.0,
-   "expira": true,
+   "id": "shopee:28122818119",
+   "loja": "Shopee",
+   "texto": "🔥 Lovito Casual Macacão com estampa de laço de frutas e vegetais e botões na…\n💰 de R$ 53,90 por R$ 35,50 (-34%)\n⭐ Nota 4,92 | ❤️ 18,9 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F426378412%2F28122818119&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 58.5,
+   "criado": 1793474754.617907,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rdvu-mc7g31995bxq06"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
