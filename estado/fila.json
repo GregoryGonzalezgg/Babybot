@@ -10,7 +10,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:41662340795",
+   "loja": "Shopee",
+   "texto": "🔥 Babador Impermeável c/ Manga Longa p/ Bebê - Avental Infantil p/ Comer, Pintar…\n💰 de R$ 35,00 por R$ 19,99 (-43%)\n⭐ Nota 4,93 | ❤️ 1,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1352493725%2F41662340795&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 63.7,
+   "criado": 1793474437.7449365,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lk-mt6v2m04zzt078"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
