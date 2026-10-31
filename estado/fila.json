@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22994320051",
+   "loja": "Shopee",
+   "texto": "🔥 Canguru Banco De Cintura Para Bebê Pode Acomodar Banquinho Abraço Dianteiro E…\n💰 de R$ 199,99 por R$ 95,84 (-52%)\n⭐ Nota 4,96\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1420388291%2F22994320051&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.2,
+   "criado": 1793476555.5866787,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdk0o637sk3d0d"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
