@@ -12,7 +12,19 @@
     "chat": "@parceiromagaludivulgador",
     "msg": 78114
    }
+  },
+  {
+   "id": "shopee:18799608360",
+   "loja": "Shopee",
+   "texto": "🔥 Shampo Suave Glicerina Baruel Baby 210ml\n💰 de R$ 24,79 por R$ 18,39 (-26%)\n⭐ Nota 4,91 | ❤️ 1,4 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F560644869%2F18799608360&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 53.5,
+   "criado": 1793568030.184144,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820mc-mtr2ef88u2gyde"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
