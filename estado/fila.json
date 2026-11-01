@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:22898412093",
-   "loja": "Shopee",
-   "texto": "🔥 Cadeira de Balanço Infantil Zippy Toys Verde Musical com Vibração\n💰 de R$ 899,90 por R$ 209,90 (-77%)\n⭐ Nota 4,94 | ❤️ 950 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F751907905%2F22898412093&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1793565614.1572745,
-   "expira": false,
+   "id": "amazon:B0C2VYDJ3Q",
+   "loja": "Amazon",
+   "texto": "🔥 Protetor Solar FPS70 Granado Bebê 120ml\n💰 por R$ 45,67\n🎟️ Cupom: PRIME40OFF\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0C2VYDJ3Q?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1793565669.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820lg-muc2hkbpoxdt90"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
