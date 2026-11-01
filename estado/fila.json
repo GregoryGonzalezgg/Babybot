@@ -1,4 +1,30 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "magalu:ck0j0ekhaa",
+   "loja": "Magalu",
+   "texto": "🔥 Tapete de Dança Musical Infantil Brastoy 8 Teclas com Luzes e 4 Modos…\n💰 por R$ 188,78 no Pix\n💳 ou 2x de R$ 102,60 sem juros\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/ck0j0ekhaa/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793566883.0,
+   "expira": true,
+   "foto": {
+    "tipo": "telegram",
+    "chat": "@parceiromagaludivulgador",
+    "msg": 78114
+   }
+  },
+  {
+   "id": "shopee:26290215733",
+   "loja": "Shopee",
+   "texto": "🔥 Hastes Flexíveis Para Bebês Piquitucho Com 68 Unidades\n💰 de R$ 16,19 por R$ 11,69 (-28%)\n⭐ Nota 4,92 | ❤️ 808 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F560644869%2F26290215733&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 54.7,
+   "criado": 1793567115.1147602,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m9-mqvxrgqvjsw514"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
