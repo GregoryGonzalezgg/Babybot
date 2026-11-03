@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:58201400293",
+   "loja": "Shopee",
+   "texto": "🔥 Conveniente Cadeira Alimentacao Bebe, Cadeirao Alto, Baixa E Mesa de -…\n💰 de R$ 500,00 por R$ 223,99 (-55%)\n⭐ Nota 4,91 | ❤️ 2,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1386771889%2F58201400293&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 71.1,
+   "criado": 1793743999.8227935,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lp-msm32laseb5wfc"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
