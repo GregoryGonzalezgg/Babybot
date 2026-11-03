@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0D8R5M9FV",
-   "loja": "Amazon",
-   "texto": "🔥 Protetor Solar Corporal FPS 50 Gel Cream Pediatrics ISDIN 250g\n💰 por R$ 116,39\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D8R5M9FV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793720073.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07JVNFVGY",
    "loja": "Amazon",
    "texto": "🔥 Bebe Conforto Drc G0+ até 13kg Styll Baby\n💰 por R$ 201,97\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07JVNFVGY?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -23,17 +12,16 @@
    }
   },
   {
-   "id": "shopee:16925531111",
-   "loja": "Shopee",
-   "texto": "🔥 Bomba Elétrica Extrator de Leite Materno Bivolt - Lillo\n💰 de R$ 479,00 por R$ 333,63 (-30%)\n⭐ Nota 5 | ❤️ 1,3 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F481992044%2F16925531111&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 56.2,
-   "criado": 1793730649.1155019,
-   "expira": false,
+   "id": "amazon:B07GMCX7P4",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Pampers Confort Sec P 50 unidades\n💰 por R$ 46,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07GMCX7P4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 39.2,
+   "criado": 1793722356.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/852eec9529f0412c0a07298121423708"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
