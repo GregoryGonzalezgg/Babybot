@@ -23,27 +23,17 @@
    }
   },
   {
-   "id": "amazon:B09MZXLW51",
-   "loja": "Amazon",
-   "texto": "🔥 Personal Fralda Baby Premium Protection Grande 30Pads\n💰 por R$ 28,90\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09MZXLW51?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 67.9,
-   "criado": 1793721557.0,
-   "expira": true,
+   "id": "shopee:23798354420",
+   "loja": "Shopee",
+   "texto": "🔥 Talco Infantil Granado Bebê com 100g\n💰 de R$ 37,49 por R$ 24,99 (-33%)\n⭐ Nota 4,94 | ❤️ 1,8 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F560644869%2F23798354420&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 58.0,
+   "criado": 1793732425.1292505,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
-   "id": "amazon:B0FJ2SJN6W",
-   "loja": "Amazon",
-   "texto": "🔥 Reverse Trio Travel System - Cosco Kids\n💰 por R$ 750,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FJ2SJN6W?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793731889.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9zzzp8ctjpe54"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
