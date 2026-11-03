@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B07JVNFVGY",
-   "loja": "Amazon",
-   "texto": "🔥 Bebe Conforto Drc G0+ até 13kg Styll Baby\n💰 por R$ 201,97\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07JVNFVGY?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793721034.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07GMCX7P4",
    "loja": "Amazon",
    "texto": "🔥 Fralda Pampers Confort Sec P 50 unidades\n💰 por R$ 46,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07GMCX7P4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -34,17 +23,6 @@
    }
   },
   {
-   "id": "amazon:B0CHZJPGZB",
-   "loja": "Amazon",
-   "texto": "🔥 MamyPoko Fralda-Calça DiaNoite XXG 44 Unidades\n💰 por R$ 67,99\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CHZJPGZB?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 25.0,
-   "criado": 1793721060.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B09MZXLW51",
    "loja": "Amazon",
    "texto": "🔥 Personal Fralda Baby Premium Protection Grande 30Pads\n💰 por R$ 28,90\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09MZXLW51?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -56,17 +34,16 @@
    }
   },
   {
-   "id": "shopee:22894413608",
-   "loja": "Shopee",
-   "texto": "🔥 Cadeira de Descanso Bebê Musical FunTime Belle Maxi Baby(NÃO BALANÇA SOZINHA)\n💰 de R$ 399,90 por R$ 259,99 (-35%)\n⭐ Nota 4,98 | ❤️ 637 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F340054154%2F22894413608&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 59.0,
-   "criado": 1793731823.904975,
-   "expira": false,
+   "id": "amazon:B0FJ2SJN6W",
+   "loja": "Amazon",
+   "texto": "🔥 Reverse Trio Travel System - Cosco Kids\n💰 por R$ 750,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FJ2SJN6W?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793731889.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-824ia-mepyirsxmn7pf8"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
