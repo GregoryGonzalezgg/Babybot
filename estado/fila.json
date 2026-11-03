@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:22594292179",
-   "loja": "Shopee",
-   "texto": "🔥 Cadeira de Descanso Musical FunTime New 18kgs Rosa-Maxi Baby\n💰 de R$ 349,00 por R$ 219,90 (-37%)\n⭐ Nota 4,98 | ❤️ 345 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F624228750%2F22594292179&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 60.2,
-   "criado": 1793737327.2743459,
-   "expira": false,
+   "id": "amazon:B06XWRSCSK",
+   "loja": "Amazon",
+   "texto": "🔥 Copo com Canudo Philips Avent 300ml\n💰 por R$ 49,85\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B06XWRSCSK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793737509.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9ivwxit81sed"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
