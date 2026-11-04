@@ -23,16 +23,17 @@
    }
   },
   {
-   "id": "amazon:B0BFXGY9B7",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Descartável Huggies, Tamanho XXG, 140 Unidades\n💰 por R$ 149,90\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BFXGY9B7?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 76.6,
-   "criado": 1793823400.0,
-   "expira": true,
+   "id": "shopee:22793787555",
+   "loja": "Shopee",
+   "texto": "🔥 Guarda Sol Para Carrinho de Bebê Universal Proteção UV Braço Flexível Ajustável…\n💰 de R$ 159,90 por R$ 89,90 (-44%)\n⭐ Nota 4,94 | ❤️ 478 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1419417476%2F22793787555&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 64.3,
+   "criado": 1793823805.1175766,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf40ng9ftlac3d"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
