@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:20699604688",
-   "loja": "Shopee",
-   "texto": "🔥 Banheira Dobrável Retrátil 30L Infantil - Compacta e Prática - BENE CASA\n💰 de R$ 179,90 por R$ 113,90 (-37%)\n⭐ Nota 4,95 | ❤️ 2,6 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F280641391%2F20699604688&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 60.0,
-   "criado": 1793821685.9633598,
-   "expira": false,
+   "id": "amazon:B08K4L452V",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Pampers Premium Care Pants Tamanho XXG, Fácil de Vestir, 90 Unidades\n💰 por R$ 133,95\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08K4L452V?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 26.2,
+   "criado": 1793821783.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820mh-mmbql6am8mx085"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
