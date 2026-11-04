@@ -23,17 +23,16 @@
    }
   },
   {
-   "id": "shopee:22793787555",
-   "loja": "Shopee",
-   "texto": "🔥 Guarda Sol Para Carrinho de Bebê Universal Proteção UV Braço Flexível Ajustável…\n💰 de R$ 159,90 por R$ 89,90 (-44%)\n⭐ Nota 4,94 | ❤️ 478 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1419417476%2F22793787555&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 64.3,
-   "criado": 1793823805.1175766,
-   "expira": false,
+   "id": "amazon:B0DXL6PVLQ",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Mamadeiras e Bicos Super Evolution Lillo - 80ml, 150ml e 300ml\n💰 por R$ 74,95\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DXL6PVLQ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793823880.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf40ng9ftlac3d"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
