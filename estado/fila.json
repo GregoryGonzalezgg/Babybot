@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0F6WD2R5B",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Personalidade Baby Total Care P 70 unidades\n💰 por R$ 59,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F6WD2R5B?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 53.8,
-   "criado": 1793811445.0,
-   "expira": true,
+   "id": "shopee:20699604688",
+   "loja": "Shopee",
+   "texto": "🔥 Banheira Dobrável Retrátil 30L Infantil - Compacta e Prática - BENE CASA\n💰 de R$ 179,90 por R$ 113,90 (-37%)\n⭐ Nota 4,95 | ❤️ 2,6 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F280641391%2F20699604688&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 60.0,
+   "criado": 1793821685.9633598,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820mh-mmbql6am8mx085"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
