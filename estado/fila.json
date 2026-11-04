@@ -1,4 +1,127 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B09B37SZQM",
+   "loja": "Amazon",
+   "texto": "🔥 Cadeira de Refeição Portátil Smart Cosco gelo\n💰 por R$ 113,89\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09B37SZQM?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793806607.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:8538058983",
+   "loja": "Amazon",
+   "texto": "🔥 Livro Eu consigo Para crianças determinadas\n💰 por R$ 14,98\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/8538058983?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793807027.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:8538094505",
+   "loja": "Amazon",
+   "texto": "🔥 Livro O Varal das Letras\n💰 por R$ 19,95\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/8538094505?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793808049.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0DVTBWQ8Q",
+   "loja": "Amazon",
+   "texto": "🔥 Shampoo e Condicionador 2 em 1 Johnsons 400ml\n💰 por R$ 13,19\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🎟️ Cupom: RELAMPAGO20\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DVTBWQ8Q?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1793808960.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07GB468ZM",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Mili XG 22 unidades\n💰 por R$ 23,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07GB468ZM?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.8,
+   "criado": 1793809926.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0F6WD2R5B",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Personalidade Baby Total Care P 70 unidades\n💰 por R$ 59,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F6WD2R5B?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 53.8,
+   "criado": 1793811445.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B082MQ8MX2",
+   "loja": "Amazon",
+   "texto": "🔥 Kit 3 Potinhos Animais Multicor Buba\n💰 por R$ 23,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B082MQ8MX2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793814023.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0CRZ8FZBP",
+   "loja": "Amazon",
+   "texto": "🔥 Carrinho Travel System Magnific Trio Safety 1st (opção de cor)\n💰 por R$ 1.300,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CRZ8FZBP?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793815171.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07B5V6RVK",
+   "loja": "Amazon",
+   "texto": "🔥 Moisés Dreamy Safety 1st Cinza\n💰 por R$ 384,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07B5V6RVK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793816311.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0B9CLH2W2",
+   "loja": "Amazon",
+   "texto": "🔥 Cadeirinha Evolutty 360 X Cosco Kids 0 a 36kg, com Giro 360º e Isofix\n💰 por R$ 750,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B9CLH2W2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793817165.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:40314193761",
+   "loja": "Shopee",
+   "texto": "🔥 Jardineira bebê Listras em tricot romper Luan\n💰 de R$ 79,90 por R$ 56,90 (-29%)\n⭐ Nota 4,98 | ❤️ 10 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F432637056%2F40314193761&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.3,
+   "criado": 1793817186.101753,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m1-mtp8ox7m3p4z8a"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
