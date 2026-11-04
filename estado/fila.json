@@ -67,16 +67,17 @@
    }
   },
   {
-   "id": "amazon:B07B5V6RVK",
-   "loja": "Amazon",
-   "texto": "🔥 Moisés Dreamy Safety 1st Cinza\n💰 por R$ 384,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07B5V6RVK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793816311.0,
-   "expira": true,
+   "id": "shopee:43976761624",
+   "loja": "Shopee",
+   "texto": "🔥 Cadeira Alimentação Infantil Bebê 2 em 1 Mingau BRINKANTO\n💰 de R$ 429,00 por R$ 231,79 (-46%)\n⭐ Nota 5 | ❤️ 228 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F401389575%2F43976761624&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 65.6,
+   "criado": 1793818366.4467163,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mikm9zfc67lue4"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
