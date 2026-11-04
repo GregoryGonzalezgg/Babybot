@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B07GB468ZM",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Mili XG 22 unidades\n💰 por R$ 23,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07GB468ZM?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 62.8,
-   "criado": 1793809926.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0F6WD2R5B",
    "loja": "Amazon",
    "texto": "🔥 Fralda Personalidade Baby Total Care P 70 unidades\n💰 por R$ 59,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F6WD2R5B?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -32,7 +21,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:20999713015",
+   "loja": "Shopee",
+   "texto": "🔥 Cadeira de Alimentação infantil - Burigotto Poke Polar\n💰 de R$ 403,20 por R$ 278,99 (-31%)\n⭐ Nota 4,96 | ❤️ 8,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1479622710%2F20999713015&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 56.5,
+   "criado": 1793820486.4207237,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7repu-m8z3oe14clog27"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
