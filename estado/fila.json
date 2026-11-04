@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B08K4L452V",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Pampers Premium Care Pants Tamanho XXG, Fácil de Vestir, 90 Unidades\n💰 por R$ 133,95\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08K4L452V?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 26.2,
-   "criado": 1793821783.0,
-   "expira": true,
+   "id": "shopee:22893820577",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Shampoo Infantil Johnson's Baby Refil Tradicional 180ml - 5 unidades\n💰 de R$ 107,93 por R$ 64,50 (-40%)\n⭐ Nota 4,96 | ❤️ 501 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F683941545%2F22893820577&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.1,
+   "criado": 1793826531.5732603,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8259o-mu9lle5xfdoqe5"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
