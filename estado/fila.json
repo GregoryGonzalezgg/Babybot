@@ -54,7 +54,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:51809369971",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 3 ou 2 Camisetas bebê menina Brasil Copa 2026 algodão seleção brasileira…\n💰 de R$ 55,00 por R$ 24,90 (-55%)\n⭐ Nota 4,9 | ❤️ 211 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F51809369971&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 70.8,
+   "criado": 1793819566.5783348,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lk-mne8xufbirr838"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
