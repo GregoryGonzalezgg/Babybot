@@ -89,16 +89,17 @@
    }
   },
   {
-   "id": "amazon:B0B9CLH2W2",
-   "loja": "Amazon",
-   "texto": "🔥 Cadeirinha Evolutty 360 X Cosco Kids 0 a 36kg, com Giro 360º e Isofix\n💰 por R$ 750,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B9CLH2W2?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793817165.0,
-   "expira": true,
+   "id": "shopee:23599006145",
+   "loja": "Shopee",
+   "texto": "🔥 Montessori Alfabeto Magnético Labirinto Aprendizagem Carta Criança…\n💰 de R$ 99,99 por R$ 39,49 (-61%)\n⭐ Nota 4,89\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1484279813%2F23599006145&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793817765.4906914,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m7-ms0y258pird100"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
