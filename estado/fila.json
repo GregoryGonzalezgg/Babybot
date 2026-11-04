@@ -10,7 +10,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:22793962104",
+   "loja": "Shopee",
+   "texto": "🔥 Toalha De Banho Bebê Capuz Roupão Infantil Recém Nascido Criança Bichinho…\n💰 de R$ 49,00 por R$ 15,99 (-67%)\n⭐ Nota 4,87\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F389800143%2F22793962104&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793822285.9827204,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rfgl-m9fbpp8sda68e4"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
