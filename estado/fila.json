@@ -45,17 +45,16 @@
    }
   },
   {
-   "id": "shopee:58153016769",
-   "loja": "Shopee",
-   "texto": "🔥 Conjunto de Bebê Menino Básica Masculino Roupa de Bebê Menino Básico…\n💰 de R$ 50,00 por R$ 19,99 (-60%)\n⭐ Nota 4,81 | ❤️ 399 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F58153016769&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1793818965.4060845,
-   "expira": false,
+   "id": "amazon:B07NPY7VDL",
+   "loja": "Amazon",
+   "texto": "🔥 Creme Assaduras Bebê Pele Sensíveis Granado 300g\n💰 por R$ 46,18\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07NPY7VDL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793819019.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820me-mudtmd1191c0eb"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
