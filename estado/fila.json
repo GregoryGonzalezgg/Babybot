@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:8538094505",
-   "loja": "Amazon",
-   "texto": "🔥 Livro O Varal das Letras\n💰 por R$ 19,95\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/8538094505?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793808049.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0DVTBWQ8Q",
    "loja": "Amazon",
    "texto": "🔥 Shampoo e Condicionador 2 em 1 Johnsons 400ml\n💰 por R$ 13,19\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🎟️ Cupom: RELAMPAGO20\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DVTBWQ8Q?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -56,16 +45,17 @@
    }
   },
   {
-   "id": "amazon:B0CRZ8FZBP",
-   "loja": "Amazon",
-   "texto": "🔥 Carrinho Travel System Magnific Trio Safety 1st (opção de cor)\n💰 por R$ 1.300,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CRZ8FZBP?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793815171.0,
-   "expira": true,
+   "id": "shopee:58153016769",
+   "loja": "Shopee",
+   "texto": "🔥 Conjunto de Bebê Menino Básica Masculino Roupa de Bebê Menino Básico…\n💰 de R$ 50,00 por R$ 19,99 (-60%)\n⭐ Nota 4,81 | ❤️ 399 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F58153016769&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793818965.4060845,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820me-mudtmd1191c0eb"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
