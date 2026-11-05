@@ -23,16 +23,17 @@
    }
   },
   {
-   "id": "amazon:B0D8S9X2DR",
-   "loja": "Amazon",
-   "texto": "🔥 Sabonete Glicerinado Granado 90g cada (12 unidades)\n💰 por R$ 67,23\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D8S9X2DR?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793901359.0,
-   "expira": true,
+   "id": "shopee:54059733570",
+   "loja": "Shopee",
+   "texto": "🔥 Berço Portátil Moises Co-bed Com Balanço Mosquiteiro e Cesto Regulagem de Altura\n💰 de R$ 1.399,99 por R$ 519,99 (-63%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1738554586%2F54059733570&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793905712.377888,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/cn-11134207-820l4-mtp2du4cnjsw9c"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
