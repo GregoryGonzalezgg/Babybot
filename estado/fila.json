@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B094SMZT6W",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Huggies Little Swimmers M/G 10 Un\n💰 por R$ 38,99\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B094SMZT6W?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 25.0,
-   "criado": 1793909294.0,
-   "expira": true,
+   "id": "shopee:58260059433",
+   "loja": "Shopee",
+   "texto": "🔥 Série dos Bebês com Fantasias de Fadas do Bosque – Epoch\n💰 de R$ 119,99 por R$ 49,99 (-58%)\n⭐ Nota 5 | ❤️ 46 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1162387686%2F58260059433&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 73.0,
+   "criado": 1793910254.2239382,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820l8-mnu3rhnr7pj603"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
