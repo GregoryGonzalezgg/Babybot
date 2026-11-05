@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:19799311532",
+   "loja": "Shopee",
+   "texto": "🔥 Fralda Descartável Cremer Magic Care Hiper G 60 Tiras\n💰 de R$ 74,12 por R$ 47,99 (-35%)\n⭐ Nota 4,92 | ❤️ 4,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F683941545%2F19799311532&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 90.7,
+   "criado": 1793919001.311695,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8259j-muw649u76t56fc"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
