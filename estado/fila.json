@@ -45,17 +45,27 @@
    }
   },
   {
-   "id": "shopee:20098139348",
-   "loja": "Shopee",
-   "texto": "🔥 Carrinho Ivy Gold Travel System Galzerano c/ Bebê Conforto\n💰 de R$ 2.819,70 por R$ 1.699,99 (-40%)\n⭐ Nota 5 | ❤️ 56 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1479622710%2F20098139348&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 61.8,
-   "criado": 1793903940.760686,
-   "expira": false,
+   "id": "amazon:B07G5PMJ42",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Mili Baby XG 36 Unidades\n💰 por R$ 34,19\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07G5PMJ42?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 81.1,
+   "criado": 1793901929.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-7req8-m8wpbcwn512af4"
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B09RG96HZ6",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Colher Silicone Buba\n💰 por R$ 18,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09RG96HZ6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793903672.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
