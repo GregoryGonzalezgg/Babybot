@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:57356983342",
+   "loja": "Shopee",
+   "texto": "🔥 3 Peças/set De Correntes De Clipe De Chupeta De Bebê , Tiras De Conexão…\n💰 de R$ 37,79 por R$ 13,99 (-63%)\n⭐ Nota 4,95\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1527551831%2F57356983342&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793908434.5077002,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8259y-mr8kmj81x3bb75"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
