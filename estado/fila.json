@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B08DJSPFFX",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda-Calça MamyPoko Cuidado Real M 68 Unidades\n💰 por R$ 84,45\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08DJSPFFX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 25.0,
-   "criado": 1793893524.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07THDVKQP",
    "loja": "Amazon",
    "texto": "🔥 Almofada De Atividades Buba\n💰 por R$ 68,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07THDVKQP?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -45,17 +34,6 @@
    }
   },
   {
-   "id": "amazon:B07G5PMJ42",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Mili Baby XG 36 Unidades\n💰 por R$ 34,19\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07G5PMJ42?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 81.1,
-   "criado": 1793901929.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B09RG96HZ6",
    "loja": "Amazon",
    "texto": "🔥 Kit Colher Silicone Buba\n💰 por R$ 18,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09RG96HZ6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -65,7 +43,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:20799889069",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Fralda Descartável Babysec UltraSec Hiper XXG 48 Unidades - 2 Unidades\n💰 de R$ 215,73 por R$ 129,99 (-40%)\n⭐ Nota 4,91 | ❤️ 270 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F683941545%2F20799889069&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1793904512.0710492,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8259d-mui3wijzc7i952"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
