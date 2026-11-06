@@ -23,16 +23,17 @@
    }
   },
   {
-   "id": "amazon:B0CWP8DDYD",
-   "loja": "Amazon",
-   "texto": "🔥 Kit 3 Mamadeira Pétala Philips Avent, Rosa (125ml, 260ml e 330ml)\n💰 por R$ 159,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CWP8DDYD?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793991463.0,
-   "expira": true,
+   "id": "shopee:23698357519",
+   "loja": "Shopee",
+   "texto": "🔥 Carrinho de Bebê Guarda Chuva Passeio Leve Compacto Recém-Nascido Beetle Mint…\n💰 de R$ 799,00 por R$ 499,00 (-38%)\n⭐ Nota 5 | ❤️ 127 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1419417476%2F23698357519&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 60.5,
+   "criado": 1793992054.430033,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ll-mui50dql7i0wfc"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
