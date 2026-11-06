@@ -1,28 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0GW9KBRP8",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Babysec Aqua G/XG 8 unidades\n💰 por R$ 20,10\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0GW9KBRP8?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 55.0,
-   "criado": 1793977150.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
-   "id": "amazon:B0BCHWGG5P",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Personal Baby Protect Sec G 60 Unidades\n💰 por R$ 49,54\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BCHWGG5P?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 87.0,
-   "criado": 1793982012.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07D2FRG8B",
    "loja": "Amazon",
    "texto": "🔥 Copos para Armazenamento de Leite 180ml Philips Avent 10 peças\n💰 por R$ 59,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07D2FRG8B?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -87,7 +65,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:23098343141",
+   "loja": "Shopee",
+   "texto": "🔥 Cama Montessoriana de Solteiro Linha Affetto Marrom/Aveiro Oak/Branco Aveiro…\n💰 de R$ 717,50 por R$ 489,98 (-32%)\n⭐ Nota 4,98 | ❤️ 873 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F855489892%2F23098343141&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 57.0,
+   "criado": 1793988134.5870123,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-822wu-mo61wvsc50y040"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
