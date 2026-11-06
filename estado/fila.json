@@ -1,4 +1,94 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B0GW9KBRP8",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Babysec Aqua G/XG 8 unidades\n💰 por R$ 20,10\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0GW9KBRP8?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1793977150.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0BCHWGG5P",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Personal Baby Protect Sec G 60 Unidades\n💰 por R$ 49,54\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BCHWGG5P?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 87.0,
+   "criado": 1793982012.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07D2FRG8B",
+   "loja": "Amazon",
+   "texto": "🔥 Copos para Armazenamento de Leite 180ml Philips Avent 10 peças\n💰 por R$ 59,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07D2FRG8B?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793982020.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08S574X6D",
+   "loja": "Amazon",
+   "texto": "🔥 Tapete Para Banho Dino Buba Colorido - Buba\n💰 por R$ 37,82\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08S574X6D?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793982468.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08RJV9NQQ",
+   "loja": "Amazon",
+   "texto": "🔥 Bomba Manual Coletora de Leite Lillo Mamy\n💰 por R$ 41,89\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08RJV9NQQ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793984775.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07FQ69758",
+   "loja": "Amazon",
+   "texto": "🔥 Copo Antivazamento Magic cup 230ml NUK 360\n💰 por R$ 26,98\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FQ69758?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793986413.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B00FG6KBMA",
+   "loja": "Amazon",
+   "texto": "🔥 Escova para Mamadeiras e bico Philips Avent\n💰 por R$ 29,85\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B00FG6KBMA?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1793986895.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:58205192446",
+   "loja": "Shopee",
+   "texto": "🔥 Fralda Descartável Babysec Galinha Pintadinha Ultrasec Giga G 80 Unidades\n💰 de R$ 134,87 por R$ 89,99 (-33%)\n⭐ Nota 4,92 | ❤️ 2,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F683941545%2F58205192446&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 44.3,
+   "criado": 1793987544.092399,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-82592-mudzktrz2n0q1d"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
