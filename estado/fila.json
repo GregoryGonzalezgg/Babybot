@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:45307093725",
+   "loja": "Shopee",
+   "texto": "🔥 Cômoda Infantil com Trocador 4 Gavetas Guarda Roupa Bebê Multifuncional Quarto…\n💰 de R$ 859,00 por R$ 472,45 (-45%)\n⭐ Nota 4,88 | ❤️ 1,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1467752495%2F45307093725&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 65.0,
+   "criado": 1794007758.5964797,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lw-mor9oahki5fq96"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
