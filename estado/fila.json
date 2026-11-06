@@ -23,16 +23,17 @@
    }
   },
   {
-   "id": "amazon:B07Z9T391J",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Babysec UltraSec XG 56 unidades\n💰 por R$ 47,21\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07Z9T391J?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 95.0,
-   "criado": 1793992215.0,
-   "expira": true,
+   "id": "shopee:23798040910",
+   "loja": "Shopee",
+   "texto": "🔥 Brinquedo Chocalho Infantil Animal Coala C/ Mordedor e Ventosa Para Bebes -…\n💰 de R$ 24,99 por R$ 16,99 (-32%)\n⭐ Nota 4,93 | ❤️ 1,3 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F446413605%2F23798040910&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 57.2,
+   "criado": 1793992650.9397588,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ll-mrbzk5bp44ck67"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
