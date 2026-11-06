@@ -34,16 +34,17 @@
    }
   },
   {
-   "id": "amazon:B07FQ69758",
-   "loja": "Amazon",
-   "texto": "🔥 Copo Antivazamento Magic cup 230ml NUK 360\n💰 por R$ 26,98\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FQ69758?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1793986413.0,
-   "expira": true,
+   "id": "shopee:22097857838",
+   "loja": "Shopee",
+   "texto": "🔥 Carrinho de Bebê Speed Passeio Reclinável com Cinto 5 Pontos e Capota Solar –…\n💰 de R$ 1.500,00 por R$ 449,99 (-70%)\n⭐ Nota 4,95 | ❤️ 3,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1352493725%2F22097857838&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1793990534.5571723,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820l9-moie8a5ehe6e68"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
