@@ -1,4 +1,28 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B0H3LWGP5Y",
+   "loja": "Amazon",
+   "texto": "🔥 Prato para Refeição Car Mimo Style\n💰 por R$ 4,36\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0H3LWGP5Y?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794061900.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:22592462316",
+   "loja": "Shopee",
+   "texto": "🔥 Fralda Turma da Mônica Baby Mega XG com 42un\n💰 de R$ 67,33 por R$ 38,16 (-43%)\n⭐ Nota 4,9 | ❤️ 1,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F528273775%2F22592462316&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 86.5,
+   "criado": 1794070091.6510885,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-820mv-mnwyivshmdqa1a"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
