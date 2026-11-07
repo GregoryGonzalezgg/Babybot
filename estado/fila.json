@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0H3LWGP5Y",
-   "loja": "Amazon",
-   "texto": "🔥 Prato para Refeição Car Mimo Style\n💰 por R$ 4,36\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0H3LWGP5Y?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794061900.0,
-   "expira": true,
+   "id": "shopee:50602583828",
+   "loja": "Shopee",
+   "texto": "🔥 Escolha Seu Conjunto de Bebê Menina Infantil Feminino Verão Manga Curta Roupa…\n💰 de R$ 50,00 por R$ 24,90 (-50%)\n⭐ Nota 4,88 | ❤️ 293 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F50602583828&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.1,
+   "criado": 1794071263.057899,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lb-muahyc3azw8w18"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
