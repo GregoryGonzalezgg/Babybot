@@ -12,17 +12,16 @@
    }
   },
   {
-   "id": "shopee:22592462316",
-   "loja": "Shopee",
-   "texto": "🔥 Fralda Turma da Mônica Baby Mega XG com 42un\n💰 de R$ 67,33 por R$ 38,16 (-43%)\n⭐ Nota 4,9 | ❤️ 1,1 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F528273775%2F22592462316&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 86.5,
-   "criado": 1794070091.6510885,
-   "expira": false,
+   "id": "amazon:B0D92P2V3M",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Cremer XG, 24 Unidades\n💰 por R$ 22,83\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D92P2V3M?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 81.1,
+   "criado": 1794061525.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-820mv-mnwyivshmdqa1a"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
