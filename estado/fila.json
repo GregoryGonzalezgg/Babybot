@@ -12,16 +12,17 @@
    }
   },
   {
-   "id": "amazon:B0D92P2V3M",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Cremer XG, 24 Unidades\n💰 por R$ 22,83\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D92P2V3M?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 81.1,
-   "criado": 1794061525.0,
-   "expira": true,
+   "id": "shopee:27642465483",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 2, 6 ou 8 Peças Sortidas Conjunto Regata Bebê Menino Infantil Masculino…\n💰 de R$ 39,87 por R$ 24,90 (-38%)\n⭐ Nota 4,89 | ❤️ 3,3 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F27642465483&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 60.5,
+   "criado": 1794070662.8146808,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m5-mnoisdp4vugxbc"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
