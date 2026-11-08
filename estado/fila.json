@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:26925847507",
+   "loja": "Shopee",
+   "texto": "🔥 Copo de Treinamento/Transição Infantil para Bebês e Crianças 160ml - ColorBaby\n💰 de R$ 50,00 por R$ 29,99 (-40%)\n⭐ Nota 4,89 | ❤️ 597 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1352493725%2F26925847507&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.0,
+   "criado": 1794157103.9669337,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820l9-mt8evuwe1iww7f"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
