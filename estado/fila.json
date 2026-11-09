@@ -111,7 +111,19 @@
     "chat": "@parceiromagaludivulgador",
     "msg": 78303
    }
+  },
+  {
+   "id": "shopee:22999417283",
+   "loja": "Shopee",
+   "texto": "🔥 Travesseiro Anti Sufocante Bebê Kit com 2 Capas Algodão Seguro\n💰 de R$ 49,90 por R$ 22,47 (-55%)\n⭐ Nota 4,81\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F377622430%2F22999417283&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 71.0,
+   "criado": 1794260234.3763783,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820l5-mm6et7vy9ybk96"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
