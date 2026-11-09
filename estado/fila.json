@@ -34,17 +34,6 @@
    }
   },
   {
-   "id": "amazon:B07G9HL5Q8",
-   "loja": "Amazon",
-   "texto": "🔥 Mili Fralda Baby Jumbo P - 36 Unidades\n💰 por R$ 24,69\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07G9HL5Q8?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 83.2,
-   "criado": 1794263558.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0B7K83GYL",
    "loja": "Amazon",
    "texto": "🔥 Personal Fralda Soft Protect Hiper XXG, 50 Unidades\n💰 por R$ 52,24\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B7K83GYL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -54,7 +43,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:23493268762",
+   "loja": "Shopee",
+   "texto": "🔥 Babador Branco Descartável Hospflex Impermeável 100 Unidades para Odontologia\n💰 de R$ 42,00 por R$ 26,90 (-36%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1317369126%2F23493268762&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 59.6,
+   "criado": 1794264155.4113688,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134211-820lq-muuqnr906rcxd6"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
