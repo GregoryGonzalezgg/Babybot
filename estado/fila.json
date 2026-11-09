@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:23698783309",
-   "loja": "Shopee",
-   "texto": "🔥 Kit Chupeta Alimentadora + Colher Dosadora + Colher Termômetro Introdução…\n💰 de R$ 69,90 por R$ 42,18 (-40%)\n⭐ Nota 4,93\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F770296472%2F23698783309&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 61.8,
-   "criado": 1794268073.4826255,
-   "expira": false,
+   "id": "amazon:B0FML6RMFC",
+   "loja": "Amazon",
+   "texto": "🔥 Canetinha Hidrográfica Unicórnio Faber-Castell\n💰 por R$ 25,27\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FML6RMFC?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794268371.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-md0hvmujkoj626"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
