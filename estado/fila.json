@@ -1,4 +1,116 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B0FMS891HB",
+   "loja": "Amazon",
+   "texto": "🔥 Lego Creator 3 em 1 Hamster 166 peças\n💰 por R$ 53,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FMS891HB?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794251132.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0DGTQBP89",
+   "loja": "Amazon",
+   "texto": "🔥 Chupeta Ultra Air Dupla 6-18 Meses -Avent\n💰 por R$ 57,59\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DGTQBP89?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794252015.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B089VSR1KR",
+   "loja": "Amazon",
+   "texto": "🔥 Babador de Silicone Buba Gumy Com Pega Migalhas\n💰 por R$ 18,89\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B089VSR1KR?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794252323.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07G3HWFQL",
+   "loja": "Amazon",
+   "texto": "🔥 Aspirador Nasal Com Estojo Transparente Buba\n💰 por R$ 17,09\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07G3HWFQL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794253518.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B098P66LGV",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Trava Multiuso Flexivel Buba\n💰 por R$ 31,81\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B098P66LGV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794253980.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07FPWJHN7",
+   "loja": "Amazon",
+   "texto": "🔥 Baby Carrier Natural Fit 3 em 1 - NUK, Cinza\n💰 por R$ 125,86\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FPWJHN7?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794255162.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B09SP2WJV6",
+   "loja": "Amazon",
+   "texto": "🔥 Cadeirinha i-NXT 0 a 36kg com Giro 360 e Isofix Safety 1st\n💰 por R$ 1.257,27\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09SP2WJV6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794256653.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07FLGY9PL",
+   "loja": "Amazon",
+   "texto": "🔥 Garrafinha Fresh Buba\n💰 por R$ 20,56\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FLGY9PL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794257828.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0DMFL21QM",
+   "loja": "Amazon",
+   "texto": "🔥 Algodão Quadrado Amamente Baby 50 Unidades\n💰 por R$ 12,51\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DMFL21QM?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794259267.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:22198425727",
+   "loja": "Shopee",
+   "texto": "🔥 Berço Portátil Triton Galzerano Cercado e Chiqueirinho Bebê\n💰 de R$ 733,04 por R$ 499,00 (-32%)\n⭐ Nota 4,93 | ❤️ 1,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1479622710%2F22198425727&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 57.2,
+   "criado": 1794259643.1470041,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7repx-m8ml2zewmso7e2"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
