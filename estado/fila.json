@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B089VSR1KR",
-   "loja": "Amazon",
-   "texto": "🔥 Babador de Silicone Buba Gumy Com Pega Migalhas\n💰 por R$ 18,89\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B089VSR1KR?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794252323.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07G3HWFQL",
    "loja": "Amazon",
    "texto": "🔥 Aspirador Nasal Com Estojo Transparente Buba\n💰 por R$ 17,09\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07G3HWFQL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -54,19 +43,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:58269976808",
-   "loja": "Shopee",
-   "texto": "🔥 Grade de Cama Proteção 68x54cm Bebê Criança Idoso Cama Box e Normal\n💰 de R$ 98,90 por R$ 59,90 (-39%)\n⭐ Nota 5 | ❤️ 63 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1315857028%2F58269976808&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 61.7,
-   "criado": 1794262954.3640914,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820lg-mu12ttjqafpc7a"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
