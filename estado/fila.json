@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0FMS891HB",
-   "loja": "Amazon",
-   "texto": "🔥 Lego Creator 3 em 1 Hamster 166 peças\n💰 por R$ 53,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FMS891HB?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794251132.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0DGTQBP89",
    "loja": "Amazon",
    "texto": "🔥 Chupeta Ultra Air Dupla 6-18 Meses -Avent\n💰 por R$ 57,59\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DGTQBP89?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -78,17 +67,6 @@
    }
   },
   {
-   "id": "amazon:B07FLGY9PL",
-   "loja": "Amazon",
-   "texto": "🔥 Garrafinha Fresh Buba\n💰 por R$ 20,56\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FLGY9PL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794257828.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0B1GZ4M3Y",
    "loja": "Amazon",
    "texto": "🔥 Fralda Premium Babysec P 34 Unidades\n💰 por R$ 31,60\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B1GZ4M3Y?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -98,7 +76,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:23194408574",
+   "loja": "Shopee",
+   "texto": "🔥 Troninho Penico Infantil Bebê Desfralde Boop - Maxi Baby\n💰 de R$ 179,90 por R$ 119,00 (-34%)\n⭐ Nota 5 | ❤️ 206 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F828882817%2F23194408574&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 58.3,
+   "criado": 1794262034.4313273,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-824g5-mepzc6p4z8xufb"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
