@@ -23,16 +23,17 @@
    }
   },
   {
-   "id": "amazon:B0B7K83GYL",
-   "loja": "Amazon",
-   "texto": "🔥 Personal Fralda Soft Protect Hiper XXG, 50 Unidades\n💰 por R$ 52,24\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B7K83GYL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 80.2,
-   "criado": 1794263623.0,
-   "expira": true,
+   "id": "shopee:42556304696",
+   "loja": "Shopee",
+   "texto": "🔥 Troca Roupa Divertida Brinquedo de Quebra-Cabeça MDF Urso Montessori Sensorial…\n💰 de R$ 59,90 por R$ 39,90 (-33%)\n⭐ Nota 4,95 | ❤️ 424 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F436723291%2F42556304696&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 58.0,
+   "criado": 1794264753.4060702,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820li-muce3u5mmyv5e1"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
