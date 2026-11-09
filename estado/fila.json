@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B098P66LGV",
-   "loja": "Amazon",
-   "texto": "🔥 Kit Trava Multiuso Flexivel Buba\n💰 por R$ 31,81\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B098P66LGV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794253980.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07FPWJHN7",
    "loja": "Amazon",
    "texto": "🔥 Baby Carrier Natural Fit 3 em 1 - NUK, Cinza\n💰 por R$ 125,86\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FPWJHN7?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -21,19 +10,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:42556304696",
-   "loja": "Shopee",
-   "texto": "🔥 Troca Roupa Divertida Brinquedo de Quebra-Cabeça MDF Urso Montessori Sensorial…\n💰 de R$ 59,90 por R$ 39,90 (-33%)\n⭐ Nota 4,95 | ❤️ 424 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F436723291%2F42556304696&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 58.0,
-   "criado": 1794264753.4060702,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820li-muce3u5mmyv5e1"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
