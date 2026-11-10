@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B00DZFALQ0",
-   "loja": "Amazon",
-   "texto": "🔥 Elefante Bolinhas Divertidas, Fisher Price, Mattel\n💰 por R$ 79,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B00DZFALQ0?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794340932.0,
-   "expira": true,
+   "id": "shopee:22692564994",
+   "loja": "Shopee",
+   "texto": "🔥 Fralda Pampers Confort Sec Jumbo Plus M com 148un\n💰 de R$ 227,38 por R$ 149,90 (-34%)\n⭐ Nota 4,97 | ❤️ 6,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1062557396%2F22692564994&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 45.1,
+   "criado": 1794341330.089924,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rblo-lmypvt6aoboj4c"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
