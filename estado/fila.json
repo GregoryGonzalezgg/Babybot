@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:52518390501",
+   "loja": "Shopee",
+   "texto": "🔥 Chinelo Infantil Menino Menina Sandália Confortável Bebê Original Borracha…\n💰 de R$ 49,90 por R$ 19,80 (-60%)\n⭐ Nota 4,9\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1017561479%2F52518390501&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1794343154.2181756,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8259h-mtie3nm06o7797"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
