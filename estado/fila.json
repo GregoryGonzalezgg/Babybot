@@ -34,16 +34,17 @@
    }
   },
   {
-   "id": "amazon:B0D92N4VBW",
-   "loja": "Amazon",
-   "texto": "🔥 Fralda Cremer G, 30 Unidades\n💰 por R$ 23,65\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D92N4VBW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 92.1,
-   "criado": 1794335786.0,
-   "expira": true,
+   "id": "shopee:52120134960",
+   "loja": "Shopee",
+   "texto": "🔥 Body alcinha menina bebe\n💰 de R$ 39,99 por R$ 15,20 (-62%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F400241470%2F52120134960&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1794336203.9224458,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134201-820ln-muweeuo6vldv0f"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
