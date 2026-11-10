@@ -23,17 +23,27 @@
    }
   },
   {
-   "id": "shopee:50619528353",
-   "loja": "Shopee",
-   "texto": "🔥 Jogo de Pescaria magnética de madeira Brinquedo pescaria Educacional de Madeira…\n💰 de R$ 70,00 por R$ 25,90 (-63%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1480010673%2F50619528353&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1794335615.8993173,
-   "expira": false,
+   "id": "amazon:B0DC1YLD3X",
+   "loja": "Amazon",
+   "texto": "🔥 Leite em Pó Integral Instantâneo Betânia 750g\n💰 por R$ 28,25\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DC1YLD3X?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794335766.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/cn-11134207-820l4-muiw65izottw85"
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0D92N4VBW",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Cremer G, 30 Unidades\n💰 por R$ 23,65\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D92N4VBW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 92.1,
+   "criado": 1794335786.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
