@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0G1N9VVTF",
-   "loja": "Amazon",
-   "texto": "🔥 Capa de Chuva Infantil Premium em EVA Impermeável STYD Unissex (Diversas Cores)\n💰 por R$ 23,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0G1N9VVTF?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794345915.0,
-   "expira": true,
+   "id": "shopee:24340811169",
+   "loja": "Shopee",
+   "texto": "🔥 Berço Portátil Bebê Moisés Co Bed com Mosquiteiro Colchão Balanço e Trava nas…\n💰 de R$ 2.999,99 por R$ 629,90 (-79%)\n⭐ Nota 4,95 | ❤️ 55 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F390278034%2F24340811169&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1794347694.4864964,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820l4-mrkpc2mnwr2d1a"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
