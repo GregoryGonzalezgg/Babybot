@@ -1,4 +1,39 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B0D8JW4PWS",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Lenço Umedecido Granado Bebê Tradicional 4 Pacotes de 50 Unidades\n💰 por R$ 38,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D8JW4PWS?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1794325562.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B000W02FM4",
+   "loja": "Amazon",
+   "texto": "🔥 Jogo de Talheres Infantil Tramontina aço inox 3 Peças\n💰 por R$ 31,01\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B000W02FM4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794334644.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:50619528353",
+   "loja": "Shopee",
+   "texto": "🔥 Jogo de Pescaria magnética de madeira Brinquedo pescaria Educacional de Madeira…\n💰 de R$ 70,00 por R$ 25,90 (-63%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1480010673%2F50619528353&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1794335615.8993173,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/cn-11134207-820l4-muiw65izottw85"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
