@@ -1,4 +1,50 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B0BLJ4FDT4",
+   "loja": "Amazon",
+   "texto": "🔥 LEGO Creator Ônibus Espacial 3em1 Nave Espacial (144 peças)\n💰 por R$ 63,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BLJ4FDT4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794414543.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07VMNQC4P",
+   "loja": "Amazon",
+   "texto": "🔥 Cadeira de Refeição Portátil Smart Cosco Cinza\n💰 por R$ 108,21\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07VMNQC4P?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794418596.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0D92N963G",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Cremer P, 36 Unidades\n💰 por R$ 23,64\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D92N963G?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 88.5,
+   "criado": 1794412419.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:22594412454",
+   "loja": "Shopee",
+   "texto": "🔥 Conjunto Desfralde Bebê Troninho Ursinho E Assento Redutor Privada Infantil…\n💰 de R$ 40,99 por R$ 20,98 (-49%)\n⭐ Nota 4,89\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F399898771%2F22594412454&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 67.3,
+   "criado": 1794421815.0580664,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lc-mtp9rm3r5loid4"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
