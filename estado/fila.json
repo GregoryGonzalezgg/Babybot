@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23398201419",
+   "loja": "Shopee",
+   "texto": "🔥 Chinelo Infantil Baby 101 Dálmatas Disney Conforto Lançamento\n💰 de R$ 59,99 por R$ 34,98 (-42%)\n⭐ Nota 4,94 | ❤️ 80 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F448506781%2F23398201419&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 63.0,
+   "criado": 1794429339.9686954,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rcdp-m67azbmh5bb421"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
