@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:58205468197",
+   "loja": "Shopee",
+   "texto": "🔥 Travel System Galzerano Napoli 1452 Com Base para Carro Trio Preto e Cobre\n💰 de R$ 1.731,90 por R$ 1.169,90 (-32%)\n⭐ Nota 4,98 | ❤️ 340 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F554629856%2F58205468197&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 57.5,
+   "criado": 1794427521.0106332,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-82617-mkwqx9z7oflv26"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
