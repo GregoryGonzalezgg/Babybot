@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22694848171",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Higiene Bebê Porcelana com Abajur Coração Personalizado Menino Menina\n💰 de R$ 250,00 por R$ 85,00 (-66%)\n⭐ Nota 4,77\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F464239402%2F22694848171&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1794356135.894358,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk4ly096e0ht69"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
