@@ -45,16 +45,17 @@
    }
   },
   {
-   "id": "amazon:8543106591",
-   "loja": "Amazon",
-   "texto": "🔥 Livro Emocionário Diga o que você sente\n💰 por R$ 44,41\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/8543106591?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794507973.0,
-   "expira": true,
+   "id": "shopee:58268190978",
+   "loja": "Shopee",
+   "texto": "🔥 ANA1108 presilia de Cabelo Infantil Estrela Garotas Pentagrama Grampo Bebê…\n💰 de R$ 20,00 por R$ 11,01 (-45%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1674930832%2F58268190978&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 65.0,
+   "criado": 1794511854.123862,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lu-mt5beqfopjph9b"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
