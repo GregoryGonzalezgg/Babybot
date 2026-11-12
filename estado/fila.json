@@ -45,17 +45,16 @@
    }
   },
   {
-   "id": "shopee:58268190978",
-   "loja": "Shopee",
-   "texto": "🔥 ANA1108 presilia de Cabelo Infantil Estrela Garotas Pentagrama Grampo Bebê…\n💰 de R$ 20,00 por R$ 11,01 (-45%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1674930832%2F58268190978&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 65.0,
-   "criado": 1794511854.123862,
-   "expira": false,
+   "id": "amazon:B0DFQJQGPL",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Pampers Pants Ajuste Total XXXG 108 Unidades\n💰 por R$ 155,49\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DFQJQGPL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 45.0,
+   "criado": 1794512139.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820lu-mt5beqfopjph9b"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
