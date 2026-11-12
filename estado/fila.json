@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0F2GJHNCV",
-   "loja": "Amazon",
-   "texto": "🔥 Shampoo Huggies Super Crespinhos Pantera Negra 360ml\n💰 por R$ 10,14\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F2GJHNCV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794504938.0,
-   "expira": true,
+   "id": "shopee:19798317737",
+   "loja": "Shopee",
+   "texto": "🔥 Shorts Saia Fashion Bebê Feminino Lilica Ripilica\n💰 de R$ 179,00 por R$ 89,50 (-50%)\n⭐ Nota 5 | ❤️ 33 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F980954412%2F19798317737&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1794514594.4082112,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8227i-mhkzvsxwd0jm49"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
