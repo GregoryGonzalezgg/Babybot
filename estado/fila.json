@@ -1,30 +1,6 @@
 {
  "itens": [
   {
-   "id": "magalu:242459000 242458700 242458600 242459100 242459200 242458900 240420500 242458800 242459300 240420800 240421300 241933200 241933500 241934100 241900100 241900200 241900900 241898000 241899600 238286100 238285500 238285400 238285900 241898800 241898900 241899000 241899900 241900000 241900800 241900700 241898600 238987300 240169200 240168700 241933400 241933300 241933600 238960400 241897900 241900600 241901000 241899700 241898700 241898500 241900500 238987100 238987400",
-   "loja": "Magalu",
-   "texto": "🔥 10% OFF em uma seleção de itens de Bebês\n🎟️ Cupom: EXCLUSIVO\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/242459000/)\n🛍️ [👉 Opção 2 na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/242458700/)\n🛍️ [👉 Opção 3 na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/242458600/)\n🛍️ [👉 Ver os outros 44 modelos na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro)\n⚠️ Cupom por tempo limitado, aplique no carrinho",
-   "nota": 55.0,
-   "criado": 1794507357.0,
-   "expira": true,
-   "foto": {
-    "tipo": "telegram",
-    "chat": "@parceiromagaludivulgador",
-    "msg": 78464
-   }
-  },
-  {
-   "id": "amazon:B076YXM2M4",
-   "loja": "Amazon",
-   "texto": "🔥 Talco Em Gel Dermocalmante Granado 80g\n💰 por R$ 39,80\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B076YXM2M4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794499213.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0F2GJHNCV",
    "loja": "Amazon",
    "texto": "🔥 Shampoo Huggies Super Crespinhos Pantera Negra 360ml\n💰 por R$ 10,14\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F2GJHNCV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -100,7 +76,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:22794279946",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 4/8/12 Coração de Pelúcia Presente Mãe Professoras Namorados Páscoa Bebê…\n💰 de R$ 40,00 por R$ 19,90 (-50%)\n⭐ Nota 4,95\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1229930160%2F22794279946&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.2,
+   "criado": 1794510054.2470293,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcw0a3ej0lc152"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Magalu"
 }
