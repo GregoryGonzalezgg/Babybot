@@ -1,17 +1,128 @@
 {
  "itens": [
   {
-   "id": "shopee:22591943405",
-   "loja": "Shopee",
-   "texto": "🔥 Montessori Crianças Geometria Forma De Corresponde Ao Treinamento De…\n💰 de R$ 120,00 por R$ 54,50 (-55%)\n⭐ Nota 4,9\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F396673677%2F22591943405&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 70.8,
-   "criado": 1794443248.3627253,
-   "expira": false,
+   "id": "magalu:242459000 242458700 242458600 242459100 242459200 242458900 240420500 242458800 242459300 240420800 240421300 241933200 241933500 241934100 241900100 241900200 241900900 241898000 241899600 238286100 238285500 238285400 238285900 241898800 241898900 241899000 241899900 241900000 241900800 241900700 241898600 238987300 240169200 240168700 241933400 241933300 241933600 238960400 241897900 241900600 241901000 241899700 241898700 241898500 241900500 238987100 238987400",
+   "loja": "Magalu",
+   "texto": "🔥 10% OFF em uma seleção de itens de Bebês\n🎟️ Cupom: EXCLUSIVO\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/242459000/)\n🛍️ [👉 Opção 2 na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/242458700/)\n🛍️ [👉 Opção 3 na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/242458600/)\n🛍️ [👉 Ver os outros 44 modelos na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro)\n⚠️ Cupom por tempo limitado, aplique no carrinho",
+   "nota": 55.0,
+   "criado": 1794507357.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-7qvd4-ljuuhxad05h0d7"
+    "tipo": "telegram",
+    "chat": "@parceiromagaludivulgador",
+    "msg": 78464
+   }
+  },
+  {
+   "id": "amazon:B079VTM6KR",
+   "loja": "Amazon",
+   "texto": "🔥 Creme para Prevenção de Assaduras Cetrilan Theraskin 40g\n💰 por R$ 34,39\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B079VTM6KR?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794498419.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0B2CYXPMX",
+   "loja": "Amazon",
+   "texto": "🔥 Andador e Triciclo 5 em 1 Here I Grow Tiny Love\n💰 por R$ 273,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B2CYXPMX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794498922.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B076YXM2M4",
+   "loja": "Amazon",
+   "texto": "🔥 Talco Em Gel Dermocalmante Granado 80g\n💰 por R$ 39,80\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B076YXM2M4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794499213.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0F2GJHNCV",
+   "loja": "Amazon",
+   "texto": "🔥 Shampoo Huggies Super Crespinhos Pantera Negra 360ml\n💰 por R$ 10,14\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F2GJHNCV?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794504938.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0DHYMS5TW",
+   "loja": "Amazon",
+   "texto": "🔥 Lixeira Antiodor Azul Buba\n💰 por R$ 125,40\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DHYMS5TW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794505742.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0CMVY12MK",
+   "loja": "Amazon",
+   "texto": "🔥 Cadeira para Carro TurboBooster 2.0 LX com Sistema LATCH Gannon Graco\n💰 por R$ 628,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CMVY12MK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794507012.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08K2YFNDW",
+   "loja": "Amazon",
+   "texto": "🔥 Carrinho de Bebê Gêmeos Ready2Grow LX 2.0 CZ, Graco\n💰 por R$ 1.898,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08K2YFNDW?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794507537.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:8543106591",
+   "loja": "Amazon",
+   "texto": "🔥 Livro Emocionário Diga o que você sente\n💰 por R$ 44,41\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/8543106591?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794507973.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:1680436309",
+   "loja": "Amazon",
+   "texto": "🔥 Livro A Fantástica História de Deus Para Você\n💰 por R$ 16,62\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/1680436309?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794508296.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:8516088200",
+   "loja": "Amazon",
+   "texto": "🔥 Livro O menino que aprendeu a ver\n💰 por R$ 34,08\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/8516088200?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794508747.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
