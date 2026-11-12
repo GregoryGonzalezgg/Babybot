@@ -56,16 +56,17 @@
    }
   },
   {
-   "id": "amazon:1680436309",
-   "loja": "Amazon",
-   "texto": "🔥 Livro A Fantástica História de Deus Para Você\n💰 por R$ 16,62\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/1680436309?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794508296.0,
-   "expira": true,
+   "id": "shopee:19097006086",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 3 Macacão Infantil Vira Pé Bebê Estampado Menino Menina\n💰 de R$ 99,90 por R$ 69,90 (-30%)\n⭐ Nota 4,91 | ❤️ 21,5 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F435692544%2F19097006086&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 56.0,
+   "criado": 1794511254.242499,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m6-mtfodwdnuubmf6"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
