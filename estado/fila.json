@@ -14,17 +14,6 @@
    }
   },
   {
-   "id": "amazon:B0B2CYXPMX",
-   "loja": "Amazon",
-   "texto": "🔥 Andador e Triciclo 5 em 1 Here I Grow Tiny Love\n💰 por R$ 273,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0B2CYXPMX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794498922.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B076YXM2M4",
    "loja": "Amazon",
    "texto": "🔥 Talco Em Gel Dermocalmante Granado 80g\n💰 por R$ 39,80\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B076YXM2M4?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -111,19 +100,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:23198879368",
-   "loja": "Shopee",
-   "texto": "🔥 Pote Térmico Degradê Infantil Com Talher Buba\n💰 de R$ 199,98 por R$ 107,90 (-46%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F279269613%2F23198879368&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 65.6,
-   "criado": 1794509455.158963,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-824it-medel41lgd8m3a"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
