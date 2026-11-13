@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:22498747499",
-   "loja": "Shopee",
-   "texto": "🔥 Saída Maternidade Tricot Premium Completa com Manta, Jardineira, Casaco, Touca…\n💰 de R$ 299,90 por R$ 129,90 (-57%)\n⭐ Nota 4,9\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F403764703%2F22498747499&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 72.0,
-   "criado": 1794597818.6102967,
-   "expira": false,
+   "id": "amazon:B0BTTMTDBK",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Personal Baby Total Protect Pants Super XXG, 36 unidades\n💰 por R$ 54,75\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BTTMTDBK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1794597834.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-81z1k-mesog6i1srnk37"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
