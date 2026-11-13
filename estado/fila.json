@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0CKPQWL9V",
-   "loja": "Amazon",
-   "texto": "🔥 Kit 3 Mamadeiras Clássica Anticólica 125/260/330ml Rosa Philips Avent\n💰 por R$ 93,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CKPQWL9V?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794603131.0,
-   "expira": true,
+   "id": "shopee:20598888287",
+   "loja": "Shopee",
+   "texto": "🔥 Babuche Tênis Infantil Menina Bebê Cadarço Calce Fácil Leve Macio…\n💰 de R$ 59,99 por R$ 34,80 (-42%)\n⭐ Nota 4,96 | ❤️ 471 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F369969715%2F20598888287&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 63.2,
+   "criado": 1794603535.4231212,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-ll12pyo25m2n64"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
