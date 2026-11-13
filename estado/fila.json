@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:58264997143",
-   "loja": "Shopee",
-   "texto": "🔥 conjunto menina huntrax - blusa e short saia - conjunto de verão\n💰 de R$ 87,40 por R$ 48,07 (-45%)\n⭐ Nota 4,98\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1652416553%2F58264997143&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 65.0,
-   "criado": 1794606893.5507982,
-   "expira": false,
+   "id": "amazon:B0F6VYLNHT",
+   "loja": "Amazon",
+   "texto": "🔥 Marmita Hermética Disney Minnie 630ml Plasútil\n💰 por R$ 15,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F6VYLNHT?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794606923.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820mh-mr3aev05g26f3b"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
