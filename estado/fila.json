@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0F6VYLNHT",
-   "loja": "Amazon",
-   "texto": "🔥 Marmita Hermética Disney Minnie 630ml Plasútil\n💰 por R$ 15,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0F6VYLNHT?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794606923.0,
-   "expira": true,
+   "id": "shopee:22394880391",
+   "loja": "Shopee",
+   "texto": "🔥 Ruido Branco Bebe Aparelho Som Útero Ninar Relaxante Dormir Branco\n💰 de R$ 123,00 por R$ 69,80 (-43%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1737953340%2F22394880391&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 64.0,
+   "criado": 1794607493.6685345,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lc-mlepfdxukah286"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
