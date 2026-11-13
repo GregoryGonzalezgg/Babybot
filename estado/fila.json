@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:20397098478",
-   "loja": "Shopee",
-   "texto": "🔥 Botinha Galochinha bebe 17 ao 24 ref.10\n💰 de R$ 69,00 por R$ 29,99 (-57%)\n⭐ Nota 4,88\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F304417629%2F20397098478&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 71.9,
-   "criado": 1794602936.4538343,
-   "expira": false,
+   "id": "amazon:B0CKPQWL9V",
+   "loja": "Amazon",
+   "texto": "🔥 Kit 3 Mamadeiras Clássica Anticólica 125/260/330ml Rosa Philips Avent\n💰 por R$ 93,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CKPQWL9V?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794603131.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-matx6t37wuexd5"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
