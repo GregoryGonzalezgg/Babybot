@@ -10,7 +10,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:22298811105",
+   "loja": "Shopee",
+   "texto": "🔥 MINI MOTO ELETRICA 6V TRIUMPH ROCKET 3GT AZUL - IMPORTWAY\n💰 de R$ 1.461,34 por R$ 749,90 (-49%)\n⭐ Nota 5 | ❤️ 79 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1051446617%2F22298811105&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 67.2,
+   "criado": 1794599017.5515246,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rdvz-md3lzifuhs53ae"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
