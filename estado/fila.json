@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:19899678748",
+   "loja": "Shopee",
+   "texto": "🔥 Cadeira de Descanso Móbile Com Musical e Vibração Suave da Zippy Toys\n💰 de R$ 349,90 por R$ 169,90 (-51%)\n⭐ Nota 5 | ❤️ 49 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F504754787%2F19899678748&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.9,
+   "criado": 1794686147.873485,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84uog9q5hjl9d"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
