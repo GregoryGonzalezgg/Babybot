@@ -23,16 +23,17 @@
    }
   },
   {
-   "id": "amazon:B01LYCDVES",
-   "loja": "Amazon",
-   "texto": "🔥 Sacos de Armazenamento de Leite Materno Philips Avent, 25 unidades\n💰 por R$ 50,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B01LYCDVES?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794854035.0,
-   "expira": true,
+   "id": "shopee:58266603091",
+   "loja": "Shopee",
+   "texto": "🔥 Conjunto De Talheres Infantil De Aço Inoxidável Colher e garfo com Estojo bebê\n💰 de R$ 30,00 por R$ 13,99 (-53%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1675001393%2F58266603091&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 70.0,
+   "criado": 1794862979.8980722,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8259k-ms4j4umop8n927"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
