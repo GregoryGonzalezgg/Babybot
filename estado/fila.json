@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B08LQ8SY8G",
-   "loja": "Amazon",
-   "texto": "🔥 Copo Trainer 220ml MAM\n💰 por R$ 57,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08LQ8SY8G?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794851753.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0D292HCS7",
    "loja": "Amazon",
    "texto": "🔥 Fórmula infantil Aptanutri Soja 3 800g\n💰 por R$ 83,84\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D292HCS7?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -43,19 +32,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:23299201443",
-   "loja": "Shopee",
-   "texto": "🔥 Vestido para Bebê em Laise Up Baby\n💰 de R$ 290,90 por R$ 116,36 (-60%)\n⭐ Nota 5 | ❤️ 30 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F337974126%2F23299201443&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 74.0,
-   "criado": 1794862414.7170954,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-822yy-mi0kw5faqfpf1a"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
