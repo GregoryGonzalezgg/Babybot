@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B08KGP6M7F",
-   "loja": "Amazon",
-   "texto": "🔥 Extrator De Leite Elétrico Fisher Price\n💰 por R$ 398,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08KGP6M7F?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794853586.0,
-   "expira": true,
+   "id": "shopee:42364386217",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Bebe 20 Peças De Roupas Menina Infantil - 10 Conjuntos de verão - 10 Blusas…\n💰 de R$ 307,00 por R$ 169,90 (-45%)\n⭐ Nota 4,95 | ❤️ 881 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F42364386217&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 64.8,
+   "criado": 1794864179.889577,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ly-mmkqk73jypdye6"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
