@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0FJ2TTT76",
-   "loja": "Amazon",
-   "texto": "🔥 Travel System Safety 1st, Mobi Duo, Grey Denim Silver\n💰 por R$ 1.350,00\n🎟️ Cupom: ESQUENTABEBE\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FJ2TTT76?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 55.0,
-   "criado": 1794949262.0,
-   "expira": true,
+   "id": "shopee:21757612120",
+   "loja": "Shopee",
+   "texto": "🔥 Quarto Infantil com Berço e Cômoda Multimóveis Pimpolho FG3569 Branco\n💰 de R$ 1.469,90 por R$ 899,99 (-39%)\n⭐ Nota 4,86 | ❤️ 616 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F308628919%2F21757612120&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 61.3,
+   "criado": 1794949663.062185,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-22100-5v00d8ga44ivb1"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
