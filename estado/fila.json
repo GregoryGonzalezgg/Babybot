@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:58218279161",
-   "loja": "Shopee",
-   "texto": "🔥 Brinquedo Montessori Bebê Madeira Trem Interativo Blocos de Empilhar e Puxar…\n💰 de R$ 199,90 por R$ 139,90 (-30%)\n⭐ Nota 5 | ❤️ 326 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F624228750%2F58218279161&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 56.0,
-   "criado": 1794949064.0850859,
-   "expira": false,
+   "id": "amazon:B0FJ2TTT76",
+   "loja": "Amazon",
+   "texto": "🔥 Travel System Safety 1st, Mobi Duo, Grey Denim Silver\n💰 por R$ 1.350,00\n🎟️ Cupom: ESQUENTABEBE\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FJ2TTT76?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1794949262.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-825ap-mt82iigr4glhfd"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
