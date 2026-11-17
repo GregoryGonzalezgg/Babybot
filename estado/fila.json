@@ -1,17 +1,16 @@
 {
  "itens": [
   {
-   "id": "shopee:58250024294",
-   "loja": "Shopee",
-   "texto": "🔥 Premium Toalhas Umedecidas Puro Amor Box Com 500 Toalhas\n💰 de R$ 99,80 por R$ 58,99 (-41%)\n⭐ Nota 4,87\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F284907991%2F58250024294&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 62.5,
-   "criado": 1794957843.353902,
-   "expira": false,
+   "id": "amazon:B086V2KGH5",
+   "loja": "Amazon",
+   "texto": "🔥 Mordedor Escovinha Azul/Roxo Elka\n💰 por R$ 12,88\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B086V2KGH5?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1794957900.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-825aq-mg8db1sfgn48f4"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
