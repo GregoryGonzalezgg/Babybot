@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B086V2KGH5",
-   "loja": "Amazon",
-   "texto": "🔥 Mordedor Escovinha Azul/Roxo Elka\n💰 por R$ 12,88\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B086V2KGH5?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1794957900.0,
-   "expira": true,
+   "id": "shopee:7754407917",
+   "loja": "Shopee",
+   "texto": "🔥 kit bolsa bebê luxo maternidade com porta mamadeira e trocador várias cores\n💰 de R$ 205,00 por R$ 123,00 (-40%)\n⭐ Nota 4,88\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F308196215%2F7754407917&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 62.0,
+   "criado": 1794958442.413238,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ma-mtpmfxo8hz403f"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
