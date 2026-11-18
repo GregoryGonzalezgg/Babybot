@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23292470807",
+   "loja": "Shopee",
+   "texto": "🔥 Babador Silicone Infantil Bandana Impermeável Para Bebê Migalhas Menina Blw…\n💰 de R$ 34,00 por R$ 15,99 (-53%)\n⭐ Nota 4,93\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F365740855%2F23292470807&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.8,
+   "criado": 1795037979.9994662,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98s-lm5rxokbq19y27"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
