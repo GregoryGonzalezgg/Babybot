@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B08FTV2J5Z",
-   "loja": "Amazon",
-   "texto": "🔥 Repelente Elétrico Raid Líquido 45 Noites Family Aparelho + Refil\n💰 por R$ 14,95\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08FTV2J5Z?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795019423.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0BCTC7FL7",
    "loja": "Amazon",
    "texto": "🔥 Escova de Dente Elétrica ORAL-B\n💰 por R$ 160,07\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BCTC7FL7?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -21,19 +10,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:58272248066",
-   "loja": "Shopee",
-   "texto": "🔥 Cortador Aparador De Unha Elétrico Bebe Infantil Pé Mão Cinza\n💰 de R$ 69,90 por R$ 28,66 (-59%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1923121854%2F58272248066&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 73.4,
-   "criado": 1795030130.468251,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820m3-mv4pcy0c4p36f7"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
