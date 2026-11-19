@@ -56,17 +56,6 @@
    }
   },
   {
-   "id": "amazon:B0FFTGT6VX",
-   "loja": "Amazon",
-   "texto": "🔥 Travel System Safety 1st Spark Plus\n💰 por R$ 957,45\n🎟️ Cupom: 20BLACKPRIME\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FFTGT6VX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 55.0,
-   "criado": 1795113026.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B076VYL3PX",
    "loja": "Amazon",
    "texto": "🔥 Termômetro Digital de Ponta Flexível G-Tech\n💰 por R$ 15,56\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B076VYL3PX?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -76,7 +65,30 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "amazon:B08DJSZL4V",
+   "loja": "Amazon",
+   "texto": "🔥 MamyPoko Fralda-Calça Premium Seca Xxg 44 Unidades\n💰 por R$ 85,40\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08DJSZL4V?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1795116807.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:44208138054",
+   "loja": "Shopee",
+   "texto": "🔥 Babador De Alimentação Limpo Para Bebês , Meninos E Meninas , À Prova D'água ,…\n💰 de R$ 75,83 por R$ 41,71 (-45%)\n⭐ Nota 4,92\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1520887274%2F44208138054&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 65.0,
+   "criado": 1795116966.799605,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mc1r77xf60a476"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
