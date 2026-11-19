@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0778T3SRK",
-   "loja": "Amazon",
-   "texto": "🔥 Lápis de Cor Sextavado BIC Evolution 24 Cores\n💰 por R$ 16,49\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0778T3SRK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795109679.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B08DJSZL4V",
    "loja": "Amazon",
    "texto": "🔥 MamyPoko Fralda-Calça Premium Seca Xxg 44 Unidades\n💰 por R$ 85,40\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08DJSZL4V?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -21,19 +10,7 @@
    "foto": {
     "tipo": "previa"
    }
-  },
-  {
-   "id": "shopee:22594197292",
-   "loja": "Shopee",
-   "texto": "🔥 Kit Babador Bebê Karinho Flanelado e Plastificado – Feminino Masculino Neutro\n💰 de R$ 27,09 por R$ 15,12 (-44%)\n⭐ Nota 4,91\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F479353326%2F22594197292&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 64.5,
-   "criado": 1795120284.2487788,
-   "expira": false,
-   "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134201-820lh-mqxprl0sfwudff"
-   }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
