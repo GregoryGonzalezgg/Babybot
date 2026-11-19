@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23698692567",
+   "loja": "Shopee",
+   "texto": "🔥 Maleta de Brinquedos Montessori Busy Board, Aprendizado de Vida para Crianças…\n💰 de R$ 150,00 por R$ 49,49 (-67%)\n⭐ Nota 4,92\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1484279813%2F23698692567&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1795127221.0484002,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820m0-mtowmu5u0s1v25"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
