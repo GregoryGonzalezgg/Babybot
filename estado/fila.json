@@ -23,17 +23,6 @@
    }
   },
   {
-   "id": "amazon:B07NF9PCTQ",
-   "loja": "Amazon",
-   "texto": "🔥 Inalador e Nebulizador de Ar Compact Branco G-TECH DC2\n💰 por R$ 88,91\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07NF9PCTQ?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795112647.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B08DJSZL4V",
    "loja": "Amazon",
    "texto": "🔥 MamyPoko Fralda-Calça Premium Seca Xxg 44 Unidades\n💰 por R$ 85,40\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08DJSZL4V?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -43,7 +32,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:22697366140",
+   "loja": "Shopee",
+   "texto": "🔥 Chinelo baby com elástico bebê super confortável fácil de usar menina menino…\n💰 de R$ 49,99 por R$ 19,99 (-60%)\n⭐ Nota 4,73\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F308613054%2F22697366140&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1795119684.011723,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lx-ml6gswmu9wqs9c"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
