@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:18099049820",
+   "loja": "Shopee",
+   "texto": "🔥 Berço 3 em 1 e Guarda-Roupas 4 Portas 1 Gaveta Multimóveis MP4144\n💰 de R$ 1.229,99 por R$ 899,99 (-27%)\n⭐ Nota 4,88 | ❤️ 12 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F308628919%2F18099049820&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 54.1,
+   "criado": 1795046740.1545231,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rbkb-lnbnpwu260uydc"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
