@@ -78,17 +78,16 @@
    }
   },
   {
-   "id": "shopee:44208138054",
-   "loja": "Shopee",
-   "texto": "🔥 Babador De Alimentação Limpo Para Bebês , Meninos E Meninas , À Prova D'água ,…\n💰 de R$ 75,83 por R$ 41,71 (-45%)\n⭐ Nota 4,92\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1520887274%2F44208138054&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 65.0,
-   "criado": 1795116966.799605,
-   "expira": false,
+   "id": "amazon:B0GHP6DWBN",
+   "loja": "Amazon",
+   "texto": "🔥 Lixeira Antiodor Oikos\n💰 por R$ 92,72\n🎟️ Cupom: 20BLACKPRIME\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0GHP6DWBN?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 55.0,
+   "criado": 1795117068.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-mc1r77xf60a476"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
