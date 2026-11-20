@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B00AI5NZDG",
-   "loja": "Amazon",
-   "texto": "🔥 Gel Dental Weleda 50ml\n💰 por R$ 32,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B00AI5NZDG?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795195422.0,
-   "expira": true,
+   "id": "shopee:44104152329",
+   "loja": "Shopee",
+   "texto": "🔥 Macacão para bebê Tricô Guilherme\n💰 de R$ 99,90 por R$ 69,90 (-30%)\n⭐ Nota 4,96 | ❤️ 2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F432637056%2F44104152329&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 56.0,
+   "criado": 1795203656.0614188,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lo-muc137z278chfd"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
