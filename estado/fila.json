@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0D2M5T8C6",
-   "loja": "Amazon",
-   "texto": "🔥 Massinha de Modelar Sorveteria Play-Doh\n💰 por R$ 94,04\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D2M5T8C6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795190962.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B00TPMDLOG",
    "loja": "Amazon",
    "texto": "🔥 Kit Fun Tub Play-Doh 19 Acessórios\n💰 por R$ 93,41\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B00TPMDLOG?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -56,16 +45,17 @@
    }
   },
   {
-   "id": "amazon:B0CGBNCPC5",
-   "loja": "Amazon",
-   "texto": "🔥 Burigotto Banheira Splash+ Rose Madder\n💰 por R$ 377,89\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CGBNCPC5?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795197847.0,
-   "expira": true,
+   "id": "shopee:58204181834",
+   "loja": "Shopee",
+   "texto": "🔥 Camiseta Branca Blusa Infantil Estampa Caminhão Trator Escavadeira\n💰 de R$ 69,90 por R$ 34,95 (-50%)\n⭐ Nota 4,93\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1614890881%2F58204181834&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1795201855.3309774,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-825zm-mk05l68jbpc815"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
