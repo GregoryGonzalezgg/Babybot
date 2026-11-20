@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22897639591",
+   "loja": "Shopee",
+   "texto": "🔥 Cadeira Infantil Dinossauro Madeira Montessori Mobiliário Quarto Criança Kit…\n💰 de R$ 279,30 por R$ 209,48 (-25%)\n⭐ Nota 5 | ❤️ 332 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F763724888%2F22897639591&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 53.0,
+   "criado": 1795215753.5610788,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lr-mrbnfrkouf4583"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
