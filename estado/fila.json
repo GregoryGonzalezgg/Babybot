@@ -1,4 +1,83 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B0D2M5T8C6",
+   "loja": "Amazon",
+   "texto": "🔥 Massinha de Modelar Sorveteria Play-Doh\n💰 por R$ 94,04\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0D2M5T8C6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795190962.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B00TPMDLOG",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Fun Tub Play-Doh 19 Acessórios\n💰 por R$ 93,41\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B00TPMDLOG?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795191468.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:6561260643",
+   "loja": "Amazon",
+   "texto": "🔥 Bluey Maletinha Divertida\n💰 por R$ 16,74\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/6561260643?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795192284.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B00AI5NZDG",
+   "loja": "Amazon",
+   "texto": "🔥 Gel Dental Weleda 50ml\n💰 por R$ 32,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B00AI5NZDG?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795195422.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07TWXMG3T",
+   "loja": "Amazon",
+   "texto": "🔥 Sabonete Líquido Lava Tudinho Bioclub 300ml\n💰 por R$ 24,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07TWXMG3T?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795196366.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0CGBNCPC5",
+   "loja": "Amazon",
+   "texto": "🔥 Burigotto Banheira Splash+ Rose Madder\n💰 por R$ 377,89\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CGBNCPC5?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795197847.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:23498919301",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Saída Maternidade Macacão e Touca Bebê Menina Inverno Suedine Recem nascido…\n💰 de R$ 59,99 por R$ 27,58 (-54%)\n⭐ Nota 4,89\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F592308960%2F23498919301&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 70.4,
+   "criado": 1795201266.3443108,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-825a2-meyekly8tblw9a"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
