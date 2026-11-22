@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:12609136896",
+   "loja": "Shopee",
+   "texto": "🔥 Kit com 2 Sabonete Líquido Johnson's Baby Hora do Sono 400ml\n💰 de R$ 112,06 por R$ 77,77 (-31%)\n⭐ Nota 5 | ❤️ 547 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F528273775%2F12609136896&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 56.4,
+   "criado": 1795381410.2934628,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/282253b628e3410378ae8617b7a4121d"
+   }
+  }
+ ],
+ "ultima_loja": "Magalu"
 }
