@@ -43,7 +43,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:16054206943",
+   "loja": "Shopee",
+   "texto": "🔥 sapatinho bebê menino cinza e branco sapato recem nascido batizado\n💰 de R$ 45,00 por R$ 29,25 (-35%)\n⭐ Nota 4,93\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F346694466%2F16054206943&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 59.0,
+   "criado": 1795473623.8074117,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/4a0eb291113506330971dfa196276a57"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
