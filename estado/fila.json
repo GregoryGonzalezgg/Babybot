@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22997738021",
+   "loja": "Shopee",
+   "texto": "🔥 Calça Infantil Menino Toddler Chino Hering Kids\n💰 de R$ 159,99 por R$ 109,99 (-31%)\n⭐ Nota 5 | ❤️ 48 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1281598928%2F22997738021&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 56.8,
+   "criado": 1795476346.8881843,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-7rdxi-lzgjactxafjcd2"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
