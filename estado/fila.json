@@ -34,16 +34,17 @@
    }
   },
   {
-   "id": "amazon:B08SC6VQS6",
-   "loja": "Amazon",
-   "texto": "🔥 Prendedor de Chupeta Buba Leão\n💰 por R$ 9,39\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08SC6VQS6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795467646.0,
-   "expira": true,
+   "id": "shopee:23499778894",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Fralda Descartável Babysec Premium Shortinho Hiper XG 42 Unidades - 2…\n💰 de R$ 188,97 por R$ 132,99 (-30%)\n⭐ Nota 4,96 | ❤️ 152 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F683941545%2F23499778894&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1795474222.8521028,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8258w-mui3xieyfu2o9d"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
