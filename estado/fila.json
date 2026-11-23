@@ -1,4 +1,72 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B0DHD93PCM",
+   "loja": "Amazon",
+   "texto": "🔥 Conjunto de massinha Little Chef Play-Doh\n💰 por R$ 48,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0DHD93PCM?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795462337.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B09SVT8LM9",
+   "loja": "Amazon",
+   "texto": "🔥 Massinha Brincando de Dentista Play-Doh\n💰 por R$ 28,41\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B09SVT8LM9?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795463433.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0BVZW56VL",
+   "loja": "Amazon",
+   "texto": "🔥 Cadeira de Alimentação Nick Rose Até 23kg Galzerano\n💰 por R$ 227,90\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BVZW56VL?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795464832.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0FS9JDYYP",
+   "loja": "Amazon",
+   "texto": "🔥 Toalha Umedecida Personalidade Baby Plus 200 unidades\n💰 por R$ 20,95\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0FS9JDYYP?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795465817.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08SC6VQS6",
+   "loja": "Amazon",
+   "texto": "🔥 Prendedor de Chupeta Buba Leão\n💰 por R$ 9,39\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08SC6VQS6?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795467646.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:6890226558",
+   "loja": "Shopee",
+   "texto": "🔥 Mochila Feminino Maternidade Bolsa Mamãe Bebê Multifunção\n💰 de R$ 66,99 por R$ 37,99 (-43%)\n⭐ Nota 4,84\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F283185672%2F6890226558&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 64.0,
+   "criado": 1795473032.6173112,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzbwqymgv91xa7"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
