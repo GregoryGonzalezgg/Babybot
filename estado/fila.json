@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:24598463113",
+   "loja": "Shopee",
+   "texto": "🔥 Verão 0-24M Crianças Roupas Bebê Recém-Nascido Menina Macacão Conjunto De Manga…\n💰 de R$ 115,67 por R$ 63,62 (-45%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F784923310%2F24598463113&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 65.0,
+   "criado": 1795560586.236386,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-8258m-msmpeq6pr4eh3f"
+   }
+  }
+ ],
+ "ultima_loja": "Magalu"
 }
