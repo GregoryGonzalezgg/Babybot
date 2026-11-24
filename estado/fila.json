@@ -1,18 +1,17 @@
 {
  "itens": [
   {
-   "id": "magalu:ha1kk1a033",
-   "loja": "Magalu",
-   "texto": "🔥 Carro Eletrico Infantil Veículo com Luz Música Bateria 12v e Controle Remoto\n💰 por R$ 499,80 no Pix\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/ha1kk1a033/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795478482.0,
-   "expira": true,
+   "id": "shopee:58272226201",
+   "loja": "Shopee",
+   "texto": "🔥 chinelo infantil bebê com elástico de segurança macio e confortável-envio…\n💰 de R$ 49,99 por R$ 19,50 (-61%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1321468391%2F58272226201&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1795479064.9113824,
+   "expira": false,
    "foto": {
-    "tipo": "telegram",
-    "chat": "@parceiromagaludivulgador",
-    "msg": 78765
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-825a8-mv3yzg558agzcb"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Magalu"
 }
