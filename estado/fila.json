@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:23399121416",
+   "loja": "Shopee",
+   "texto": "🔥 Móbile Arco Musical Bebê Carrinho Berço Let's Play Maxi Baby\n💰 de R$ 159,90 por R$ 89,90 (-44%)\n⭐ Nota 5 | ❤️ 120 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F340054154%2F23399121416&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 64.3,
+   "criado": 1795561186.1366446,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-82581-mg863et2kgsu55"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
