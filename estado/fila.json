@@ -1,18 +1,17 @@
 {
  "itens": [
   {
-   "id": "magalu:ffc3d4001b",
-   "loja": "Magalu",
-   "texto": "🔥 Cadeira Alimentacao Alta e Baixa 12x1 e Mesa de Atividades LEGO BEBE RAGALUMA…\n💰 por R$ 569,05 no Pix\n🛍️ [👉 Ver oferta na Magalu](https://www.magazinevoce.com.br/magazinecasalbarateiro/p/ffc3d4001b/)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795561401.0,
-   "expira": true,
+   "id": "shopee:46158207613",
+   "loja": "Shopee",
+   "texto": "🔥 Conjunto, Moletom, Infantil, Bebê, Menina, Inverno, Blusa, Calça, Manga Longa,…\n💰 de R$ 61,85 por R$ 29,90 (-52%)\n⭐ Nota 4,8 | ❤️ 708 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F341167297%2F46158207613&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 69.0,
+   "criado": 1795561784.987662,
+   "expira": false,
    "foto": {
-    "tipo": "telegram",
-    "chat": "@parceiromagaludivulgador",
-    "msg": 78802
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820ln-mmqjtzahrd34cd"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Magalu"
 }
