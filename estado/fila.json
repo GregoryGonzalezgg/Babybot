@@ -1,4 +1,61 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B07XJ77K19",
+   "loja": "Amazon",
+   "texto": "🔥 Kit 3 Paninhos de Boca Papi Malha com Prendedor de Chupeta 28cm x 28cm\n💰 por R$ 15,35\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07XJ77K19?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795543696.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08PCCKR6F",
+   "loja": "Amazon",
+   "texto": "🔥 Kit Talheres Frozen Simonaggio 3 Peças\n💰 por R$ 10,73\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08PCCKR6F?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795548472.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B0CQTMBYFN",
+   "loja": "Amazon",
+   "texto": "🔥 Cabelos Coloridos com Estilo 6 massinhas com acessórios Play-Doh\n💰 por R$ 71,24\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0CQTMBYFN?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795548767.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B08HJN91RF",
+   "loja": "Amazon",
+   "texto": "🔥 Garrafa Térmica Parede Dupla 400ml Gumy Buba\n💰 por R$ 59,00\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B08HJN91RF?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795549562.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:23795697103",
+   "loja": "Shopee",
+   "texto": "🔥 Cadeira para Auto 0-36kg Reclinável Isofix Preto e Cinza - Litet\n💰 de R$ 1.385,89 por R$ 858,92 (-38%)\n⭐ Nota 4,96 | ❤️ 27,2 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F389315825%2F23795697103&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 60.8,
+   "criado": 1795554241.9907064,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820mc-muxt3v6uap6r16"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
