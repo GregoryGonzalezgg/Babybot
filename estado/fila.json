@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:25097348446",
+   "loja": "Shopee",
+   "texto": "🔥 Carrinho Passeio e Bebê Conforto Burigotto Rio 22 Preto Cobre (0 à 22Kg)\n💰 de R$ 1.753,04 por R$ 1.269,99 (-28%)\n⭐ Nota 5 | ❤️ 175 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1479622710%2F25097348446&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 54.5,
+   "criado": 1795649762.6686432,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-824j2-mfird3q4r8jx6b"
+   }
+  }
+ ],
+ "ultima_loja": "Magalu"
 }
