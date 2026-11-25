@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B089FMS454",
-   "loja": "Amazon",
-   "texto": "🔥 Copo Parede Dupla Com Canudo Animal Fun Leao Buba\n💰 por R$ 33,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B089FMS454?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795629546.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B07FNGB4FS",
    "loja": "Amazon",
    "texto": "🔥 Fralda Huggies Supreme Care Roupinha XG 24 Unidades\n💰 por R$ 33,15\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FNGB4FS?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -21,7 +10,19 @@
    "foto": {
     "tipo": "previa"
    }
+  },
+  {
+   "id": "shopee:19757607581",
+   "loja": "Shopee",
+   "texto": "🔥 Berço Cômoda para Colchão 60 x 130cm Rafael Multimóveis FG0516 Branco/Azul\n💰 de R$ 1.019,90 por R$ 629,99 (-38%)\n⭐ Nota 5 | ❤️ 81 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F308628919%2F19757607581&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 60.9,
+   "criado": 1795638908.8941705,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/sg-11134201-22100-p4stu2qr34ivc6"
+   }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
