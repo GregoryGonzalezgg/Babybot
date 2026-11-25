@@ -1,4 +1,39 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "amazon:B089FMS454",
+   "loja": "Amazon",
+   "texto": "🔥 Copo Parede Dupla Com Canudo Animal Fun Leao Buba\n💰 por R$ 33,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B089FMS454?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795629546.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "amazon:B07FNGB4FS",
+   "loja": "Amazon",
+   "texto": "🔥 Fralda Huggies Supreme Care Roupinha XG 24 Unidades\n💰 por R$ 33,15\nℹ️ Preço com condição (recorrência, parcelas ou quantidade): confira na página\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B07FNGB4FS?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 25.0,
+   "criado": 1795638295.0,
+   "expira": true,
+   "foto": {
+    "tipo": "previa"
+   }
+  },
+  {
+   "id": "shopee:13546302333",
+   "loja": "Shopee",
+   "texto": "🔥 Sabonete Líquido Protex Baby Refil 380ml\n💰 de R$ 38,40 por R$ 24,57 (-36%)\n⭐ Nota 4,91 | ❤️ 720 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F557242410%2F13546302333&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 59.6,
+   "criado": 1795638318.2969224,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/280581f982154a9dc308253667466706"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
