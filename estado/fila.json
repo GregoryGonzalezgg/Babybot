@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:12209034857",
+   "loja": "Shopee",
+   "texto": "🔥 Kit Sabonete Líquido Johnson's Baby Corpo e Cabeça 200ml c/4 unidades\n💰 de R$ 161,99 por R$ 109,86 (-32%)\n⭐ Nota 4,92 | ❤️ 2,6 mil curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F528273775%2F12209034857&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 57.3,
+   "criado": 1795733645.654022,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/f019f9d20f6f553d9d6c8b8ae232a1f8"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
