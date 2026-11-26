@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:58268685455",
+   "loja": "Shopee",
+   "texto": "🔥 Kit 12, 6 ou 3 Pares de Meias Bebê Menina com Chocalho Sensorial Pelúcia no Pé…\n💰 de R$ 69,90 por R$ 25,90 (-63%)\n⭐ Nota 5\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1095111736%2F58268685455&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 74.0,
+   "criado": 1795652780.202709,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lr-mte7epvczvupd9"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
