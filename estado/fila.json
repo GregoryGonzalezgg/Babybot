@@ -1,4 +1,17 @@
 {
- "itens": [],
- "ultima_loja": "Shopee"
+ "itens": [
+  {
+   "id": "shopee:22198411998",
+   "loja": "Shopee",
+   "texto": "🔥 Empurrador Didático Bebê 2 em 1 com Andador e Atividades Educativas – Rosa ou…\n💰 de R$ 259,99 por R$ 129,99 (-50%)\n⭐ Nota 4,83 | ❤️ 558 curtidas\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F300375300%2F22198411998&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1795898747.3665638,
+   "expira": false,
+   "foto": {
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8l21r870smpa9"
+   }
+  }
+ ],
+ "ultima_loja": "Amazon"
 }
