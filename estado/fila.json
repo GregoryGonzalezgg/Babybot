@@ -1,17 +1,6 @@
 {
  "itens": [
   {
-   "id": "amazon:B0BMS9CKWK",
-   "loja": "Amazon",
-   "texto": "🔥 Kit Talheres Silicone Buba\n💰 por R$ 19,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0BMS9CKWK?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795880899.0,
-   "expira": true,
-   "foto": {
-    "tipo": "previa"
-   }
-  },
-  {
    "id": "amazon:B0HM8BXGZR",
    "loja": "Amazon",
    "texto": "🔥 Kit 2 Bicos First Choice 6m+ Nuk\n💰 por R$ 28,40\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0HM8BXGZR?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
@@ -34,17 +23,16 @@
    }
   },
   {
-   "id": "shopee:22994748649",
-   "loja": "Shopee",
-   "texto": "🔥 Carrinho de Bebê 3 em 1 Reversível Dobrável com Amortecedor Base Veicular Luxo…\n💰 de R$ 1.099,00 por R$ 499,00 (-55%)\n⭐ Nota 4,94\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1643817998%2F22994748649&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 70.8,
-   "criado": 1795891535.0808043,
-   "expira": false,
+   "id": "amazon:6556402583",
+   "loja": "Amazon",
+   "texto": "🔥 O livro das virtudes para crianças\n💰 por R$ 42,99\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/6556402583?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 50.0,
+   "criado": 1795890219.0,
+   "expira": true,
    "foto": {
-    "tipo": "url",
-    "url": "https://cf.shopee.com.br/file/br-11134207-820ly-mn16bhiibqbm18"
+    "tipo": "previa"
    }
   }
  ],
- "ultima_loja": "Amazon"
+ "ultima_loja": "Shopee"
 }
