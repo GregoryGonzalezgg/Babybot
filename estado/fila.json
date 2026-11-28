@@ -1,16 +1,17 @@
 {
  "itens": [
   {
-   "id": "amazon:B0HM8BXGZR",
-   "loja": "Amazon",
-   "texto": "🔥 Kit 2 Bicos First Choice 6m+ Nuk\n💰 por R$ 28,40\n🛍️ [👉 Ver oferta na Amazon](https://www.amazon.com.br/dp/B0HM8BXGZR?&linkCode=ll2&tag=totuxababy-20&ref_=as_li_ss_tl)\n⚠️ Preço e estoque podem mudar a qualquer momento",
-   "nota": 50.0,
-   "criado": 1795882253.0,
-   "expira": true,
+   "id": "shopee:58261640717",
+   "loja": "Shopee",
+   "texto": "🔥 Conjunto Tricot Premium Bebê Menino Blusa Polo Manga Curta Shorts Clássico…\n💰 de R$ 119,90 por R$ 59,98 (-50%)\n⭐ Nota 4,98\n🛍️ [👉 Ver oferta na Shopee](https://s.shopee.com.br/an_redir?origin_link=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1834008345%2F58261640717&affiliate_id=18373760431&sub_id=totuxababy)\n⚠️ Preço e estoque podem mudar a qualquer momento",
+   "nota": 68.0,
+   "criado": 1795893304.1594746,
+   "expira": false,
    "foto": {
-    "tipo": "previa"
+    "tipo": "url",
+    "url": "https://cf.shopee.com.br/file/br-11134207-820lg-motsyxbc40li0e"
    }
   }
  ],
- "ultima_loja": "Shopee"
+ "ultima_loja": "Amazon"
 }
